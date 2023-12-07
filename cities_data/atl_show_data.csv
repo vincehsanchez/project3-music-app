@@ -1,0 +1,103 @@
+Show_ID,Performing,date,time,genre,venue,city,state,long,lat
+0,Sydney Sprague,2023-12-06,18:30:00,Rock,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+1,Mike and the Moonpies,2023-12-06,20:00:00,Country,The Loft,Atlanta,GA,-84.3877907,33.7918926
+2,Sarah Brightman: A Christmas Symphony,2023-12-06,20:00:00,Pop,Atlanta Symphony Hall,Atlanta,GA,-84.385493,33.790098
+3,Pardyalone - I Left You In Minnesota Tour,2023-12-06,20:00:00,Hip-Hop/Rap,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+4,Jazmin Bean,2023-12-07,19:00:00,Metal,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+5,Nevertel,2023-12-07,19:00:00,Rock,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+6,The Wood Brothers,2023-12-07,19:30:00,Other,Georgia Theatre,Athens,GA,-83.347504,34.005199
+7,HARDY: the mockingbird & THE CROW Fall Tour presented by eBay Motors,2023-12-07,19:30:00,Country,Enmarket Arena,Savannah,GA,-81.11227,32.07514
+8,The Allman Betts Family Revival,2023-12-07,19:30:00,Rock,Macon City Auditorium,Macon,GA,-83.631201,32.837381
+9,The Moss,2023-12-07,20:00:00,Alternative,Terminal West,Atlanta,GA,-84.446404,33.791901
+10,49 Winchester,2023-12-07,20:00:00,Other,Variety Playhouse,Atlanta,GA,-84.334602,33.770199
+11,Majid Jordan - Good People Live,2023-12-07,20:00:00,Dance/Electronic,Center Stage Theater,Atlanta,GA,-84.3877907,33.7918926
+12,85 South Show Live,2023-12-07,20:00:00,Other,Gateway Center Arena,College Park,GA,-84.457475,33.645576
+13,JoJo Hermann,2023-12-07,20:00:00,Rock,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+14,Angel Olsen,2023-12-08,19:00:00,Alternative,40 Watt Club,Athens,GA,-83.347504,34.005199
+15,Katatonia,2023-12-08,19:00:00,Metal,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+16,"The Fab Four performs The Beatles' ""Rubber Soul""",2023-12-08,19:30:00,Undefined,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+17,2023 WOODZ WORLD TOUR 'OO-LI and',2023-12-08,19:30:00,Pop,Gas South Arena,Duluth,GA,-84.0907288,33.9869191
+18,Trap Karaoke: Atlanta,2023-12-08,20:00:00,Hip-Hop/Rap,Tabernacle,Atlanta,GA,-84.391449,33.758688
+19,Ginger Root,2023-12-08,20:00:00,Other,Variety Playhouse,Atlanta,GA,-84.334602,33.770199
+20,Frute & Kendall Street Company,2023-12-08,20:00:00,Jazz,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+21,Sexyy Red N Friends,2023-12-08,20:00:00,Hip-Hop/Rap,Savannah Civic Center - Johnny Mercer Theatre,Savannah,GA,-81.0977944,32.0784855
+22,85 South Show Live,2023-12-08,20:00:00,Other,Gateway Center Arena,College Park,GA,-84.457475,33.645576
+23,DURRY,2023-12-08,20:00:00,Rock,The Loft,Atlanta,GA,-84.3877907,33.7918926
+24,Jazz At Lincoln Center Orchestra w/ Wynton Marsalis: Big Band Holidays,2023-12-08,20:00:00,Jazz,Atlanta Symphony Hall,Atlanta,GA,-84.385493,33.790098
+25,Giddy Up | 18+,2023-12-08,21:00:00,Country,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+26,Zeke Beats,2023-12-08,22:00:00,Other,Believe Music Hall,Atlanta,GA,-84.375397,33.744301
+27, NEFFEX - Born To Be a Rockstar: The World Tour 2023.,2023-12-09,19:00:00,Dance/Electronic,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+28,"The Fab Four performs The Beatles' ""Rubber Soul""",2023-12-09,19:30:00,Undefined,Savannah Civic Center - Johnny Mercer Theatre,Savannah,GA,-81.0977944,32.0784855
+29,The Holiday Jam feat. the Superstars of Southern Soul,2023-12-09,19:30:00,Blues,JAMES BROWN ARENA,Augusta,GA,-81.9664047,33.4685982
+30,Pasadena,2023-12-09,20:00:00,Country,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+31,Princess Goes,2023-12-09,20:00:00,Rock,District Live,Savannah,GA,-81.09616,32.08444
+32,Dirty Dancing in Concert,2023-12-09,20:00:00,Other,Macon City Auditorium,Macon,GA,-83.631201,32.837381
+33,SunSquabi w/ Jason Leech,2023-12-09,21:00:00,Dance/Electronic,Terminal West,Atlanta,GA,-84.446404,33.791901
+34,Take On Me  18+,2023-12-09,21:00:00,Dance/Electronic,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+35,Eazybaked,2023-12-09,22:00:00,Other,Believe Music Hall,Atlanta,GA,-84.375397,33.744301
+36,J. Worra,2023-12-09,22:00:00,Other,Believe Music Hall,Atlanta,GA,-84.375397,33.744301
+37,Trans-Siberian Orchestra - The Ghosts Of Christmas Eve,2023-12-10,14:00:00,Rock,Gas South Arena,Duluth,GA,-84.0907288,33.9869191
+38,Savage Ga$p Presents: Haunted House Fest,2023-12-10,19:00:00,Hip-Hop/Rap,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+39,Trans-Siberian Orchestra - The Ghosts Of Christmas Eve,2023-12-10,19:00:00,Rock,Gas South Arena,Duluth,GA,-84.0907288,33.9869191
+40,"The Fab Four performs The Beatles' ""Rubber Soul""",2023-12-10,19:30:00,Undefined,Columbia County Performing Arts Center,Evans,GA,-82.127644,33.543925
+41,Megan Moroney,2023-12-10,20:00:00,Country,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+42,Ella Vos: The Microdose Tour,2023-12-11,19:00:00,Rock,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+43,10 Years,2023-12-12,19:00:00,Rock,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+44,IL Divo,2023-12-12,19:30:00,Pop,Fox Theatre - Atlanta,Atlanta,GA,-84.377403,33.7714
+45,The Mountain Goats,2023-12-12,20:00:00,Other,Georgia Theatre,Athens,GA,-83.347504,34.005199
+46,Urban Heat,2023-12-13,19:00:00,Rock,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+47,Rod Wave - Nostalgia Tour,2023-12-13,20:00:00,Hip-Hop/Rap,State Farm Arena,Atlanta,GA,-84.394569,33.757796
+48,Ryan Trey,2023-12-14,19:00:00,Hip-Hop/Rap,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+49,Power 96.1s Jingle Ball Presented By Capital One,2023-12-14,19:30:00,Rock,State Farm Arena,Atlanta,GA,-84.394569,33.757796
+50,Eggy,2023-12-14,20:30:00,Other,Aisle 5,Atlanta,GA,-84.334602,33.770199
+51,Eggy,2023-12-14,20:30:00,Rock,Aisle 5,Atlanta,GA,-84.350224,33.764272
+52,TwiggyWill & Friends,2023-12-14,21:00:00,R&B,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+53,ESPN Band Of The Year National Championship ,2023-12-15,18:00:00,Other,Mercedes-Benz Stadium,Atlanta,GA,-84.400823,33.755389
+54,Savannah Cristina,2023-12-15,19:00:00,R&B,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+55,CHUU - Howl In USA ,2023-12-15,19:30:00,Pop,Coca-Cola Roxy,Atlanta,GA,-84.469717,33.89024
+56,The Vegabonds,2023-12-15,20:00:00,Alternative,Terminal West,Atlanta,GA,-84.446404,33.791901
+57,Corey Smith,2023-12-15,20:00:00,Country,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+58,Kevin Gates - Only The Generals Tour,2023-12-15,20:00:00,Hip-Hop/Rap,JAMES BROWN ARENA,Augusta,GA,-81.9664047,33.4685982
+59,Mae,2023-12-15,20:00:00,Rock,The Loft,Atlanta,GA,-84.3877907,33.7918926
+60,V103 Winterfest,2023-12-15,20:00:00,Hip-Hop/Rap,State Farm Arena,Atlanta,GA,-84.394569,33.757796
+61,Sugar: The Nu Metal Party | 18+,2023-12-15,21:00:00,Metal,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+62,Perreo 404 Xmas | 21+,2023-12-15,22:00:00,Dance/Electronic,The Masquerade - Heaven,Atlanta,GA,-84.389681,33.751769
+63,Tab Benoit w/ Dirty Dozen Brass Band,2023-12-16,20:00:00,Blues,Variety Playhouse,Atlanta,GA,-84.334602,33.770199
+64,Stephen Sanchez,2023-12-16,20:00:00,Other,The Eastern-GA,Atlanta,GA,-84.332802,33.7136
+65,The Minks,2023-12-16,20:00:00,Undefined,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+66,Jungle Bells 2023: 25th Anniversary | 18+,2023-12-16,20:00:00,Hip-Hop/Rap,The Masquerade Music Park,Atlanta,GA,-84.36556265,33.77108082
+67,MIXTAPE: That's My Jam! Tour,2023-12-16,20:00:00,Rock,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+68,Yacht Rock Revue - Yacht Rock Holiday Special,2023-12-16,20:00:00,Rock,Coca-Cola Roxy,Atlanta,GA,-84.469717,33.89024
+69,Walker and Royce,2023-12-16,22:00:00,Other,Believe Music Hall,Atlanta,GA,-84.375397,33.744301
+70,Ricky Skaggs,2023-12-17,18:00:00,Country,The Eastern-GA,Atlanta,GA,-84.332802,33.7136
+71,Holiday Hootenanny,2023-12-17,19:00:00,Country,Variety Playhouse,Atlanta,GA,-84.334602,33.770199
+72,Steve Miller Band w/ Samantha Fish,2023-12-17,19:00:00,Rock,Fox Theatre - Atlanta,Atlanta,GA,-84.377403,33.7714
+73,John Berry,2023-12-17,19:00:00,Other,Classic Center Theatre,Athens,GA,-83.347504,34.005199
+74,Odie Leigh,2023-12-17,19:00:00,Folk,The Masquerade - Purgatory,Atlanta,GA,-84.389887,33.75184
+75,One Night of Tina: A Tina Turner Tribute Show,2023-12-17,19:30:00,Rock,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+76,Agnostic Front,2023-12-18,19:00:00,Rock,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+77,Dogstar,2023-12-19,20:00:00,Rock,Center Stage Theater,Atlanta,GA,-84.3877907,33.7918926
+78,Samara Joy: A Joyful Holiday,2023-12-19,20:00:00,Jazz,Atlanta Symphony Hall,Atlanta,GA,-84.385493,33.790098
+79,John Driskell Hopkins' Sounds of The Season,2023-12-20,20:00:00,Country,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+80,Gregory Porter,2023-12-21,20:00:00,Blues,Fox Theatre - Atlanta,Atlanta,GA,-84.377403,33.7714
+81,Sonny & THE7EVENTHTIME Album Release Party,2023-12-21,20:00:00,R&B,The Loft,Atlanta,GA,-84.3877907,33.7918926
+82,Celtic Woman: A Christmas Symphony,2023-12-21,20:00:00,World,Atlanta Symphony Hall,Atlanta,GA,-84.385493,33.790098
+83,5TH AMNDMNT: ATL Featuring Homixide Gang,2023-12-22,19:00:00,Hip-Hop/Rap,The Masquerade - Heaven,Atlanta,GA,-84.389681,33.751769
+84,The Spinners,2023-12-22,20:00:00,Country,The Eastern-GA,Atlanta,GA,-84.332802,33.7136
+85,Teddy Swims - Kegsmas 2023,2023-12-22,20:00:00,Pop,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+86,Celtic Woman: A Christmas Symphony,2023-12-22,20:00:00,World,Atlanta Symphony Hall,Atlanta,GA,-84.385493,33.790098
+87,ATL Collective,2023-12-22,20:30:00,Undefined,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+88,Lil Baby & Friends,2023-12-27,19:00:00,Hip-Hop/Rap,State Farm Arena,Atlanta,GA,-84.394569,33.757796
+89,T.I.-A Night celebrating 20 years of Trap Muzik ,2023-12-28,20:00:00,Hip-Hop/Rap,Atlanta Symphony Hall,Atlanta,GA,-84.385493,33.790098
+90,lunar vacation,2023-12-29,19:00:00,Pop,The Masquerade - Hell,Atlanta,GA,-84.389887,33.75184
+91,Sound Tribe Sector 9,2023-12-29,20:00:00,Dance/Electronic,The Eastern-GA,Atlanta,GA,-84.332802,33.7136
+92,Widespread Panic,2023-12-29,20:00:00,Blues,Fox Theatre - Atlanta,Atlanta,GA,-84.377403,33.7714
+93,SaxKixAve & 12Eleven,2023-12-29,20:00:00,Hip-Hop/Rap,Vinyl,Atlanta,GA,-84.3877907,33.7918926
+94,T.I.-A Night celebrating 20 years of Trap Muzik ,2023-12-29,20:00:00,Hip-Hop/Rap,Atlanta Symphony Hall,Atlanta,GA,-84.385493,33.790098
+95,Bee Gees Gold Tribute to The Bee Gees,2023-12-29,20:00:00,Undefined,Gas South Theater,Duluth,GA,-84.0907288,33.9869191
+96,Mother's Finest,2023-12-29,20:00:00,Rock,Buckhead Theatre,Atlanta,GA,-84.3795437,33.8402272
+97,Blackberry Smoke,2023-12-30,19:00:00,Country,Anderson Music Hall - Georgia Mountain Fairgrounds,Hiawassee,GA,-83.709396,34.907799
+98,Sound Tribe Sector 9,2023-12-30,20:00:00,Dance/Electronic,The Eastern-GA,Atlanta,GA,-84.332802,33.7136
+99,Widespread Panic,2023-12-30,20:00:00,Blues,Fox Theatre - Atlanta,Atlanta,GA,-84.377403,33.7714
+100,Charlie Wilson,2023-12-30,20:00:00,R&B,Cobb Energy Performing Arts Centre,Atlanta,GA,-84.4583631,33.8844269
+101,Daily Bread,2023-12-30,21:00:00,Other,Variety Playhouse,Atlanta,GA,-84.334602,33.770199

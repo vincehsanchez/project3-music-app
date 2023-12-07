@@ -1,0 +1,328 @@
+Show_ID,Performing,date,time,genre,venue,city,state,long,lat
+0,girlhouse,2023-12-06,18:00:00,Rock,Mercury Lounge,New York,NY,-73.986806,40.722036
+1,The Maine,2023-12-06,18:30:00,Rock,Irving Plaza Powered By Verizon 5G,New York,NY,-73.9884469,40.734917
+2,Energy Curfew Music Hour W/ Chris Thile And Punch Brothers,2023-12-06,19:00:00,Variety,Minetta Lane Theatre,New York,NY,-74.0012676,40.7303577
+3,GIGGS,2023-12-06,19:00:00,Hip-Hop/Rap,Bowery Ballroom,New York,NY,-73.993542,40.720364
+4,Leanna Firestone,2023-12-06,19:00:00,Pop,Gramercy Theatre,New York,NY,-73.98501292,40.73975368
+5,Jonas Brothers: FIVE ALBUMS. ONE NIGHT.,2023-12-06,19:00:00,Rock,Prudential Center,Newark,NJ,-74.17121214,40.73340555
+6,Amy Grant & Michael W. Smith Christmas,2023-12-06,19:30:00,Rock,Toyota Oakdale Theatre,Wallingford,CT,-72.846188,41.4486599
+7,Holiday Cheer for FUV,2023-12-06,20:00:00,Rock,Beacon Theatre,New York,NY,-73.980673,40.779925
+8,CLUB BOYBND,2023-12-06,21:00:00,R&B,Mercury Lounge,New York,NY,-73.986806,40.722036
+9,Curtis Waters,2023-12-07,18:00:00,Pop,Mercury Lounge,New York,NY,-73.986806,40.722036
+10,Pentatonix The Most Wonderful Tour Of The Year,2023-12-07,19:00:00,Rock,Mohegan Sun Arena,Uncasville,CT,-72.0914563,41.4915974
+11,Romy,2023-12-07,19:00:00,Other,Webster Hall,New York,NY,-73.989098,40.731602
+12,Orchestra of St. Luke's,2023-12-07,19:00:00,Other,Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+13,Little Shop of Horrors,2023-12-07,19:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+14,Pan Arcadia / Will Leet,2023-12-07,19:00:00,Rock,Brooklyn Made,Brooklyn ,NY,-73.92193,40.70708
+15,Jonas Brothers: FIVE ALBUMS. ONE NIGHT.,2023-12-07,19:00:00,Rock,Prudential Center,Newark,NJ,-74.17121214,40.73340555
+16,96.5TIC Deck The Hall Ball,2023-12-07,19:30:00,Rock,Toyota Oakdale Theatre,Wallingford,CT,-72.846188,41.4486599
+17,New York Philharmonic w/ Andres Orozco-Estrada,2023-12-07,19:30:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+18,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-07,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+19,The Maine,2023-12-07,19:30:00,Rock,XL Live,Harrisburg,PA,-74.7603259,40.2372006
+20,Half Step,2023-12-07,20:00:00,Rock,Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+21,Jefferson Starship,2023-12-07,20:00:00,Rock,Premier Theater at Foxwoods Resort Casino,Mashantucket,CT,-71.9630872,41.4783608
+22,KOAN Sound,2023-12-07,20:00:00,Dance/Electronic,Racket NYC,New York,NY,-73.999702,40.740898
+23,Dinosaur Jr,2023-12-07,20:00:00,Alternative,Music Hall of Williamsburg,Brooklyn,NY,-73.956497,40.711102
+24,The Fearless Flyers,2023-12-07,20:00:00,Other,Blue Note - NY,New York,NY,-73.997902,40.7253
+25,Mora,2023-12-07,20:00:00,Other,Palladium Times Square ,New York City,NY,-73.985763,40.757201
+26,"Low Beam, Funky Toona",2023-12-07,21:00:00,Pop,Mercury Lounge,New York,NY,-73.986806,40.722036
+27,The Fearless Flyers,2023-12-07,22:30:00,Other,Blue Note - NY,New York,NY,-73.997902,40.7253
+28,moe.,2023-12-08,22:30:00,Rock,The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+29,Oliver Hazard,2023-12-08,18:00:00,Folk,Mercury Lounge,New York,NY,-73.986806,40.722036
+30,Z100's Jingle Ball Presented by Capital One,2023-12-08,19:00:00,Rock,Madison Square Garden,New York,NY,-73.9916006,40.7497062
+31,Lamp,2023-12-08,19:00:00,Rock,The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+32,Aterciopelados,2023-12-08,19:00:00,Latin,Irving Plaza Powered By Verizon 5G,New York,NY,-73.9884469,40.734917
+33,Meshuggah with Special Guests In Flames and Whitechapel,2023-12-08,19:00:00,Metal,The Paramount,Huntington,NY,-73.42591099,40.86969685
+34,Marky Ramone Holiday Blitzkrieg,2023-12-08,19:00:00,Rock,The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+35,Josey Scott's Saliva,2023-12-08,19:00:00,Rock,Reverb,Reading,PA,-75.9196123,40.3563327
+36,Ashley McBryde,2023-12-08,19:30:00,Other,Webster Hall,New York,NY,-73.989098,40.731602
+37,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-08,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+38,Brett Eldredge: Glow Live Tour,2023-12-08,20:00:00,Country,Beacon Theatre,New York,NY,-73.980673,40.779925
+39,Straight No Chaser: Sleighin' It Tour,2023-12-08,20:00:00,Rock,Mohegan Sun Arena,Uncasville,CT,-72.0914563,41.4915974
+40,Il Divo,2023-12-08,20:00:00,Rock,Premier Theater at Foxwoods Resort Casino,Mashantucket,CT,-71.9630872,41.4783608
+41,moe.,2023-12-08,20:00:00,Rock,The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+42,Watchhouse,2023-12-08,20:00:00,Country,Tarrytown Music Hall,Tarrytown,NY,-73.846001,41.085098
+43,New York Philharmonic w/ Andres Orozco-Estrada,2023-12-08,20:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+44,Albert Cummings,2023-12-08,20:00:00,Other,Palace Theatre Stamford,Stamford,CT,-73.537903,41.053101
+45,Little Shop of Horrors,2023-12-08,20:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+46,Engelbert Humperdinck,2023-12-08,20:00:00,Pop,NYCB Theatre at Westbury,Westbury,NY,-73.56055321,40.77517125
+47,Judy Collins: An Evening of Hits & Holiday Classics,2023-12-08,20:00:00,Rock,Bethel Woods Center for the Arts,Bethel,NY,-74.8779738,41.69688884
+48,KC & the Sunshine Band,2023-12-08,20:00:00,Rock,Bergen Performing Arts Center,Englewood,NJ,-73.97511,40.895358
+49,Etienne Charles Creole Christmas,2023-12-08,20:00:00,Jazz,Tilles Center - Krasnoff Theater,Brookville,NY,-73.6197704,40.8119256
+50,Jefferson Starship,2023-12-08,20:00:00,Rock,The Space at Westbury Theater,Westbury,NY,-73.58745575,40.75813293
+51,Mora,2023-12-08,20:00:00,Other,Palladium Times Square ,New York City,NY,-73.985763,40.757201
+52,Pussy Riot: Riot Days - An Activist Multimedia Experience,2023-12-08,20:00:00,Other,Warsaw,Brooklyn,NY,-73.948408,40.722392
+53,Caligula Blushed,2023-12-08,20:00:00,Undefined,XL Live,Harrisburg,PA,-74.7603259,40.2372006
+54,Dinosaur Jr,2023-12-08,21:00:00,Alternative,Music Hall of Williamsburg,Brooklyn,NY,-73.956497,40.711102
+55,Klub Nocturno Presents Rockero Night,2023-12-08,21:00:00,Latin,Brooklyn Made,Brooklyn ,NY,-73.92193,40.70708
+56,Born Without Bones,2023-12-08,21:00:00,Rock,Mercury Lounge,New York,NY,-73.986806,40.722036
+57,Apollo Music Café: Gabby Samone,2023-12-08,22:00:00,R&B,Apollo Theater,New York,NY,-73.95013312,40.80986245
+58,Broadway Rave,2023-12-08,23:00:00,Dance/Electronic,Gramercy Theatre,New York,NY,-73.98501292,40.73975368
+59,Ravenscoon,2023-12-08,23:30:00,Other,Webster Hall,New York,NY,-73.989098,40.731602
+60,Little Shop of Horrors,2023-12-09,14:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+61,Daniel O'Donnell,2023-12-09,17:00:00,Folk,NYCB Theatre at Westbury,Westbury,NY,-73.56055321,40.77517125
+62,"Bergy Seltzer, Recess",2023-12-09,18:00:00,Rock,Mercury Lounge,New York,NY,-73.986806,40.722036
+63,The Sleeping & The Fall of Troy,2023-12-09,18:00:00,Rock,Warsaw,Brooklyn,NY,-73.948408,40.722392
+64,Real Friends & Knuckle Puck,2023-12-09,18:00:00,Rock,Irving Plaza Powered By Verizon 5G,New York,NY,-73.9884469,40.734917
+65,Labamba's Holiday Hurrah,2023-12-09,18:30:00,Rock,The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+66,Jonas Brothers: FIVE ALBUMS. ONE NIGHT.,2023-12-09,19:00:00,Rock,Barclays Center,Brooklyn,NY,-73.97519,40.68285
+67,Fleetwood Macked,2023-12-09,19:00:00,Other,Cutting Room,New York,NY,-73.982597,40.738602
+68,Tiny Moving Parts,2023-12-09,19:00:00,Rock,Brooklyn Made,Brooklyn ,NY,-73.92193,40.70708
+69,Gary Frost & Chris Rendell,2023-12-09,19:00:00,Country,The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+70,Holiday Doo Wop starring The Duprees,2023-12-09,19:00:00,Rock,Bergen Performing Arts Center,Englewood,NJ,-73.97511,40.895358
+71,Marky Ramone's Holiday Blitzkrieg,2023-12-09,19:00:00,Rock,Gramercy Theatre,New York,NY,-73.98501292,40.73975368
+72,Tab Benoit with special guests The Dirty Dozen Brass Band,2023-12-09,19:00:00,Blues,The Wellmont Theater,Montclair,NJ,-74.2165153,40.8124988
+73,Mariah Carey - Merry Christmas One And All!,2023-12-09,19:30:00,Pop,Madison Square Garden,New York,NY,-73.9916006,40.7497062
+74,An Irish Christmas w/ Keith and Kristyn Getty,2023-12-09,19:30:00,Holiday,Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+75,Quarters Of Change,2023-12-09,19:30:00,Other,Webster Hall,New York,NY,-73.989098,40.731602
+76,Amateur Night At The Apollo: Holiday Special,2023-12-09,19:30:00,Other,Apollo's Historic Theater,New York,NY,-73.95013312,40.80986245
+77,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-09,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+78,Brett Eldredge: Glow Live Tour,2023-12-09,20:00:00,Country,Beacon Theatre,New York,NY,-73.980673,40.779925
+79,Andrea Bocelli,2023-12-09,20:00:00,Classical,XL CENTER,Hartford,CT,-72.676384,41.768353
+80,moe.,2023-12-09,20:00:00,Rock,The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+81,New York Philharmonic w/ Andres Orozco-Estrada,2023-12-09,20:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+82,Allison Russell,2023-12-09,20:00:00,Other,Levon Helm Studios,Woodstock,NY,-74.1166,42.053699
+83,Dean Martin Tribute,2023-12-09,20:00:00,Pop,Palace Theatre Stamford,Stamford,CT,-73.537903,41.053101
+84,Little Shop of Horrors,2023-12-09,20:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+85,An Intimate Evening with David Foster & Katharine McPhee,2023-12-09,20:00:00,Rock,New Jersey Performing Arts Center,Newark,NJ,-74.16809,40.739502
+86,Aqua,2023-12-09,20:00:00,Rock,Manhattan Center Grand Ballroom,New York,NY,-73.994309,40.752664
+87,Back To The Eighties with Jessie's Girl,2023-12-09,20:00:00,Undefined,The Paramount,Huntington,NY,-73.42591099,40.86969685
+88,Sin Bandera  Frecuencia Us Tour 2023,2023-12-09,20:00:00,Latin,United Palace,New York,NY,-73.93835048,40.84626724
+89,Garrison Keillor - A Prairie Home Companion 50th Anniversary,2023-12-09,20:00:00,Other,Town Hall,New York,NY,-73.98447747,40.75599205
+90,Watchhouse,2023-12-09,21:00:00,Country,Racket NYC,New York,NY,-73.999702,40.740898
+91,EPMD,2023-12-09,21:00:00,Hip-Hop/Rap,XL Live,Harrisburg,PA,-74.7603259,40.2372006
+92,Le Youth,2023-12-09,22:00:00,Other,Brooklyn Steel,Brooklyn,NY,-73.945602,40.7272
+93,Apollo Music Café: Rajna Swaminathan,2023-12-09,22:00:00,R&B,Apollo Theater,New York,NY,-73.95013312,40.80986245
+94,The Red Party presents: Urban Heat & Rare DM Live!,2023-12-09,22:00:00,Rock,Mercury Lounge,New York,NY,-73.986806,40.722036
+95,Emo Nite,2023-12-09,23:00:00,Other,Webster Hall,New York,NY,-73.989098,40.731602
+96,Beach Music's 18th Annual Holiday Party,2023-12-10,12:00:00,Rock,The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+97,Ultimate Rap League Presents Homecoming 2,2023-12-10,13:00:00,Hip-Hop/Rap,Irving Plaza Powered By Verizon 5G,New York,NY,-73.9884469,40.734917
+98,The English Concert,2023-12-10,14:00:00,Other,Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+99,Little Shop of Horrors,2023-12-10,14:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+100,"The Silos, Ivan Julian and the Magnificent 6",2023-12-10,18:00:00,Folk,Mercury Lounge,New York,NY,-73.986806,40.722036
+101,Energy Curfew Music Hour W/ Chris Thile And Punch Brothers,2023-12-10,19:00:00,Variety,Minetta Lane Theatre,New York,NY,-74.0012676,40.7303577
+102,John Tesh,2023-12-10,19:00:00,Pop,Patchogue Theater,Patchogue,NY,-72.994904,40.771801
+103,The Temptations & the Four Tops,2023-12-10,19:00:00,R&B,Bergen Performing Arts Center,Englewood,NJ,-73.97511,40.895358
+104,Patti LaBelle with special guest Leela James,2023-12-10,19:00:00,R&B,New Jersey Performing Arts Center,Newark,NJ,-74.16809,40.739502
+105,Meshuggah with Special Guests In Flames and Whitechapel,2023-12-10,19:00:00,Metal,The Wellmont Theater,Montclair,NJ,-74.2165153,40.8124988
+106,Little Shop of Horrors,2023-12-10,19:30:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+107,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-10,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+108,The Fearless Flyers,2023-12-10,20:00:00,Other,Blue Note - NY,New York,NY,-73.997902,40.7253
+109,An Intimate Evening with David Foster & Katharine McPhee,2023-12-10,20:00:00,Rock,NYCB Theatre at Westbury,Westbury,NY,-73.56055321,40.77517125
+110,Savannah Cristina: The Soft Tour,2023-12-10,21:00:00,R&B,Mercury Lounge,New York,NY,-73.986806,40.722036
+111,The Fearless Flyers,2023-12-10,22:30:00,Other,Blue Note - NY,New York,NY,-73.997902,40.7253
+112,Debbii Dawson,2023-12-11,18:00:00,Folk,Mercury Lounge,New York,NY,-73.986806,40.722036
+113,The Maccabeats,2023-12-11,19:00:00,World,Bergen Performing Arts Center,Englewood,NJ,-73.97511,40.895358
+114,WOODZ,2023-12-11,19:30:00,Pop,Kings Theatre,Brooklyn,NY,-73.956398,40.646301
+115,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-11,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+116,L.S. Dunes,2023-12-11,19:30:00,Rock,The Paramount,Huntington,NY,-73.42591099,40.86969685
+117,Sky Ferreira,2023-12-11,20:00:00,Pop,Webster Hall,New York,NY,-73.989098,40.731602
+118,Majid Jordan,2023-12-11,20:00:00,Other,Brooklyn Steel,Brooklyn,NY,-73.945602,40.7272
+119,"Cancion Franklin, Leah Tash ",2023-12-11,21:00:00,Folk,Mercury Lounge,New York,NY,-73.986806,40.722036
+120,No Guest List Fest,2023-12-12,17:30:00,Other,Mercury Lounge,New York,NY,-73.986806,40.722036
+121,Meshuggah with Special Guests In Flames and Whitechapel,2023-12-12,19:00:00,Metal,Toyota Oakdale Theatre,Wallingford,CT,-72.846188,41.4486599
+122,Bobby Weir & Wolf Bros Featuring The Wolfpack,2023-12-12,19:00:00,Rock,The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+123,New York Philharmonic w/ Handels Messiah,2023-12-12,19:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+124,Little Shop of Horrors,2023-12-12,19:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+125,The Rocky Horror Picture Show,2023-12-12,19:00:00,Music,The Palace Theatre Albany,Albany,NY,-73.750175,42.654511
+126,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-12,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+127,My Sinatra Starring Cary Hoffman,2023-12-12,19:30:00,Jazz,Tilles Center - Krasnoff Theater,Brookville,NY,-73.6197704,40.8119256
+128,Majid Jordan w/ Alex Lustig,2023-12-12,20:00:00,Other,Brooklyn Steel,Brooklyn,NY,-73.945602,40.7272
+129,Daniil Trifonov,2023-12-12,20:00:00,Other,Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+130,Vitamin String Quartet,2023-12-12,20:00:00,Pop,Bergen Performing Arts Center,Englewood,NJ,-73.97511,40.895358
+131,Bobby Weir & Wolf Bros Featuring The Wolfpack,2023-12-13,19:00:00,Rock,The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+132,New York Philharmonic w/ Handels Messiah,2023-12-13,19:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+133,Little Shop of Horrors,2023-12-13,19:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+134,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-13,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+135,Andrea Bocelli,2023-12-13,20:00:00,Classical,Madison Square Garden,New York,NY,-73.9916006,40.7497062
+136,Interpol,2023-12-13,20:00:00,Rock,Beacon Theatre,New York,NY,-73.980673,40.779925
+137,Patrick Watson,2023-12-13,20:00:00,Other,Webster Hall,New York,NY,-73.989098,40.731602
+138,Postmodern Jukebox,2023-12-13,20:00:00,Other,Patchogue Theater,Patchogue,NY,-72.994904,40.771801
+139,Michael Feinstein w/ Jean-Yves Thibaudet,2023-12-13,20:00:00,Pop,Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+140,"Bret Michaels ""Fall Holiday Parti-Gras"" with Adam & The Metal Hawks ",2023-12-13,20:00:00,Rock,NYCB Theatre at Westbury,Westbury,NY,-73.56055321,40.77517125
+141,Madonna - The Celebration Tour,2023-12-13,20:30:00,Rock,Barclays Center,Brooklyn,NY,-73.97519,40.68285
+142,CLAY,2023-12-13,21:00:00,R&B,Mercury Lounge,New York,NY,-73.986806,40.722036
+143,"Junius Karr, Kid at the Corner, Painthorse",2023-12-14,18:00:00,Pop,Mercury Lounge,New York,NY,-73.986806,40.722036
+144,In Love and Struggle,2023-12-14,19:00:00,Theatre,Minetta Lane Theatre,New York,NY,-74.0012676,40.7303577
+145,Bouncing Souls,2023-12-14,19:00:00,Rock,Webster Hall,New York,NY,-73.989098,40.731602
+146,Handels Messiah,2023-12-14,19:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+147,New York Philharmonic,2023-12-14,19:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+148,Little Shop of Horrors,2023-12-14,19:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+149,Justin Quiles - NIVELES Tour 2023,2023-12-14,19:00:00,Latin,Irving Plaza Powered By Verizon 5G,New York,NY,-73.9884469,40.734917
+150,The 8 Nights of Hanukkah with Yo La Tengo,2023-12-14,19:30:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+151,Andrea Bocelli,2023-12-14,20:00:00,Classical,Madison Square Garden,New York,NY,-73.9916006,40.7497062
+152,Interpol,2023-12-14,20:00:00,Rock,Beacon Theatre,New York,NY,-73.980673,40.779925
+153,Automatic,2023-12-14,20:00:00,Other,Music Hall of Williamsburg,Brooklyn,NY,-73.956497,40.711102
+154,New York Voices,2023-12-14,20:00:00,Blues,Ridgefield Playhouse,Ridgefield,CT,-73.502403,41.3064
+155,Two Minutes To Late Night,2023-12-14,20:00:00,Metal,Gramercy Theatre,New York,NY,-73.98501292,40.73975368
+156,Samara Joy: A Joyful Holiday,2023-12-14,20:00:00,Jazz,Apollo Theater,New York,NY,-73.95013312,40.80986245
+157,WDHA's Naughty or Nice Ball with Bret Michaels,2023-12-14,20:00:00,Rock,Bergen Performing Arts Center,Englewood,NJ,-73.97511,40.895358
+158,Its Beginning To Look A Lot Like Alaska ..A Christmas Show,2023-12-14,20:00:00,Rock,Town Hall,New York,NY,-73.98447747,40.75599205
+159,Madonna - The Celebration Tour,2023-12-14,20:30:00,Rock,Barclays Center,Brooklyn,NY,-73.97519,40.68285
+160,"Golder, circuit y, Who Shot Lulu",2023-12-14,21:00:00,Pop,Mercury Lounge,New York,NY,-73.986806,40.722036
+161,Dogs In A Pile 2day Pass,2023-12-15,21:00:00,Rock,The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+162,Casey Neill,2023-12-15,18:00:00,Rock,Mercury Lounge,New York,NY,-73.986806,40.722036
+163,In Love and Struggle,2023-12-15,19:00:00,Theatre,Minetta Lane Theatre,New York,NY,-74.0012676,40.7303577
+164,We Are Scientists,2023-12-15,19:00:00,Rock,Bowery Ballroom,New York,NY,-73.993542,40.720364
+165,Dogs In A Pile,2023-12-15,19:00:00,Rock,The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+166,Promised Land,2023-12-15,19:00:00,Rock,The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+167,Universal Temple of the Arts Staten Island JAZZ Festival 35,2023-12-15,19:00:00,Jazz,St. George Theatre,Staten Island,NY,-74.077484,40.6422839
+168,Choir! Choir! Choir! - DREAMS - An Epic Fleetwood Mac Sing-Along,2023-12-15,19:00:00,Rock,Irving Plaza Powered By Verizon 5G,New York,NY,-73.9884469,40.734917
+169,Duel Of The Decades: 80's Vs 90's,2023-12-15,19:00:00,Undefined,The Wellmont Theater,Montclair,NJ,-74.2165153,40.8124988
+170,Bobby Weir & Wolf Bros Featuring The Wolfpack,2023-12-15,19:30:00,Rock,The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+171,Ingrid Michaelson,2023-12-15,19:30:00,Country,Webster Hall,New York,NY,-73.989098,40.731602
+172,17th Annual Holiday Hop: Live from New York,2023-12-15,19:30:00,Rock,Webster Hall,New York,NY,-73.98923951,40.73170187
+173,Lil Wayne,2023-12-15,20:00:00,Hip-Hop/Rap,Total Mortgage Arena,Bridgeport,CT,-73.1879718,41.1732362
+174,Martina McBride,2023-12-15,20:00:00,Country,Premier Theater at Foxwoods Resort Casino,Mashantucket,CT,-71.9630872,41.4783608
+175,Little Shop of Horrors,2023-12-15,20:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+176,Samara Joy: A Joyful Holiday,2023-12-15,20:00:00,Jazz,Apollo Theater,New York,NY,-73.95013312,40.80986245
+177,Celebrate Tito Puente - The King of Latin Music,2023-12-15,20:00:00,Latin,Palladium Times Square ,New York City,NY,-73.985763,40.757201
+178,The Dirty Sweet,2023-12-15,20:00:00,Other,XL Live,Harrisburg,PA,-74.7603259,40.2372006
+179,The Townhall & Preemo Prod. Presents A Holiday Show W That Motown Band,2023-12-15,20:00:00,R&B,Town Hall,New York,NY,-73.98447747,40.75599205
+180,KID SMOKO with Special Guests Sugar Pit and Monobloc,2023-12-15,21:00:00,Rock,Mercury Lounge,New York,NY,-73.986806,40.722036
+181,MeanRed Presents Four Tet,2023-12-15,21:00:00,Dance/Electronic,Warsaw,Brooklyn,NY,-73.948408,40.722392
+182,Mersiv,2023-12-15,23:00:00,Other,Webster Hall,New York,NY,-73.989098,40.731602
+183,The Music Of Taylor Swift For Kids + More,2023-12-16,11:30:00,Rock,Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+184,Keystone Holiday Tattoo Jam,2023-12-16,12:00:00,Rock,Reverb,Reading,PA,-75.9196123,40.3563327
+185,The Music Of Taylor Swift For Kids + More,2023-12-16,14:00:00,Rock,Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+186,Holiday Brass w/ New York Philharmonic,2023-12-16,14:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+187,Little Shop of Horrors,2023-12-16,14:00:00,Theatre,Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+188,Yacht Lobsters W/ Police Trib Band New York's Finest,2023-12-16,18:00:00,Rock,Gramercy Theatre,New York,NY,-73.98501292,40.73975368
+189,Gary US Bonds Asbury Holiday Extravaganza!,2023-12-16,18:30:00,Rock,The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+190,Point Break,2023-12-16,18:30:00,Rock,Mercury Lounge,New York,NY,-73.986806,40.722036
+191,In Love and Struggle,2023-12-16,19:00:00,Theatre,Minetta Lane Theatre,New York,NY,-74.0012676,40.7303577
+192,New York Philharmonic w/ Handels Messiah,2023-12-16,19:00:00,Classical,David Geffen Hall,New York,NY,-73.9841,40.7761
+193,Dogs In A Pile,2023-12-16,19:00:00,Rock,The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+194,Lar Enterprises Presents Holiday Doo Wop,2023-12-16,19:00:00,Rock,NYCB Theatre at Westbury,Westbury,NY,-73.56055321,40.77517125
+195,Bobby Weir & Wolf Bros Featuring The Wolfpack,2023-12-16,19:30:00,Rock,The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+196,A Celtic Christmas by a Taste of Ireland presented by Pace Live,2023-12-16,19:30:00,World,Bardavon 1869 Opera House,Poughkeepsie,NY,-73.928672,41.70304
+197,What's The Word 2023: The Celebration,2023-12-16,19:30:00,Religious,Apollo Theater,New York,NY,-73.95013312,40.80986245
+198,Jon Pardi: A Very Merry Christmas,2023-12-16,20:00:00,Country,Beacon Theatre,New York,NY,-73.980673,40.779925
+199,Kidd G,2023-12-16,20:00:00,Country,Toad's Place,New Haven,CT,-72.9293225,41.311648
+200,Engelbert Humperdinck,2023-12-16,20:00:00,"{'id': 'KnvZfZ7vAev', 'name': 'Pop'}",Great Cedar Showroom at Foxwoods Resort Casino,Mashantucket,CT,-71.975699,41.4489233
+201,Bret Michaels,2023-12-16,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mohegan Sun Arena,Uncasville,CT,-72.0914563,41.4915974
+202,Queens College Choral Society 83rd Annual Winter Concert,2023-12-16,20:00:00,"{'id': 'KnvZfZ7v7lA', 'name': 'Music'}",Kupferberg Center for the Arts,Queens,NY,-73.816343,40.738456
+203,Cecilia Chorus of New York,2023-12-16,20:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+204,Little Shop of Horrors,2023-12-16,20:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+205,"El Chacal, Live Concert.",2023-12-16,20:00:00,"{'id': 'KnvZfZ7vAJ6', 'name': 'Latin'}",Ritz Theatre,Elizabeth,NJ,-74.2133999,40.6644999
+206,Moon Hooch,2023-12-16,20:00:00,"{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",Brooklyn Made,Brooklyn ,NY,-73.92193,40.70708
+207,Speedy Ortiz,2023-12-16,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Bowery Ballroom,New York,NY,-73.993542,40.720364
+208,Big Something: Headspace Tour with The Ries Brothers,2023-12-16,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",XL Live,Harrisburg,PA,-74.7603259,40.2372006
+209,Madonna - The Celebration Tour,2023-12-16,20:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Barclays Center,Brooklyn,NY,-73.97519,40.68285
+210,Start Making Sense,2023-12-16,21:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Racket NYC,New York,NY,-73.999702,40.740898
+211,The Lox & Friends,2023-12-16,21:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",Westchester County Center,White Plains,NY,-73.77897623,41.03706474
+212,What the Sound Presents:  More Fatter,2023-12-16,21:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+213,Benny Benassi,2023-12-16,23:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Marquee New York,New York,NY,-73.996696,40.75
+214,A Charlie Brown Christmas - Live!,2023-12-17,12:00:00,"{'id': 'KnvZfZ7vAvk', 'name': ""Children's Music""}",Great Cedar Showroom at Foxwoods Resort Casino,Mashantucket,CT,-71.975699,41.4489233
+215,Vienna Boys' Choir,2023-12-17,14:00:00,"{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+216,Holiday Brass w/ New York Philharmonic,2023-12-17,14:00:00,"{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",David Geffen Hall,New York,NY,-73.9841,40.7761
+217,Little Shop of Horrors,2023-12-17,14:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+218,A Celtic Christmas by a Taste of Ireland presented by Pace Live,2023-12-17,15:00:00,"{'id': 'KnvZfZ7vAeF', 'name': 'World'}",Bardavon 1869 Opera House,Poughkeepsie,NY,-73.928672,41.70304
+219,A Charlie Brown Christmas - Live!,2023-12-17,16:00:00,"{'id': 'KnvZfZ7vAvk', 'name': ""Children's Music""}",Great Cedar Showroom at Foxwoods Resort Casino,Mashantucket,CT,-71.975699,41.4489233
+220,Alexa Valentino,2023-12-17,17:00:00,"{'id': 'KnvZfZ7vAev', 'name': 'Pop'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+221,Bobby Weir & Wolf Bros Featuring The Wolfpack,2023-12-17,19:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+222,Darlene Love,2023-12-17,19:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Tarrytown Music Hall,Tarrytown,NY,-73.846001,41.085098
+223,Martina McBride,2023-12-17,19:00:00,"{'id': 'KnvZfZ7vAv6', 'name': 'Country'}",Bergen Performing Arts Center,Englewood,NJ,-73.97511,40.895358
+224,Fantastic Cat,2023-12-17,19:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Bowery Ballroom,New York,NY,-73.993542,40.720364
+225,Mariah Carey - Merry Christmas One And All!,2023-12-17,19:30:00,"{'id': 'KnvZfZ7vAev', 'name': 'Pop'}",Madison Square Garden,New York,NY,-73.9916006,40.7497062
+226,Little Shop of Horrors,2023-12-17,19:30:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+227,Michael Bolton,2023-12-17,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mohegan Sun Arena,Uncasville,CT,-72.0914563,41.4915974
+228,Never Home,2023-12-17,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+229,Justin Quiles,2023-12-17,20:00:00,"{'id': 'KnvZfZ7vAJ6', 'name': 'Latin'}",Ritz Theatre,Elizabeth,NJ,-74.2133999,40.6644999
+230,Oratorio Society of New York,2023-12-18,19:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+231,Lauren Daigle - The Behold Christmas Tour,2023-12-18,19:30:00,"{'id': 'KnvZfZ7vAe7', 'name': 'Religious'}",Beacon Theatre,New York,NY,-73.980673,40.779925
+232,Travis Scott Utopia Tour Presents Circus Maximus,2023-12-18,20:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",Barclays Center,Brooklyn,NY,-73.97519,40.68285
+233,Light Sweet Crude,2023-12-19,18:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+234,The New England Symphonic Ensemble,2023-12-19,19:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+235,Little Shop of Horrors,2023-12-19,19:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+236,Lauren Daigle - The Behold Christmas Tour,2023-12-19,19:30:00,"{'id': 'KnvZfZ7vAe7', 'name': 'Religious'}",Beacon Theatre,New York,NY,-73.980673,40.779925
+237,Travis Scott Utopia Tour Presents Circus Maximus,2023-12-19,20:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",Barclays Center,Brooklyn,NY,-73.97519,40.68285
+238,Billy Joel - In Concert,2023-12-19,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Madison Square Garden,New York,NY,-73.9916006,40.7497062
+239,Heaven & RIP Dunes Holiday Spectacular,2023-12-19,21:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+240,Little Shop of Horrors,2023-12-20,14:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+241,"Ian Biggs, Amanda Barise, Cristina",2023-12-20,18:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+242,The Bobby Lees,2023-12-20,19:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Bowery Ballroom,New York,NY,-73.993542,40.720364
+243,Trans-Siberian Orchestra-The Ghosts Of Christmas Eve,2023-12-20,19:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",UBS Arena,Belmont Park - Long Island,NY,-73.72613877,40.71187893
+244,Black Panther In Concert w/ New York Philharmonic,2023-12-20,19:30:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",David Geffen Hall,New York,NY,-73.9841,40.7761
+245,The Celts,2023-12-20,19:30:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Ridgefield Playhouse,Ridgefield,CT,-73.502403,41.3064
+246,Little Shop of Horrors,2023-12-20,20:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+247,Scott Bradlee's Postmodern Jukebox,2023-12-20,20:00:00,"{'id': 'KnvZfZ7vAvE', 'name': 'Jazz'}",Town Hall,New York,NY,-73.98447747,40.75599205
+248,"For Lack of a Term, Another Astronaut",2023-12-20,21:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+249,A Lorna Shore Christmas,2023-12-21,18:00:00,"{'id': 'KnvZfZ7vAvt', 'name': 'Metal'}",The Paramount,Huntington,NY,-73.42591099,40.86969685
+250,Yule Dogs,2023-12-21,18:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+251,Little Shop of Horrors,2023-12-21,19:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+252,Midtown,2023-12-21,19:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Wellmont Theater,Montclair,NJ,-74.2165153,40.8124988
+253,Black Panther In Concert w/ New York Philharmonic,2023-12-21,19:30:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",David Geffen Hall,New York,NY,-73.9841,40.7761
+254,Travis Scott Utopia Tour Presents Circus Maximus,2023-12-21,20:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",Madison Square Garden,New York,NY,-73.9916006,40.7497062
+255,8Track,2023-12-21,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+256,Starfish: Stand-Up Comedy Special,2023-12-21,17:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Sony Hall,New York,NY,-73.987302,40.759631
+257,Dudley Swing Sessions,2023-12-21,21:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Spotlight at The Paramount,Huntington,NY,-73.42577,40.86965
+258,Emo Night Brooklyn  21 And Over Event,2023-12-21,21:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+259,"Alex Cano, Dan Zlotnick Band And Emily Angell Band",2023-12-22,19:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+260,Disco Unlimited,2023-12-22,19:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Cutting Room,New York,NY,-73.982597,40.738602
+261,"The Hard Maybes, American Stereo And The Extensions 21+ Event",2023-12-22,19:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+262,The Nerds - Holiday Party Special Guest: Illegally Blind,2023-12-22,19:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+263,Black Panther In Concert w/ New York Philharmonic,2023-12-22,20:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",David Geffen Hall,New York,NY,-73.9841,40.7761
+264,New York Pops,2023-12-22,20:00:00,"{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+265,Little Shop of Horrors,2023-12-22,20:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+266,Lil Tecca,2023-12-22,20:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",The Paramount,Huntington,NY,-73.42591099,40.86969685
+267,The Warped Tour Band,2023-12-22,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",XL Live,Harrisburg,PA,-74.7603259,40.2372006
+268,Rufus And Martha Wainwrights A Not So Silent Night,2023-12-22,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Town Hall,New York,NY,-73.98447747,40.75599205
+269,Thundersmack,2023-12-22,21:00:00,"{'id': 'KnvZfZ7vAvE', 'name': 'Jazz'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+270,Party Favor,2023-12-22,23:00:00,"{'id': 'KnvZfZ7vAeE', 'name': 'Fairs & Festivals'}",Marquee New York,New York,NY,-73.996696,40.75
+271,Shrek Rave,2023-12-22,23:00:00,"{'id': 'KnvZfZ7vAvF', 'name': 'Dance/Electronic'}",Webster Hall,New York,NY,-73.989098,40.731602
+272,Little Shop of Horrors,2023-12-23,14:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+273,Splintered Sunlight,2023-12-23,18:30:00,"{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+274,Asbury Fever,2023-12-23,19:00:00,"{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+275,Stella Blue's Band,2023-12-23,20:00:00,"{'id': 'KnvZfZ7vAvd', 'name': 'Blues'}",Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+276,Trap Karaoke: New York,2023-12-23,20:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",Terminal 5,New York,NY,-73.992762,40.769708
+277,New York Pops,2023-12-23,20:00:00,"{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",Stern Auditorium / Perelman Stage at Carnegie Hall,New York,NY,-73.985298,40.765202
+278,New York Philharmonic w/ Black Panther In Concert,2023-12-23,20:00:00,"{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",David Geffen Hall,New York,NY,-73.9841,40.7761
+279,Little Shop of Horrors,2023-12-23,20:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+280,Back In Black,2023-12-23,20:00:00,"{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",XL Live,Harrisburg,PA,-74.7603259,40.2372006
+281,Sensamotion + IRIEspect,2023-12-23,21:00:00,"{'id': 'KnvZfZ7vAed', 'name': 'Reggae'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+282,Biscits,2023-12-23,23:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Marquee New York,New York,NY,-73.996696,40.75
+283,Little Shop of Horrors,2023-12-26,19:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+284,Travis Scott Utopia Tour Presents Circus Maximus,2023-12-26,20:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",Prudential Center,Newark,NJ,-74.17121214,40.73340555
+285,Little Shop of Horrors,2023-12-27,14:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+286,Dude Of Life Band,2023-12-27,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+287,Little Shop of Horrors,2023-12-27,20:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+288,KEM with special guest Marsha Ambrosius,2023-12-27,20:00:00,"{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",New Jersey Performing Arts Center,Newark,NJ,-74.16809,40.739502
+289,"Phish 4-Day Ticket (12/28-12/31) VALID ALL 4 DAYS, CANNOT SPLIT BY DAY",2023-12-28,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Madison Square Garden,New York,NY,-73.9916006,40.7497062
+290,Spyne!,2023-12-28,18:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+291,Little Shop of Horrors,2023-12-28,19:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+292,Phish,2023-12-28,19:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Madison Square Garden,New York,NY,-73.9916006,40.7497062
+293,Soulshine,2023-12-28,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Garcia's at The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+294,Daniel Lerner,2023-12-28,21:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Mercury Lounge,New York,NY,-73.986806,40.722036
+295,Trivecta,2023-12-28,22:00:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Brooklyn Steel,Brooklyn,NY,-73.945602,40.7272
+296,The Disco Biscuits,2023-12-28,23:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Palladium Times Square ,New York City,NY,-73.985763,40.757201
+297,What A Wonderful Year Music Festival 2 Day Pass,2023-12-29,23:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+298,Winter Break - Vibrotones & Holzli,2023-12-29,18:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+299,Glassjaw - Celebrating XXX Years Of Making Things,2023-12-29,18:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Warsaw,Brooklyn,NY,-73.948408,40.722392
+300,What A Wonderful Year Music Festival,2023-12-29,18:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+301,Phish,2023-12-29,19:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Madison Square Garden,New York,NY,-73.9916006,40.7497062
+302,Dawes,2023-12-29,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+303,Shinedown,2023-12-29,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Premier Theater at Foxwoods Resort Casino,Mashantucket,CT,-71.9630872,41.4783608
+304,Jagged Edge with 112 and Next,2023-12-29,20:00:00,"{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",Toyota Oakdale Theatre,Wallingford,CT,-72.846188,41.4486599
+305,Patti Smith,2023-12-29,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Brooklyn Steel,Brooklyn,NY,-73.945602,40.7272
+306,Little Shop of Horrors,2023-12-29,20:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+307,Heavy Temple / Sun Voyager / Restless Spirit,2023-12-29,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Brooklyn Made,Brooklyn ,NY,-73.92193,40.70708
+308,Get the Led Out,2023-12-29,20:00:00,"{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",The Paramount,Huntington,NY,-73.42591099,40.86969685
+309,Start Making Sense,2023-12-29,20:30:00,"{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",XL Live,Harrisburg,PA,-74.7603259,40.2372006
+310,Vini Vici,2023-12-29,23:30:00,"{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",Webster Hall,New York,NY,-73.989098,40.731602
+311,Bassnectar - A New Horizon 2 Day Ticket,2023-12-30,23:30:00,"{'id': 'KnvZfZ7vAvF', 'name': 'Dance/Electronic'}",Palladium Times Square ,New York City,NY,-73.985763,40.757201
+312,Little Shop of Horrors,2023-12-30,14:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+313,New Years Bash: Indigo Sky With Soup,2023-12-30,14:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Stone Pony,Asbury Park,NJ,-74.00071097,40.220001
+314,Glassjaw - Celebrating XXX Years Of Making Things,2023-12-30,18:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Warsaw,Brooklyn,NY,-73.948408,40.722392
+315,What A Wonderful Year Music Festival,2023-12-30,18:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Wonder Bar,Asbury Park,NJ,-73.99950139,40.22328639
+316,Phish,2023-12-30,19:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Madison Square Garden,New York,NY,-73.9916006,40.7497062
+317,Long Island Disco Fever: The Eve Of The Eve,2023-12-30,19:30:00,"{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",NYCB Theatre at Westbury,Westbury,NY,-73.56055321,40.77517125
+318,Observe The 93rd,2023-12-30,19:30:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",XL Live,Harrisburg,PA,-74.7603259,40.2372006
+319,Hot 97 Winter Jam,2023-12-30,20:00:00,"{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",Barclays Center,Brooklyn,NY,-73.97519,40.68285
+320,Gov't Mule,2023-12-30,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Beacon Theatre,New York,NY,-73.980673,40.779925
+321,Dark Star Orchestra,2023-12-30,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",The Capitol Theatre,Port Chester,NY,-73.6654488,41.0013461
+322,Patti Smith,2023-12-30,20:00:00,"{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",Brooklyn Steel,Brooklyn,NY,-73.945602,40.7272
+323,Little Shop of Horrors,2023-12-30,20:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999
+324,Bassnectar - A New Horizon Saturday Ticket,2023-12-30,20:00:00,"{'id': 'KnvZfZ7vAvF', 'name': 'Dance/Electronic'}",Palladium Times Square ,New York City,NY,-73.985763,40.757201
+325,Get the Led Out,2023-12-30,20:00:00,"{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",The Paramount,Huntington,NY,-73.42591099,40.86969685
+326,Little Shop of Horrors,2023-12-31,14:00:00,"{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",Westside Theatre Upstairs - NY,New York,NY,-73.9758,40.785999

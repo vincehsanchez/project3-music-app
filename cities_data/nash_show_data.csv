@@ -1,0 +1,98 @@
+Show_ID,Performing,date,time,genre,venue,city,state,long,lat
+0,Dirty Dancing in Concert,2023-12-06,19:30:00,Other,Knoxville Civic Auditorium,Knoxville,TN,-83.911513,35.965101
+1,"The Gatlin Brothers ""Country and Christmas""",2023-12-06,19:30:00,Country,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+2,Trans-Siberian Orchestra-The Ghosts Of Christmas Eve,2023-12-06,19:00:00,Rock,Bridgestone Arena,Nashville,TN,-86.77857,36.159949
+3,Angel Olsen,2023-12-06,20:00:00,Folk,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+4,Trans-Siberian Orchestra - The Ghosts Of Christmas Eve,2023-12-07,19:00:00,Rock,Food City Center,Knoxville,TN,-83.925366,35.9517627
+5,"December 7, 2023 - Tri-Star Club",2023-12-07,19:00:00,Rock,Food City Center,Knoxville,TN,-83.925366,35.9517627
+6,"The Fab Four performs Beatles' ""Rubber Soul""",2023-12-07,19:30:00,Undefined,The Walker Theatre,Chattanooga,TN,-85.305659,35.048049
+7,Beer & Hymns,2023-12-07,19:00:00,Holiday,Riverside Revival,Nashville,TN,-86.72404,36.19563
+8,Grand Ole Opry,2023-12-07,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+9,The Brook and The Bluff,2023-12-07,19:30:00,Other,3rd & Lindsley,Nashville,TN,-86.733398,36.143902
+10,Megan Moroney,2023-12-07,20:00:00,Country,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+11,Charles Wesley Godwin,2023-12-07,20:00:00,Other,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+12,Lauren Daigle: The Kaleidoscope Tour,2023-12-08,19:30:00,Religious,Food City Center,Knoxville,TN,-83.925366,35.9517627
+13,"December 8, 2023 - Tri-Star Club",2023-12-08,19:30:00,Religious,Food City Center,Knoxville,TN,-83.925366,35.9517627
+14,Ricky Skaggs & Kentucky Thunder Christmas w/ Special Guests,2023-12-08,19:30:00,Country,The Walker Theatre,Chattanooga,TN,-85.305659,35.048049
+15,A McCrary Kind of Christmas,2023-12-08,19:00:00,Religious,Riverside Revival,Nashville,TN,-86.72404,36.19563
+16,Kris Myers' Slay Ride,2023-12-08,19:00:00,Country,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+17,Stairway To Zeppelin,2023-12-08,19:00:00,Other,Cookeville Performing Arts Center,Cookeville,TN,-85.458199,36.180199
+18,Grand Ole Opry,2023-12-08,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+19,A McCrary Kind of Christmas 14th Annual Live Celebration,2023-12-08,19:00:00,Religious,Riverside Revival,Nashville,TN,-86.72404,36.19563
+20,A Very Dave Barnes Christmas,2023-12-08,19:30:00,Other,Schermerhorn Symphony Center,Nashville,TN,-86.7761,36.164902
+21,Relix Presents: Futurebirds w/ Special Guest Carl Broemel,2023-12-08,20:00:00,Rock,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+22,Kevin Gates - Only The Generals Tour,2023-12-08,20:00:00,Hip-Hop/Rap,Bridgestone Arena,Nashville,TN,-86.77857,36.159949
+23,Charles Wesley Godwin,2023-12-08,20:00:00,Other,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+24,Christmas Jam,2023-12-09,19:00:00,Rock,Harrah's Cherokee Center - Asheville,Asheville,NC,-82.555289,35.597471
+25,Dave Barnes - A Very Dave Barnes Christmas,2023-12-09,20:00:00,Rock,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+26,Grand Ole Opry,2023-12-09,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+27,The Wild Feathers: 10 Year Anniversary Tour,2023-12-09,20:00:00,Rock,Riverside Revival,Nashville,TN,-86.72404,36.19563
+28,49 Winchester,2023-12-09,20:00:00,Country,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+29,LeAnn Rimes,2023-12-09,20:00:00,Country,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+30,The Bouncing Souls,2023-12-10,19:00:00,Rock,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+31,Grand Ole Opry,2023-12-10,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+32,Ricky Skaggs,2023-12-10,19:30:00,Country,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+33,Grand Ole Opry,2023-12-11,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+34,Hunter Hayes: Flying Solo Tour,2023-12-12,20:00:00,Country,The Walker Theatre,Chattanooga,TN,-85.305659,35.048049
+35,Grand Ole Opry,2023-12-12,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+36,The Maine,2023-12-12,19:30:00,Rock,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+37,Oak Ridge Boys,2023-12-12,19:30:00,Country,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+38,Amy Grant w/ Vince Gill,2023-12-13,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+39,Do615 Presents: Dirty Honey: Can't Find The Brakes Tour,2023-12-13,19:45:00,Rock,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+40,Soulshine Family Band's Christmas Jam,2023-12-14,19:00:00,Blues,Riverside Revival,Nashville,TN,-86.72404,36.19563
+41,Rodney Crowell: Chicago Sessions Tour,2023-12-14,20:00:00,Country,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+42,Grand Ole Opry,2023-12-14,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+43,Amy Grant w/ Vince Gill,2023-12-14,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+44,Queens of Broadway Presents Dragstravaganza!,2023-12-15,18:00:00,Other,Tin Roof - Nashville - Broadway,Nashville,TN,-86.776935,36.161512
+45,"Appalachian Equality Chorus Presents ""Christmas Is A Drag""",2023-12-15,20:00:00,Classical,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+46,Old Dominion: No Bad Vibes Tour,2023-12-15,19:00:00,Country,Bridgestone Arena,Nashville,TN,-86.77857,36.159949
+47,Grand Ole Opry,2023-12-15,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+48,Handel's Messiah with The Nashville Symphony,2023-12-15,19:30:00,Other,Schermerhorn Symphony Center,Nashville,TN,-86.7761,36.164902
+49,Kevin Garrett,2023-12-15,20:00:00,Rock,Riverside Revival,Nashville,TN,-86.72404,36.19563
+50,Allman Family Revival,2023-12-15,20:00:00,Rock,Ryman Auditorium,Nashville,TN,-86.77886,36.161101
+51,Allman Family Revival,2023-12-15,20:00:00,Other,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+52,"Appalachian Equality Chorus Presents ""Christmas Is A Drag""",2023-12-16,14:00:00,Classical,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+53,Amy Grant w/ Vince Gill,2023-12-16,15:00:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+54,Pentatonix The Most Wonderful Tour Of The Year,2023-12-16,19:00:00,Rock,Food City Center,Knoxville,TN,-83.925366,35.9517627
+55,"December 16, 2023 - Tri-Star Club",2023-12-16,19:00:00,Pop,Food City Center,Knoxville,TN,-83.925366,35.9517627
+56,Ricky Skaggs & Kentucky Thunder Christmas with special guests,2023-12-16,19:30:00,Country,Tennessee Theatre,Knoxville,TN,-83.917071,35.964436
+57,Grand Ole Opry,2023-12-16,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+58,Amy Grant w/ Vince Gill,2023-12-16,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+59,Handel's Messiah with The Nashville Symphony,2023-12-16,19:30:00,Other,Schermerhorn Symphony Center,Nashville,TN,-86.7761,36.164902
+60,Relix Presents: Daniel Donato's Cosmic Country Christmas Jam,2023-12-16,20:00:00,Blues,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+61,Handel's Messiah with The Nashville Symphony,2023-12-17,14:00:00,Other,Schermerhorn Symphony Center,Nashville,TN,-86.7761,36.164902
+62,Grand Ole Opry,2023-12-17,14:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+63,Amy Grant w/ Vince Gill,2023-12-17,15:00:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+64,Mike McGill's 11th Annual Christmas Spectacular,2023-12-17,20:00:00,Country,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+65,Zach Williams w/ Riley Clemmons,2023-12-17,19:00:00,Rock,The Fisher Center,Nashville,TN,-86.801598,36.1339
+66,Amy Grant w/ Vince Gill,2023-12-17,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+67,Grand Ole Opry,2023-12-18,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+68,The Jacksons,2023-12-18,19:30:00,R&B,Schermerhorn Symphony Center,Nashville,TN,-86.7761,36.164902
+69,Bone Thugs-N-Harmony,2023-12-18,20:00:00,Hip-Hop/Rap,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+70,Knoxville Jazz Orchestra: A Swingin' Christmas with Pasquale Grasso,2023-12-19,20:00:00,Jazz,Tennessee Theatre,Knoxville,TN,-83.917071,35.964436
+71,Grand Ole Opry,2023-12-19,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+72,Amy Grant w/ Vince Gill,2023-12-19,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+73,Jim Brickman: A Joyful Christmas,2023-12-19,19:30:00,Blues,Schermerhorn Symphony Center,Nashville,TN,-86.7761,36.164902
+74,For King & Country,2023-12-20,19:00:00,Other,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+75,Amy Grant w/ Vince Gill,2023-12-20,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+76,Dogstar - Somewhere Between The Power Lines and Palm Trees Tour,2023-12-20,20:00:00,Rock,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+77,For King & Country,2023-12-21,19:00:00,Other,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+78,Drew and Ellie Holcomb's Neighborly Christmas,2023-12-21,19:30:00,Other,Schermerhorn Symphony Center,Nashville,TN,-86.7761,36.164902
+79,Dogstar - Somewhere Between The Power Lines and Palm Trees Tour,2023-12-21,20:00:00,Rock,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+80,Amy Grant w/ Vince Gill,2023-12-22,15:00:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+81,Mike Farris Sings! The Soul of Christmas 2023,2023-12-22,20:00:00,Rock,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+82,For King & Country,2023-12-22,19:00:00,Other,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+83,A DRUMMER BOY CHRISTMAS: Live from the Grand Ole Opry House,2023-12-22,19:00:00,Pop,Grand Ole Opry House,Nashville,TN,-86.691941,36.206514
+84,Amy Grant w/ Vince Gill,2023-12-22,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+85,Gimme Gimme Disco,2023-12-22,20:00:00,Dance/Electronic,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+86,Alexandra Kay,2023-12-22,20:00:00,Other,The Basement East,Nashville,TN,-86.732903,36.180401
+87,Mannheim Steamroller Christmas,2023-12-23,15:00:00,New Age,Tennessee Theatre,Knoxville,TN,-83.917071,35.964436
+88,Amy Grant w/ Vince Gill,2023-12-23,15:00:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+89,Mannheim Steamroller Christmas,2023-12-23,20:00:00,New Age,Tennessee Theatre,Knoxville,TN,-83.917071,35.964436
+90,The Kruger Brothers Christmas Tour,2023-12-23,20:00:00,Country,Bijou Theatre,Knoxville,TN,-83.917015,35.962335
+91,Grand Ole Opry,2023-12-23,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+92,Amy Grant w/ Vince Gill,2023-12-23,19:30:00,Pop,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
+93,Deep Fried 5,2023-12-23,20:00:00,R&B,Brooklyn Bowl Nashville,Nashville,TN,-86.783632,36.173214
+94,Grand Ole Opry,2023-12-29,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+95,Grand Ole Opry,2023-12-30,19:00:00,Country,Grand Ole Opry House,Nashville,TN,-86.665604,36.169201
+96,Old Crow Medicine Show,2023-12-30,20:00:00,Country,Ryman Auditorium,Nashville,TN,-86.783997,36.167198
