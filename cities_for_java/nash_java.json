@@ -1,0 +1,1649 @@
+[{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f1"
+  },
+  "Show_ID": 0,
+  "Performing": "Dirty Dancing in Concert",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Knoxville Civic Auditorium",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.911513,
+  "lat": 35.965101
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f2"
+  },
+  "Show_ID": 1,
+  "Performing": "The Gatlin Brothers \"Country and Christmas\"",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f3"
+  },
+  "Show_ID": 2,
+  "Performing": "Trans-Siberian Orchestra-The Ghosts Of Christmas Eve",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Bridgestone Arena",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.77857,
+  "lat": 36.159949
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f4"
+  },
+  "Show_ID": 3,
+  "Performing": "Angel Olsen",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Folk",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f5"
+  },
+  "Show_ID": 4,
+  "Performing": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Food City Center",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.925366,
+  "lat": 35.9517627
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f6"
+  },
+  "Show_ID": 5,
+  "Performing": "December 7, 2023 - Tri-Star Club",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Food City Center",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.925366,
+  "lat": 35.9517627
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f7"
+  },
+  "Show_ID": 6,
+  "Performing": "The Fab Four performs Beatles' \"Rubber Soul\"",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Undefined",
+  "venue": "The Walker Theatre",
+  "city": "Chattanooga",
+  "state": "TN",
+  "long": -85.305659,
+  "lat": 35.048049
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f8"
+  },
+  "Show_ID": 7,
+  "Performing": "Beer & Hymns",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Holiday",
+  "venue": "Riverside Revival",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.72404,
+  "lat": 36.19563
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887f9"
+  },
+  "Show_ID": 8,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887fa"
+  },
+  "Show_ID": 9,
+  "Performing": "The Brook and The Bluff",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "3rd & Lindsley",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.733398,
+  "lat": 36.143902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887fb"
+  },
+  "Show_ID": 10,
+  "Performing": "Megan Moroney",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887fc"
+  },
+  "Show_ID": 11,
+  "Performing": "Charles Wesley Godwin",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887fd"
+  },
+  "Show_ID": 12,
+  "Performing": "Lauren Daigle: The Kaleidoscope Tour",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Religious",
+  "venue": "Food City Center",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.925366,
+  "lat": 35.9517627
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887fe"
+  },
+  "Show_ID": 13,
+  "Performing": "December 8, 2023 - Tri-Star Club",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Religious",
+  "venue": "Food City Center",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.925366,
+  "lat": 35.9517627
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b4887ff"
+  },
+  "Show_ID": 14,
+  "Performing": "Ricky Skaggs & Kentucky Thunder Christmas w/ Special Guests",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "The Walker Theatre",
+  "city": "Chattanooga",
+  "state": "TN",
+  "long": -85.305659,
+  "lat": 35.048049
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488800"
+  },
+  "Show_ID": 15,
+  "Performing": "A McCrary Kind of Christmas",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Religious",
+  "venue": "Riverside Revival",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.72404,
+  "lat": 36.19563
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488801"
+  },
+  "Show_ID": 16,
+  "Performing": "Kris Myers' Slay Ride",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488802"
+  },
+  "Show_ID": 17,
+  "Performing": "Stairway To Zeppelin",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Cookeville Performing Arts Center",
+  "city": "Cookeville",
+  "state": "TN",
+  "long": -85.458199,
+  "lat": 36.180199
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488803"
+  },
+  "Show_ID": 18,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488804"
+  },
+  "Show_ID": 19,
+  "Performing": "A McCrary Kind of Christmas 14th Annual Live Celebration",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Religious",
+  "venue": "Riverside Revival",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.72404,
+  "lat": 36.19563
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488805"
+  },
+  "Show_ID": 20,
+  "Performing": "A Very Dave Barnes Christmas",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Schermerhorn Symphony Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.7761,
+  "lat": 36.164902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488806"
+  },
+  "Show_ID": 21,
+  "Performing": "Relix Presents: Futurebirds w/ Special Guest Carl Broemel",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488807"
+  },
+  "Show_ID": 22,
+  "Performing": "Kevin Gates - Only The Generals Tour",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Bridgestone Arena",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.77857,
+  "lat": 36.159949
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488808"
+  },
+  "Show_ID": 23,
+  "Performing": "Charles Wesley Godwin",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488809"
+  },
+  "Show_ID": 24,
+  "Performing": "Christmas Jam",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Harrah's Cherokee Center - Asheville",
+  "city": "Asheville",
+  "state": "NC",
+  "long": -82.555289,
+  "lat": 35.597471
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48880a"
+  },
+  "Show_ID": 25,
+  "Performing": "Dave Barnes - A Very Dave Barnes Christmas",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48880b"
+  },
+  "Show_ID": 26,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48880c"
+  },
+  "Show_ID": 27,
+  "Performing": "The Wild Feathers: 10 Year Anniversary Tour",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Riverside Revival",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.72404,
+  "lat": 36.19563
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48880d"
+  },
+  "Show_ID": 28,
+  "Performing": "49 Winchester",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48880e"
+  },
+  "Show_ID": 29,
+  "Performing": "LeAnn Rimes",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48880f"
+  },
+  "Show_ID": 30,
+  "Performing": "The Bouncing Souls",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488810"
+  },
+  "Show_ID": 31,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488811"
+  },
+  "Show_ID": 32,
+  "Performing": "Ricky Skaggs",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488812"
+  },
+  "Show_ID": 33,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488813"
+  },
+  "Show_ID": 34,
+  "Performing": "Hunter Hayes: Flying Solo Tour",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "The Walker Theatre",
+  "city": "Chattanooga",
+  "state": "TN",
+  "long": -85.305659,
+  "lat": 35.048049
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488814"
+  },
+  "Show_ID": 35,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488815"
+  },
+  "Show_ID": 36,
+  "Performing": "The Maine",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488816"
+  },
+  "Show_ID": 37,
+  "Performing": "Oak Ridge Boys",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488817"
+  },
+  "Show_ID": 38,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488818"
+  },
+  "Show_ID": 39,
+  "Performing": "Do615 Presents: Dirty Honey: Can't Find The Brakes Tour",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:45:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488819"
+  },
+  "Show_ID": 40,
+  "Performing": "Soulshine Family Band's Christmas Jam",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Blues",
+  "venue": "Riverside Revival",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.72404,
+  "lat": 36.19563
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48881a"
+  },
+  "Show_ID": 41,
+  "Performing": "Rodney Crowell: Chicago Sessions Tour",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48881b"
+  },
+  "Show_ID": 42,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48881c"
+  },
+  "Show_ID": 43,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48881d"
+  },
+  "Show_ID": 44,
+  "Performing": "Queens of Broadway Presents Dragstravaganza!",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Other",
+  "venue": "Tin Roof - Nashville - Broadway",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.776935,
+  "lat": 36.161512
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48881e"
+  },
+  "Show_ID": 45,
+  "Performing": "Appalachian Equality Chorus Presents \"Christmas Is A Drag\"",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Classical",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48881f"
+  },
+  "Show_ID": 46,
+  "Performing": "Old Dominion: No Bad Vibes Tour",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Bridgestone Arena",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.77857,
+  "lat": 36.159949
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488820"
+  },
+  "Show_ID": 47,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488821"
+  },
+  "Show_ID": 48,
+  "Performing": "Handel's Messiah with The Nashville Symphony",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Schermerhorn Symphony Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.7761,
+  "lat": 36.164902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488822"
+  },
+  "Show_ID": 49,
+  "Performing": "Kevin Garrett",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Riverside Revival",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.72404,
+  "lat": 36.19563
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488823"
+  },
+  "Show_ID": 50,
+  "Performing": "Allman Family Revival",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.77886,
+  "lat": 36.161101
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488824"
+  },
+  "Show_ID": 51,
+  "Performing": "Allman Family Revival",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488825"
+  },
+  "Show_ID": 52,
+  "Performing": "Appalachian Equality Chorus Presents \"Christmas Is A Drag\"",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Classical",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488826"
+  },
+  "Show_ID": 53,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488827"
+  },
+  "Show_ID": 54,
+  "Performing": "Pentatonix The Most Wonderful Tour Of The Year",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Food City Center",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.925366,
+  "lat": 35.9517627
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488828"
+  },
+  "Show_ID": 55,
+  "Performing": "December 16, 2023 - Tri-Star Club",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "Food City Center",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.925366,
+  "lat": 35.9517627
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488829"
+  },
+  "Show_ID": 56,
+  "Performing": "Ricky Skaggs & Kentucky Thunder Christmas with special guests",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "Tennessee Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917071,
+  "lat": 35.964436
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48882a"
+  },
+  "Show_ID": 57,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48882b"
+  },
+  "Show_ID": 58,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48882c"
+  },
+  "Show_ID": 59,
+  "Performing": "Handel's Messiah with The Nashville Symphony",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Schermerhorn Symphony Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.7761,
+  "lat": 36.164902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48882d"
+  },
+  "Show_ID": 60,
+  "Performing": "Relix Presents: Daniel Donato's Cosmic Country Christmas Jam",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48882e"
+  },
+  "Show_ID": 61,
+  "Performing": "Handel's Messiah with The Nashville Symphony",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Other",
+  "venue": "Schermerhorn Symphony Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.7761,
+  "lat": 36.164902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48882f"
+  },
+  "Show_ID": 62,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488830"
+  },
+  "Show_ID": 63,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488831"
+  },
+  "Show_ID": 64,
+  "Performing": "Mike McGill's 11th Annual Christmas Spectacular",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488832"
+  },
+  "Show_ID": 65,
+  "Performing": "Zach Williams w/ Riley Clemmons",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Fisher Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.801598,
+  "lat": 36.1339
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488833"
+  },
+  "Show_ID": 66,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488834"
+  },
+  "Show_ID": 67,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488835"
+  },
+  "Show_ID": 68,
+  "Performing": "The Jacksons",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "R&B",
+  "venue": "Schermerhorn Symphony Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.7761,
+  "lat": 36.164902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488836"
+  },
+  "Show_ID": 69,
+  "Performing": "Bone Thugs-N-Harmony",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488837"
+  },
+  "Show_ID": 70,
+  "Performing": "Knoxville Jazz Orchestra: A Swingin' Christmas with Pasquale Grasso",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Tennessee Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917071,
+  "lat": 35.964436
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488838"
+  },
+  "Show_ID": 71,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488839"
+  },
+  "Show_ID": 72,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48883a"
+  },
+  "Show_ID": 73,
+  "Performing": "Jim Brickman: A Joyful Christmas",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Blues",
+  "venue": "Schermerhorn Symphony Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.7761,
+  "lat": 36.164902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48883b"
+  },
+  "Show_ID": 74,
+  "Performing": "For King & Country",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48883c"
+  },
+  "Show_ID": 75,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48883d"
+  },
+  "Show_ID": 76,
+  "Performing": "Dogstar - Somewhere Between The Power Lines and Palm Trees Tour",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48883e"
+  },
+  "Show_ID": 77,
+  "Performing": "For King & Country",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48883f"
+  },
+  "Show_ID": 78,
+  "Performing": "Drew and Ellie Holcomb's Neighborly Christmas",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Schermerhorn Symphony Center",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.7761,
+  "lat": 36.164902
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488840"
+  },
+  "Show_ID": 79,
+  "Performing": "Dogstar - Somewhere Between The Power Lines and Palm Trees Tour",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488841"
+  },
+  "Show_ID": 80,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488842"
+  },
+  "Show_ID": 81,
+  "Performing": "Mike Farris Sings! The Soul of Christmas 2023",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488843"
+  },
+  "Show_ID": 82,
+  "Performing": "For King & Country",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488844"
+  },
+  "Show_ID": 83,
+  "Performing": "A DRUMMER BOY CHRISTMAS: Live from the Grand Ole Opry House",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.691941,
+  "lat": 36.206514
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488845"
+  },
+  "Show_ID": 84,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488846"
+  },
+  "Show_ID": 85,
+  "Performing": "Gimme Gimme Disco",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488847"
+  },
+  "Show_ID": 86,
+  "Performing": "Alexandra Kay",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Basement East",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.732903,
+  "lat": 36.180401
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488848"
+  },
+  "Show_ID": 87,
+  "Performing": "Mannheim Steamroller Christmas",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "New Age",
+  "venue": "Tennessee Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917071,
+  "lat": 35.964436
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488849"
+  },
+  "Show_ID": 88,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48884a"
+  },
+  "Show_ID": 89,
+  "Performing": "Mannheim Steamroller Christmas",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "New Age",
+  "venue": "Tennessee Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917071,
+  "lat": 35.964436
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48884b"
+  },
+  "Show_ID": 90,
+  "Performing": "The Kruger Brothers Christmas Tour",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Bijou Theatre",
+  "city": "Knoxville",
+  "state": "TN",
+  "long": -83.917015,
+  "lat": 35.962335
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48884c"
+  },
+  "Show_ID": 91,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48884d"
+  },
+  "Show_ID": 92,
+  "Performing": "Amy Grant w/ Vince Gill",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48884e"
+  },
+  "Show_ID": 93,
+  "Performing": "Deep Fried 5",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "Brooklyn Bowl Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783632,
+  "lat": 36.173214
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b48884f"
+  },
+  "Show_ID": 94,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488850"
+  },
+  "Show_ID": 95,
+  "Performing": "Grand Ole Opry",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Grand Ole Opry House",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.665604,
+  "lat": 36.169201
+},
+{
+  "_id": {
+    "$oid": "6574f47fac319fef5b488851"
+  },
+  "Show_ID": 96,
+  "Performing": "Old Crow Medicine Show",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Ryman Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "long": -86.783997,
+  "lat": 36.167198
+}]

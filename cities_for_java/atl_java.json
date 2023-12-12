@@ -1,0 +1,1734 @@
+[{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48878a"
+  },
+  "Show_ID": 0,
+  "Performing": "Sydney Sprague",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48878b"
+  },
+  "Show_ID": 1,
+  "Performing": "Mike and the Moonpies",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "The Loft",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48878c"
+  },
+  "Show_ID": 2,
+  "Performing": "Sarah Brightman: A Christmas Symphony",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Atlanta Symphony Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.385493,
+  "lat": 33.790098
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48878d"
+  },
+  "Show_ID": 3,
+  "Performing": "Pardyalone - I Left You In Minnesota Tour",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48878e"
+  },
+  "Show_ID": 4,
+  "Performing": "Jazmin Bean",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Metal",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48878f"
+  },
+  "Show_ID": 5,
+  "Performing": "Nevertel",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488790"
+  },
+  "Show_ID": 6,
+  "Performing": "The Wood Brothers",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Georgia Theatre",
+  "city": "Athens",
+  "state": "GA",
+  "long": -83.347504,
+  "lat": 34.005199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488791"
+  },
+  "Show_ID": 7,
+  "Performing": "HARDY: the mockingbird & THE CROW Fall Tour presented by eBay Motors",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "Enmarket Arena",
+  "city": "Savannah",
+  "state": "GA",
+  "long": -81.11227,
+  "lat": 32.07514
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488792"
+  },
+  "Show_ID": 8,
+  "Performing": "The Allman Betts Family Revival",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Macon City Auditorium",
+  "city": "Macon",
+  "state": "GA",
+  "long": -83.631201,
+  "lat": 32.837381
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488793"
+  },
+  "Show_ID": 9,
+  "Performing": "The Moss",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Alternative",
+  "venue": "Terminal West",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.446404,
+  "lat": 33.791901
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488794"
+  },
+  "Show_ID": 10,
+  "Performing": "49 Winchester",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Variety Playhouse",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.334602,
+  "lat": 33.770199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488795"
+  },
+  "Show_ID": 11,
+  "Performing": "Majid Jordan - Good People Live",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Center Stage Theater",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488796"
+  },
+  "Show_ID": 12,
+  "Performing": "85 South Show Live",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Gateway Center Arena",
+  "city": "College Park",
+  "state": "GA",
+  "long": -84.457475,
+  "lat": 33.645576
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488797"
+  },
+  "Show_ID": 13,
+  "Performing": "JoJo Hermann",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488798"
+  },
+  "Show_ID": 14,
+  "Performing": "Angel Olsen",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Alternative",
+  "venue": "40 Watt Club",
+  "city": "Athens",
+  "state": "GA",
+  "long": -83.347504,
+  "lat": 34.005199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b488799"
+  },
+  "Show_ID": 15,
+  "Performing": "Katatonia",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Metal",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48879a"
+  },
+  "Show_ID": 16,
+  "Performing": "The Fab Four performs The Beatles' \"Rubber Soul\"",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Undefined",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48879b"
+  },
+  "Show_ID": 17,
+  "Performing": "2023 WOODZ WORLD TOUR 'OO-LI and'",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Gas South Arena",
+  "city": "Duluth",
+  "state": "GA",
+  "long": -84.0907288,
+  "lat": 33.9869191
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48879c"
+  },
+  "Show_ID": 18,
+  "Performing": "Trap Karaoke: Atlanta",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Tabernacle",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.391449,
+  "lat": 33.758688
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48879d"
+  },
+  "Show_ID": 19,
+  "Performing": "Ginger Root",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Variety Playhouse",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.334602,
+  "lat": 33.770199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48879e"
+  },
+  "Show_ID": 20,
+  "Performing": "Frute & Kendall Street Company",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b48879f"
+  },
+  "Show_ID": 21,
+  "Performing": "Sexyy Red N Friends",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Savannah Civic Center - Johnny Mercer Theatre",
+  "city": "Savannah",
+  "state": "GA",
+  "long": -81.0977944,
+  "lat": 32.0784855
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a0"
+  },
+  "Show_ID": 22,
+  "Performing": "85 South Show Live",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Gateway Center Arena",
+  "city": "College Park",
+  "state": "GA",
+  "long": -84.457475,
+  "lat": 33.645576
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a1"
+  },
+  "Show_ID": 23,
+  "Performing": "DURRY",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "The Loft",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a2"
+  },
+  "Show_ID": 24,
+  "Performing": "Jazz At Lincoln Center Orchestra w/ Wynton Marsalis: Big Band Holidays",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Atlanta Symphony Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.385493,
+  "lat": 33.790098
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a3"
+  },
+  "Show_ID": 25,
+  "Performing": "Giddy Up | 18+",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Country",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a4"
+  },
+  "Show_ID": 26,
+  "Performing": "Zeke Beats",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Other",
+  "venue": "Believe Music Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.375397,
+  "lat": 33.744301
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a5"
+  },
+  "Show_ID": 27,
+  "Performing": " NEFFEX - Born To Be a Rockstar: The World Tour 2023.",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a6"
+  },
+  "Show_ID": 28,
+  "Performing": "The Fab Four performs The Beatles' \"Rubber Soul\"",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Undefined",
+  "venue": "Savannah Civic Center - Johnny Mercer Theatre",
+  "city": "Savannah",
+  "state": "GA",
+  "long": -81.0977944,
+  "lat": 32.0784855
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a7"
+  },
+  "Show_ID": 29,
+  "Performing": "The Holiday Jam feat. the Superstars of Southern Soul",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Blues",
+  "venue": "JAMES BROWN ARENA",
+  "city": "Augusta",
+  "state": "GA",
+  "long": -81.9664047,
+  "lat": 33.4685982
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a8"
+  },
+  "Show_ID": 30,
+  "Performing": "Pasadena",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887a9"
+  },
+  "Show_ID": 31,
+  "Performing": "Princess Goes",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "District Live",
+  "city": "Savannah",
+  "state": "GA",
+  "long": -81.09616,
+  "lat": 32.08444
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887aa"
+  },
+  "Show_ID": 32,
+  "Performing": "Dirty Dancing in Concert",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Macon City Auditorium",
+  "city": "Macon",
+  "state": "GA",
+  "long": -83.631201,
+  "lat": 32.837381
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ab"
+  },
+  "Show_ID": 33,
+  "Performing": "SunSquabi w/ Jason Leech",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Terminal West",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.446404,
+  "lat": 33.791901
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ac"
+  },
+  "Show_ID": 34,
+  "Performing": "Take On Me  18+",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ad"
+  },
+  "Show_ID": 35,
+  "Performing": "Eazybaked",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Other",
+  "venue": "Believe Music Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.375397,
+  "lat": 33.744301
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ae"
+  },
+  "Show_ID": 36,
+  "Performing": "J. Worra",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Other",
+  "venue": "Believe Music Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.375397,
+  "lat": 33.744301
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887af"
+  },
+  "Show_ID": 37,
+  "Performing": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Rock",
+  "venue": "Gas South Arena",
+  "city": "Duluth",
+  "state": "GA",
+  "long": -84.0907288,
+  "lat": 33.9869191
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b0"
+  },
+  "Show_ID": 38,
+  "Performing": "Savage Ga$p Presents: Haunted House Fest",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b1"
+  },
+  "Show_ID": 39,
+  "Performing": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Gas South Arena",
+  "city": "Duluth",
+  "state": "GA",
+  "long": -84.0907288,
+  "lat": 33.9869191
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b2"
+  },
+  "Show_ID": 40,
+  "Performing": "The Fab Four performs The Beatles' \"Rubber Soul\"",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Undefined",
+  "venue": "Columbia County Performing Arts Center",
+  "city": "Evans",
+  "state": "GA",
+  "long": -82.127644,
+  "lat": 33.543925
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b3"
+  },
+  "Show_ID": 41,
+  "Performing": "Megan Moroney",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b4"
+  },
+  "Show_ID": 42,
+  "Performing": "Ella Vos: The Microdose Tour",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b5"
+  },
+  "Show_ID": 43,
+  "Performing": "10 Years",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b6"
+  },
+  "Show_ID": 44,
+  "Performing": "IL Divo",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Fox Theatre - Atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.377403,
+  "lat": 33.7714
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b7"
+  },
+  "Show_ID": 45,
+  "Performing": "The Mountain Goats",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Georgia Theatre",
+  "city": "Athens",
+  "state": "GA",
+  "long": -83.347504,
+  "lat": 34.005199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b8"
+  },
+  "Show_ID": 46,
+  "Performing": "Urban Heat",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887b9"
+  },
+  "Show_ID": 47,
+  "Performing": "Rod Wave - Nostalgia Tour",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "State Farm Arena",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.394569,
+  "lat": 33.757796
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ba"
+  },
+  "Show_ID": 48,
+  "Performing": "Ryan Trey",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887bb"
+  },
+  "Show_ID": 49,
+  "Performing": "Power 96.1s Jingle Ball Presented By Capital One",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "State Farm Arena",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.394569,
+  "lat": 33.757796
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887bc"
+  },
+  "Show_ID": 50,
+  "Performing": "Eggy",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Other",
+  "venue": "Aisle 5",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.334602,
+  "lat": 33.770199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887bd"
+  },
+  "Show_ID": 51,
+  "Performing": "Eggy",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Rock",
+  "venue": "Aisle 5",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.350224,
+  "lat": 33.764272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887be"
+  },
+  "Show_ID": 52,
+  "Performing": "TwiggyWill & Friends",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "R&B",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887bf"
+  },
+  "Show_ID": 53,
+  "Performing": "ESPN Band Of The Year National Championship ",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Other",
+  "venue": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.400823,
+  "lat": 33.755389
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c0"
+  },
+  "Show_ID": 54,
+  "Performing": "Savannah Cristina",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "R&B",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c1"
+  },
+  "Show_ID": 55,
+  "Performing": "CHUU - Howl In USA ",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Coca-Cola Roxy",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.469717,
+  "lat": 33.89024
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c2"
+  },
+  "Show_ID": 56,
+  "Performing": "The Vegabonds",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Alternative",
+  "venue": "Terminal West",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.446404,
+  "lat": 33.791901
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c3"
+  },
+  "Show_ID": 57,
+  "Performing": "Corey Smith",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c4"
+  },
+  "Show_ID": 58,
+  "Performing": "Kevin Gates - Only The Generals Tour",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "JAMES BROWN ARENA",
+  "city": "Augusta",
+  "state": "GA",
+  "long": -81.9664047,
+  "lat": 33.4685982
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c5"
+  },
+  "Show_ID": 59,
+  "Performing": "Mae",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "The Loft",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c6"
+  },
+  "Show_ID": 60,
+  "Performing": "V103 Winterfest",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "State Farm Arena",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.394569,
+  "lat": 33.757796
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c7"
+  },
+  "Show_ID": 61,
+  "Performing": "Sugar: The Nu Metal Party | 18+",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Metal",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c8"
+  },
+  "Show_ID": 62,
+  "Performing": "Perreo 404 Xmas | 21+",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Masquerade - Heaven",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389681,
+  "lat": 33.751769
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887c9"
+  },
+  "Show_ID": 63,
+  "Performing": "Tab Benoit w/ Dirty Dozen Brass Band",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Variety Playhouse",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.334602,
+  "lat": 33.770199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ca"
+  },
+  "Show_ID": 64,
+  "Performing": "Stephen Sanchez",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Eastern-GA",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.332802,
+  "lat": 33.7136
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887cb"
+  },
+  "Show_ID": 65,
+  "Performing": "The Minks",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Undefined",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887cc"
+  },
+  "Show_ID": 66,
+  "Performing": "Jungle Bells 2023: 25th Anniversary | 18+",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Masquerade Music Park",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.36556265,
+  "lat": 33.77108082
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887cd"
+  },
+  "Show_ID": 67,
+  "Performing": "MIXTAPE: That's My Jam! Tour",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ce"
+  },
+  "Show_ID": 68,
+  "Performing": "Yacht Rock Revue - Yacht Rock Holiday Special",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Coca-Cola Roxy",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.469717,
+  "lat": 33.89024
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887cf"
+  },
+  "Show_ID": 69,
+  "Performing": "Walker and Royce",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Other",
+  "venue": "Believe Music Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.375397,
+  "lat": 33.744301
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d0"
+  },
+  "Show_ID": 70,
+  "Performing": "Ricky Skaggs",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Country",
+  "venue": "The Eastern-GA",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.332802,
+  "lat": 33.7136
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d1"
+  },
+  "Show_ID": 71,
+  "Performing": "Holiday Hootenanny",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Variety Playhouse",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.334602,
+  "lat": 33.770199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d2"
+  },
+  "Show_ID": 72,
+  "Performing": "Steve Miller Band w/ Samantha Fish",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Fox Theatre - Atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.377403,
+  "lat": 33.7714
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d3"
+  },
+  "Show_ID": 73,
+  "Performing": "John Berry",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Classic Center Theatre",
+  "city": "Athens",
+  "state": "GA",
+  "long": -83.347504,
+  "lat": 34.005199
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d4"
+  },
+  "Show_ID": 74,
+  "Performing": "Odie Leigh",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Folk",
+  "venue": "The Masquerade - Purgatory",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d5"
+  },
+  "Show_ID": 75,
+  "Performing": "One Night of Tina: A Tina Turner Tribute Show",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d6"
+  },
+  "Show_ID": 76,
+  "Performing": "Agnostic Front",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d7"
+  },
+  "Show_ID": 77,
+  "Performing": "Dogstar",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Center Stage Theater",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d8"
+  },
+  "Show_ID": 78,
+  "Performing": "Samara Joy: A Joyful Holiday",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Atlanta Symphony Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.385493,
+  "lat": 33.790098
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887d9"
+  },
+  "Show_ID": 79,
+  "Performing": "John Driskell Hopkins' Sounds of The Season",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887da"
+  },
+  "Show_ID": 80,
+  "Performing": "Gregory Porter",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Fox Theatre - Atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.377403,
+  "lat": 33.7714
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887db"
+  },
+  "Show_ID": 81,
+  "Performing": "Sonny & THE7EVENTHTIME Album Release Party",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "The Loft",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887dc"
+  },
+  "Show_ID": 82,
+  "Performing": "Celtic Woman: A Christmas Symphony",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "World",
+  "venue": "Atlanta Symphony Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.385493,
+  "lat": 33.790098
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887dd"
+  },
+  "Show_ID": 83,
+  "Performing": "5TH AMNDMNT: ATL Featuring Homixide Gang",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Masquerade - Heaven",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389681,
+  "lat": 33.751769
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887de"
+  },
+  "Show_ID": 84,
+  "Performing": "The Spinners",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "The Eastern-GA",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.332802,
+  "lat": 33.7136
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887df"
+  },
+  "Show_ID": 85,
+  "Performing": "Teddy Swims - Kegsmas 2023",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e0"
+  },
+  "Show_ID": 86,
+  "Performing": "Celtic Woman: A Christmas Symphony",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "World",
+  "venue": "Atlanta Symphony Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.385493,
+  "lat": 33.790098
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e1"
+  },
+  "Show_ID": 87,
+  "Performing": "ATL Collective",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Undefined",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e2"
+  },
+  "Show_ID": 88,
+  "Performing": "Lil Baby & Friends",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "State Farm Arena",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.394569,
+  "lat": 33.757796
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e3"
+  },
+  "Show_ID": 89,
+  "Performing": "T.I.-A Night celebrating 20 years of Trap Muzik ",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Atlanta Symphony Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.385493,
+  "lat": 33.790098
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e4"
+  },
+  "Show_ID": 90,
+  "Performing": "lunar vacation",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "The Masquerade - Hell",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.389887,
+  "lat": 33.75184
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e5"
+  },
+  "Show_ID": 91,
+  "Performing": "Sound Tribe Sector 9",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Eastern-GA",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.332802,
+  "lat": 33.7136
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e6"
+  },
+  "Show_ID": 92,
+  "Performing": "Widespread Panic",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Fox Theatre - Atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.377403,
+  "lat": 33.7714
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e7"
+  },
+  "Show_ID": 93,
+  "Performing": "SaxKixAve & 12Eleven",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Vinyl",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3877907,
+  "lat": 33.7918926
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e8"
+  },
+  "Show_ID": 94,
+  "Performing": "T.I.-A Night celebrating 20 years of Trap Muzik ",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Atlanta Symphony Hall",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.385493,
+  "lat": 33.790098
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887e9"
+  },
+  "Show_ID": 95,
+  "Performing": "Bee Gees Gold Tribute to The Bee Gees",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Undefined",
+  "venue": "Gas South Theater",
+  "city": "Duluth",
+  "state": "GA",
+  "long": -84.0907288,
+  "lat": 33.9869191
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ea"
+  },
+  "Show_ID": 96,
+  "Performing": "Mother's Finest",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Buckhead Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.3795437,
+  "lat": 33.8402272
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887eb"
+  },
+  "Show_ID": 97,
+  "Performing": "Blackberry Smoke",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Anderson Music Hall - Georgia Mountain Fairgrounds",
+  "city": "Hiawassee",
+  "state": "GA",
+  "long": -83.709396,
+  "lat": 34.907799
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ec"
+  },
+  "Show_ID": 98,
+  "Performing": "Sound Tribe Sector 9",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Eastern-GA",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.332802,
+  "lat": 33.7136
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ed"
+  },
+  "Show_ID": 99,
+  "Performing": "Widespread Panic",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Fox Theatre - Atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.377403,
+  "lat": 33.7714
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ee"
+  },
+  "Show_ID": 100,
+  "Performing": "Charlie Wilson",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "Cobb Energy Performing Arts Centre",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.4583631,
+  "lat": 33.8844269
+},
+{
+  "_id": {
+    "$oid": "6574f46aac319fef5b4887ef"
+  },
+  "Show_ID": 101,
+  "Performing": "Daily Bread",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "Variety Playhouse",
+  "city": "Atlanta",
+  "state": "GA",
+  "long": -84.334602,
+  "lat": 33.770199
+}]

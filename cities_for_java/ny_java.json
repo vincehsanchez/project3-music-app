@@ -1,0 +1,5559 @@
+[{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48846c"
+  },
+  "Show_ID": 0,
+  "Performing": "girlhouse",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48846d"
+  },
+  "Show_ID": 1,
+  "Performing": "The Maine",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "Irving Plaza Powered By Verizon 5G",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9884469,
+  "lat": 40.734917
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48846e"
+  },
+  "Show_ID": 2,
+  "Performing": "Energy Curfew Music Hour W/ Chris Thile And Punch Brothers",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Variety",
+  "venue": "Minetta Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -74.0012676,
+  "lat": 40.7303577
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48846f"
+  },
+  "Show_ID": 3,
+  "Performing": "GIGGS",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488470"
+  },
+  "Show_ID": 4,
+  "Performing": "Leanna Firestone",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "Gramercy Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98501292,
+  "lat": 40.73975368
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488471"
+  },
+  "Show_ID": 5,
+  "Performing": "Jonas Brothers: FIVE ALBUMS. ONE NIGHT.",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "long": -74.17121214,
+  "lat": 40.73340555
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488472"
+  },
+  "Show_ID": 6,
+  "Performing": "Amy Grant & Michael W. Smith Christmas",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Toyota Oakdale Theatre",
+  "city": "Wallingford",
+  "state": "CT",
+  "long": -72.846188,
+  "lat": 41.4486599
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488473"
+  },
+  "Show_ID": 7,
+  "Performing": "Holiday Cheer for FUV",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488474"
+  },
+  "Show_ID": 8,
+  "Performing": "CLUB BOYBND",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "R&B",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488475"
+  },
+  "Show_ID": 9,
+  "Performing": "Curtis Waters",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Pop",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488476"
+  },
+  "Show_ID": 10,
+  "Performing": "Pentatonix The Most Wonderful Tour Of The Year",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Mohegan Sun Arena",
+  "city": "Uncasville",
+  "state": "CT",
+  "long": -72.0914563,
+  "lat": 41.4915974
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488477"
+  },
+  "Show_ID": 11,
+  "Performing": "Romy",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488478"
+  },
+  "Show_ID": 12,
+  "Performing": "Orchestra of St. Luke's",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488479"
+  },
+  "Show_ID": 13,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48847a"
+  },
+  "Show_ID": 14,
+  "Performing": "Pan Arcadia / Will Leet",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Made",
+  "city": "Brooklyn ",
+  "state": "NY",
+  "long": -73.92193,
+  "lat": 40.70708
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48847b"
+  },
+  "Show_ID": 15,
+  "Performing": "Jonas Brothers: FIVE ALBUMS. ONE NIGHT.",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "long": -74.17121214,
+  "lat": 40.73340555
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48847c"
+  },
+  "Show_ID": 16,
+  "Performing": "96.5TIC Deck The Hall Ball",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Toyota Oakdale Theatre",
+  "city": "Wallingford",
+  "state": "CT",
+  "long": -72.846188,
+  "lat": 41.4486599
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48847d"
+  },
+  "Show_ID": 17,
+  "Performing": "New York Philharmonic w/ Andres Orozco-Estrada",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48847e"
+  },
+  "Show_ID": 18,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48847f"
+  },
+  "Show_ID": 19,
+  "Performing": "The Maine",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488480"
+  },
+  "Show_ID": 20,
+  "Performing": "Half Step",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488481"
+  },
+  "Show_ID": 21,
+  "Performing": "Jefferson Starship",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Premier Theater at Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "long": -71.9630872,
+  "lat": 41.4783608
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488482"
+  },
+  "Show_ID": 22,
+  "Performing": "KOAN Sound",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Racket NYC",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.999702,
+  "lat": 40.740898
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488483"
+  },
+  "Show_ID": 23,
+  "Performing": "Dinosaur Jr",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Alternative",
+  "venue": "Music Hall of Williamsburg",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.956497,
+  "lat": 40.711102
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488484"
+  },
+  "Show_ID": 24,
+  "Performing": "The Fearless Flyers",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Blue Note - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.997902,
+  "lat": 40.7253
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488485"
+  },
+  "Show_ID": 25,
+  "Performing": "Mora",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Palladium Times Square ",
+  "city": "New York City",
+  "state": "NY",
+  "long": -73.985763,
+  "lat": 40.757201
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488486"
+  },
+  "Show_ID": 26,
+  "Performing": "Low Beam, Funky Toona",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Pop",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488487"
+  },
+  "Show_ID": 27,
+  "Performing": "The Fearless Flyers",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "22:30:00",
+  "genre": "Other",
+  "venue": "Blue Note - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.997902,
+  "lat": 40.7253
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488488"
+  },
+  "Show_ID": 28,
+  "Performing": "moe.",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "22:30:00",
+  "genre": "Rock",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488489"
+  },
+  "Show_ID": 29,
+  "Performing": "Oliver Hazard",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Folk",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48848a"
+  },
+  "Show_ID": 30,
+  "Performing": "Z100's Jingle Ball Presented by Capital One",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48848b"
+  },
+  "Show_ID": 31,
+  "Performing": "Lamp",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48848c"
+  },
+  "Show_ID": 32,
+  "Performing": "Aterciopelados",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Latin",
+  "venue": "Irving Plaza Powered By Verizon 5G",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9884469,
+  "lat": 40.734917
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48848d"
+  },
+  "Show_ID": 33,
+  "Performing": "Meshuggah with Special Guests In Flames and Whitechapel",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Metal",
+  "venue": "The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42591099,
+  "lat": 40.86969685
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48848e"
+  },
+  "Show_ID": 34,
+  "Performing": "Marky Ramone Holiday Blitzkrieg",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48848f"
+  },
+  "Show_ID": 35,
+  "Performing": "Josey Scott's Saliva",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Reverb",
+  "city": "Reading",
+  "state": "PA",
+  "long": -75.9196123,
+  "lat": 40.3563327
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488490"
+  },
+  "Show_ID": 36,
+  "Performing": "Ashley McBryde",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488491"
+  },
+  "Show_ID": 37,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488492"
+  },
+  "Show_ID": 38,
+  "Performing": "Brett Eldredge: Glow Live Tour",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488493"
+  },
+  "Show_ID": 39,
+  "Performing": "Straight No Chaser: Sleighin' It Tour",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Mohegan Sun Arena",
+  "city": "Uncasville",
+  "state": "CT",
+  "long": -72.0914563,
+  "lat": 41.4915974
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488494"
+  },
+  "Show_ID": 40,
+  "Performing": "Il Divo",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Premier Theater at Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "long": -71.9630872,
+  "lat": 41.4783608
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488495"
+  },
+  "Show_ID": 41,
+  "Performing": "moe.",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488496"
+  },
+  "Show_ID": 42,
+  "Performing": "Watchhouse",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "long": -73.846001,
+  "lat": 41.085098
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488497"
+  },
+  "Show_ID": 43,
+  "Performing": "New York Philharmonic w/ Andres Orozco-Estrada",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488498"
+  },
+  "Show_ID": 44,
+  "Performing": "Albert Cummings",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Palace Theatre Stamford",
+  "city": "Stamford",
+  "state": "CT",
+  "long": -73.537903,
+  "lat": 41.053101
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488499"
+  },
+  "Show_ID": 45,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48849a"
+  },
+  "Show_ID": 46,
+  "Performing": "Engelbert Humperdinck",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "long": -73.56055321,
+  "lat": 40.77517125
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48849b"
+  },
+  "Show_ID": 47,
+  "Performing": "Judy Collins: An Evening of Hits & Holiday Classics",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Bethel Woods Center for the Arts",
+  "city": "Bethel",
+  "state": "NY",
+  "long": -74.8779738,
+  "lat": 41.69688884
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48849c"
+  },
+  "Show_ID": 48,
+  "Performing": "KC & the Sunshine Band",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Bergen Performing Arts Center",
+  "city": "Englewood",
+  "state": "NJ",
+  "long": -73.97511,
+  "lat": 40.895358
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48849d"
+  },
+  "Show_ID": 49,
+  "Performing": "Etienne Charles Creole Christmas",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Tilles Center - Krasnoff Theater",
+  "city": "Brookville",
+  "state": "NY",
+  "long": -73.6197704,
+  "lat": 40.8119256
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48849e"
+  },
+  "Show_ID": 50,
+  "Performing": "Jefferson Starship",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "The Space at Westbury Theater",
+  "city": "Westbury",
+  "state": "NY",
+  "long": -73.58745575,
+  "lat": 40.75813293
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48849f"
+  },
+  "Show_ID": 51,
+  "Performing": "Mora",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Palladium Times Square ",
+  "city": "New York City",
+  "state": "NY",
+  "long": -73.985763,
+  "lat": 40.757201
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a0"
+  },
+  "Show_ID": 52,
+  "Performing": "Pussy Riot: Riot Days - An Activist Multimedia Experience",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Warsaw",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.948408,
+  "lat": 40.722392
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a1"
+  },
+  "Show_ID": 53,
+  "Performing": "Caligula Blushed",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Undefined",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a2"
+  },
+  "Show_ID": 54,
+  "Performing": "Dinosaur Jr",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Alternative",
+  "venue": "Music Hall of Williamsburg",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.956497,
+  "lat": 40.711102
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a3"
+  },
+  "Show_ID": 55,
+  "Performing": "Klub Nocturno Presents Rockero Night",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Latin",
+  "venue": "Brooklyn Made",
+  "city": "Brooklyn ",
+  "state": "NY",
+  "long": -73.92193,
+  "lat": 40.70708
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a4"
+  },
+  "Show_ID": 56,
+  "Performing": "Born Without Bones",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Rock",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a5"
+  },
+  "Show_ID": 57,
+  "Performing": "Apollo Music Café: Gabby Samone",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "R&B",
+  "venue": "Apollo Theater",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.95013312,
+  "lat": 40.80986245
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a6"
+  },
+  "Show_ID": 58,
+  "Performing": "Broadway Rave",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Gramercy Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98501292,
+  "lat": 40.73975368
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a7"
+  },
+  "Show_ID": 59,
+  "Performing": "Ravenscoon",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "23:30:00",
+  "genre": "Other",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a8"
+  },
+  "Show_ID": 60,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884a9"
+  },
+  "Show_ID": 61,
+  "Performing": "Daniel O'Donnell",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "17:00:00",
+  "genre": "Folk",
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "long": -73.56055321,
+  "lat": 40.77517125
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884aa"
+  },
+  "Show_ID": 62,
+  "Performing": "Bergy Seltzer, Recess",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ab"
+  },
+  "Show_ID": 63,
+  "Performing": "The Sleeping & The Fall of Troy",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "Warsaw",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.948408,
+  "lat": 40.722392
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ac"
+  },
+  "Show_ID": 64,
+  "Performing": "Real Friends & Knuckle Puck",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "Irving Plaza Powered By Verizon 5G",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9884469,
+  "lat": 40.734917
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ad"
+  },
+  "Show_ID": 65,
+  "Performing": "Labamba's Holiday Hurrah",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ae"
+  },
+  "Show_ID": 66,
+  "Performing": "Jonas Brothers: FIVE ALBUMS. ONE NIGHT.",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.97519,
+  "lat": 40.68285
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884af"
+  },
+  "Show_ID": 67,
+  "Performing": "Fleetwood Macked",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Cutting Room",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.982597,
+  "lat": 40.738602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b0"
+  },
+  "Show_ID": 68,
+  "Performing": "Tiny Moving Parts",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Brooklyn Made",
+  "city": "Brooklyn ",
+  "state": "NY",
+  "long": -73.92193,
+  "lat": 40.70708
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b1"
+  },
+  "Show_ID": 69,
+  "Performing": "Gary Frost & Chris Rendell",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b2"
+  },
+  "Show_ID": 70,
+  "Performing": "Holiday Doo Wop starring The Duprees",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Bergen Performing Arts Center",
+  "city": "Englewood",
+  "state": "NJ",
+  "long": -73.97511,
+  "lat": 40.895358
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b3"
+  },
+  "Show_ID": 71,
+  "Performing": "Marky Ramone's Holiday Blitzkrieg",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Gramercy Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98501292,
+  "lat": 40.73975368
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b4"
+  },
+  "Show_ID": 72,
+  "Performing": "Tab Benoit with special guests The Dirty Dozen Brass Band",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Blues",
+  "venue": "The Wellmont Theater",
+  "city": "Montclair",
+  "state": "NJ",
+  "long": -74.2165153,
+  "lat": 40.8124988
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b5"
+  },
+  "Show_ID": 73,
+  "Performing": "Mariah Carey - Merry Christmas One And All!",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b6"
+  },
+  "Show_ID": 74,
+  "Performing": "An Irish Christmas w/ Keith and Kristyn Getty",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Holiday",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b7"
+  },
+  "Show_ID": 75,
+  "Performing": "Quarters Of Change",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b8"
+  },
+  "Show_ID": 76,
+  "Performing": "Amateur Night At The Apollo: Holiday Special",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Apollo's Historic Theater",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.95013312,
+  "lat": 40.80986245
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884b9"
+  },
+  "Show_ID": 77,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ba"
+  },
+  "Show_ID": 78,
+  "Performing": "Brett Eldredge: Glow Live Tour",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884bb"
+  },
+  "Show_ID": 79,
+  "Performing": "Andrea Bocelli",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Classical",
+  "venue": "XL CENTER",
+  "city": "Hartford",
+  "state": "CT",
+  "long": -72.676384,
+  "lat": 41.768353
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884bc"
+  },
+  "Show_ID": 80,
+  "Performing": "moe.",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884bd"
+  },
+  "Show_ID": 81,
+  "Performing": "New York Philharmonic w/ Andres Orozco-Estrada",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884be"
+  },
+  "Show_ID": 82,
+  "Performing": "Allison Russell",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Levon Helm Studios",
+  "city": "Woodstock",
+  "state": "NY",
+  "long": -74.1166,
+  "lat": 42.053699
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884bf"
+  },
+  "Show_ID": 83,
+  "Performing": "Dean Martin Tribute",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Palace Theatre Stamford",
+  "city": "Stamford",
+  "state": "CT",
+  "long": -73.537903,
+  "lat": 41.053101
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c0"
+  },
+  "Show_ID": 84,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c1"
+  },
+  "Show_ID": 85,
+  "Performing": "An Intimate Evening with David Foster & Katharine McPhee",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "New Jersey Performing Arts Center",
+  "city": "Newark",
+  "state": "NJ",
+  "long": -74.16809,
+  "lat": 40.739502
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c2"
+  },
+  "Show_ID": 86,
+  "Performing": "Aqua",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Manhattan Center Grand Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.994309,
+  "lat": 40.752664
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c3"
+  },
+  "Show_ID": 87,
+  "Performing": "Back To The Eighties with Jessie's Girl",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Undefined",
+  "venue": "The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42591099,
+  "lat": 40.86969685
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c4"
+  },
+  "Show_ID": 88,
+  "Performing": "Sin Bandera  Frecuencia Us Tour 2023",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Latin",
+  "venue": "United Palace",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.93835048,
+  "lat": 40.84626724
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c5"
+  },
+  "Show_ID": 89,
+  "Performing": "Garrison Keillor - A Prairie Home Companion 50th Anniversary",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98447747,
+  "lat": 40.75599205
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c6"
+  },
+  "Show_ID": 90,
+  "Performing": "Watchhouse",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Country",
+  "venue": "Racket NYC",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.999702,
+  "lat": 40.740898
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c7"
+  },
+  "Show_ID": 91,
+  "Performing": "EPMD",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c8"
+  },
+  "Show_ID": 92,
+  "Performing": "Le Youth",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Other",
+  "venue": "Brooklyn Steel",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.945602,
+  "lat": 40.7272
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884c9"
+  },
+  "Show_ID": 93,
+  "Performing": "Apollo Music Café: Rajna Swaminathan",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "R&B",
+  "venue": "Apollo Theater",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.95013312,
+  "lat": 40.80986245
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ca"
+  },
+  "Show_ID": 94,
+  "Performing": "The Red Party presents: Urban Heat & Rare DM Live!",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Rock",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884cb"
+  },
+  "Show_ID": 95,
+  "Performing": "Emo Nite",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "Other",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884cc"
+  },
+  "Show_ID": 96,
+  "Performing": "Beach Music's 18th Annual Holiday Party",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "12:00:00",
+  "genre": "Rock",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884cd"
+  },
+  "Show_ID": 97,
+  "Performing": "Ultimate Rap League Presents Homecoming 2",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "13:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Irving Plaza Powered By Verizon 5G",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9884469,
+  "lat": 40.734917
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ce"
+  },
+  "Show_ID": 98,
+  "Performing": "The English Concert",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Other",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884cf"
+  },
+  "Show_ID": 99,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d0"
+  },
+  "Show_ID": 100,
+  "Performing": "The Silos, Ivan Julian and the Magnificent 6",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Folk",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d1"
+  },
+  "Show_ID": 101,
+  "Performing": "Energy Curfew Music Hour W/ Chris Thile And Punch Brothers",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Variety",
+  "venue": "Minetta Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -74.0012676,
+  "lat": 40.7303577
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d2"
+  },
+  "Show_ID": 102,
+  "Performing": "John Tesh",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "Patchogue Theater",
+  "city": "Patchogue",
+  "state": "NY",
+  "long": -72.994904,
+  "lat": 40.771801
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d3"
+  },
+  "Show_ID": 103,
+  "Performing": "The Temptations & the Four Tops",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "R&B",
+  "venue": "Bergen Performing Arts Center",
+  "city": "Englewood",
+  "state": "NJ",
+  "long": -73.97511,
+  "lat": 40.895358
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d4"
+  },
+  "Show_ID": 104,
+  "Performing": "Patti LaBelle with special guest Leela James",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "R&B",
+  "venue": "New Jersey Performing Arts Center",
+  "city": "Newark",
+  "state": "NJ",
+  "long": -74.16809,
+  "lat": 40.739502
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d5"
+  },
+  "Show_ID": 105,
+  "Performing": "Meshuggah with Special Guests In Flames and Whitechapel",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Metal",
+  "venue": "The Wellmont Theater",
+  "city": "Montclair",
+  "state": "NJ",
+  "long": -74.2165153,
+  "lat": 40.8124988
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d6"
+  },
+  "Show_ID": 106,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d7"
+  },
+  "Show_ID": 107,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d8"
+  },
+  "Show_ID": 108,
+  "Performing": "The Fearless Flyers",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Blue Note - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.997902,
+  "lat": 40.7253
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884d9"
+  },
+  "Show_ID": 109,
+  "Performing": "An Intimate Evening with David Foster & Katharine McPhee",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "long": -73.56055321,
+  "lat": 40.77517125
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884da"
+  },
+  "Show_ID": 110,
+  "Performing": "Savannah Cristina: The Soft Tour",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "R&B",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884db"
+  },
+  "Show_ID": 111,
+  "Performing": "The Fearless Flyers",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "22:30:00",
+  "genre": "Other",
+  "venue": "Blue Note - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.997902,
+  "lat": 40.7253
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884dc"
+  },
+  "Show_ID": 112,
+  "Performing": "Debbii Dawson",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Folk",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884dd"
+  },
+  "Show_ID": 113,
+  "Performing": "The Maccabeats",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "World",
+  "venue": "Bergen Performing Arts Center",
+  "city": "Englewood",
+  "state": "NJ",
+  "long": -73.97511,
+  "lat": 40.895358
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884de"
+  },
+  "Show_ID": 114,
+  "Performing": "WOODZ",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Kings Theatre",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.956398,
+  "lat": 40.646301
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884df"
+  },
+  "Show_ID": 115,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e0"
+  },
+  "Show_ID": 116,
+  "Performing": "L.S. Dunes",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42591099,
+  "lat": 40.86969685
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e1"
+  },
+  "Show_ID": 117,
+  "Performing": "Sky Ferreira",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e2"
+  },
+  "Show_ID": 118,
+  "Performing": "Majid Jordan",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Brooklyn Steel",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.945602,
+  "lat": 40.7272
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e3"
+  },
+  "Show_ID": 119,
+  "Performing": "Cancion Franklin, Leah Tash ",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Folk",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e4"
+  },
+  "Show_ID": 120,
+  "Performing": "No Guest List Fest",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "17:30:00",
+  "genre": "Other",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e5"
+  },
+  "Show_ID": 121,
+  "Performing": "Meshuggah with Special Guests In Flames and Whitechapel",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Metal",
+  "venue": "Toyota Oakdale Theatre",
+  "city": "Wallingford",
+  "state": "CT",
+  "long": -72.846188,
+  "lat": 41.4486599
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e6"
+  },
+  "Show_ID": 122,
+  "Performing": "Bobby Weir & Wolf Bros Featuring The Wolfpack",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e7"
+  },
+  "Show_ID": 123,
+  "Performing": "New York Philharmonic w/ Handels Messiah",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e8"
+  },
+  "Show_ID": 124,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884e9"
+  },
+  "Show_ID": 125,
+  "Performing": "The Rocky Horror Picture Show",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Music",
+  "venue": "The Palace Theatre Albany",
+  "city": "Albany",
+  "state": "NY",
+  "long": -73.750175,
+  "lat": 42.654511
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ea"
+  },
+  "Show_ID": 126,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884eb"
+  },
+  "Show_ID": 127,
+  "Performing": "My Sinatra Starring Cary Hoffman",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Jazz",
+  "venue": "Tilles Center - Krasnoff Theater",
+  "city": "Brookville",
+  "state": "NY",
+  "long": -73.6197704,
+  "lat": 40.8119256
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ec"
+  },
+  "Show_ID": 128,
+  "Performing": "Majid Jordan w/ Alex Lustig",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Brooklyn Steel",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.945602,
+  "lat": 40.7272
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ed"
+  },
+  "Show_ID": 129,
+  "Performing": "Daniil Trifonov",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ee"
+  },
+  "Show_ID": 130,
+  "Performing": "Vitamin String Quartet",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Bergen Performing Arts Center",
+  "city": "Englewood",
+  "state": "NJ",
+  "long": -73.97511,
+  "lat": 40.895358
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ef"
+  },
+  "Show_ID": 131,
+  "Performing": "Bobby Weir & Wolf Bros Featuring The Wolfpack",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f0"
+  },
+  "Show_ID": 132,
+  "Performing": "New York Philharmonic w/ Handels Messiah",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f1"
+  },
+  "Show_ID": 133,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f2"
+  },
+  "Show_ID": 134,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f3"
+  },
+  "Show_ID": 135,
+  "Performing": "Andrea Bocelli",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Classical",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f4"
+  },
+  "Show_ID": 136,
+  "Performing": "Interpol",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f5"
+  },
+  "Show_ID": 137,
+  "Performing": "Patrick Watson",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f6"
+  },
+  "Show_ID": 138,
+  "Performing": "Postmodern Jukebox",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Patchogue Theater",
+  "city": "Patchogue",
+  "state": "NY",
+  "long": -72.994904,
+  "lat": 40.771801
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f7"
+  },
+  "Show_ID": 139,
+  "Performing": "Michael Feinstein w/ Jean-Yves Thibaudet",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f8"
+  },
+  "Show_ID": 140,
+  "Performing": "Bret Michaels \"Fall Holiday Parti-Gras\" with Adam & The Metal Hawks ",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "long": -73.56055321,
+  "lat": 40.77517125
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884f9"
+  },
+  "Show_ID": 141,
+  "Performing": "Madonna - The Celebration Tour",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Rock",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.97519,
+  "lat": 40.68285
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884fa"
+  },
+  "Show_ID": 142,
+  "Performing": "CLAY",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "R&B",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884fb"
+  },
+  "Show_ID": 143,
+  "Performing": "Junius Karr, Kid at the Corner, Painthorse",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Pop",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884fc"
+  },
+  "Show_ID": 144,
+  "Performing": "In Love and Struggle",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Theatre",
+  "venue": "Minetta Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -74.0012676,
+  "lat": 40.7303577
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884fd"
+  },
+  "Show_ID": 145,
+  "Performing": "Bouncing Souls",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884fe"
+  },
+  "Show_ID": 146,
+  "Performing": "Handels Messiah",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4884ff"
+  },
+  "Show_ID": 147,
+  "Performing": "New York Philharmonic",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488500"
+  },
+  "Show_ID": 148,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488501"
+  },
+  "Show_ID": 149,
+  "Performing": "Justin Quiles - NIVELES Tour 2023",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Latin",
+  "venue": "Irving Plaza Powered By Verizon 5G",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9884469,
+  "lat": 40.734917
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488502"
+  },
+  "Show_ID": 150,
+  "Performing": "The 8 Nights of Hanukkah with Yo La Tengo",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488503"
+  },
+  "Show_ID": 151,
+  "Performing": "Andrea Bocelli",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Classical",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488504"
+  },
+  "Show_ID": 152,
+  "Performing": "Interpol",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488505"
+  },
+  "Show_ID": 153,
+  "Performing": "Automatic",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Music Hall of Williamsburg",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.956497,
+  "lat": 40.711102
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488506"
+  },
+  "Show_ID": 154,
+  "Performing": "New York Voices",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Ridgefield Playhouse",
+  "city": "Ridgefield",
+  "state": "CT",
+  "long": -73.502403,
+  "lat": 41.3064
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488507"
+  },
+  "Show_ID": 155,
+  "Performing": "Two Minutes To Late Night",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Metal",
+  "venue": "Gramercy Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98501292,
+  "lat": 40.73975368
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488508"
+  },
+  "Show_ID": 156,
+  "Performing": "Samara Joy: A Joyful Holiday",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Apollo Theater",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.95013312,
+  "lat": 40.80986245
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488509"
+  },
+  "Show_ID": 157,
+  "Performing": "WDHA's Naughty or Nice Ball with Bret Michaels",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Bergen Performing Arts Center",
+  "city": "Englewood",
+  "state": "NJ",
+  "long": -73.97511,
+  "lat": 40.895358
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48850a"
+  },
+  "Show_ID": 158,
+  "Performing": "Its Beginning To Look A Lot Like Alaska ..A Christmas Show",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98447747,
+  "lat": 40.75599205
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48850b"
+  },
+  "Show_ID": 159,
+  "Performing": "Madonna - The Celebration Tour",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Rock",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.97519,
+  "lat": 40.68285
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48850c"
+  },
+  "Show_ID": 160,
+  "Performing": "Golder, circuit y, Who Shot Lulu",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Pop",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48850d"
+  },
+  "Show_ID": 161,
+  "Performing": "Dogs In A Pile 2day Pass",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Rock",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48850e"
+  },
+  "Show_ID": 162,
+  "Performing": "Casey Neill",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48850f"
+  },
+  "Show_ID": 163,
+  "Performing": "In Love and Struggle",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Theatre",
+  "venue": "Minetta Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -74.0012676,
+  "lat": 40.7303577
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488510"
+  },
+  "Show_ID": 164,
+  "Performing": "We Are Scientists",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488511"
+  },
+  "Show_ID": 165,
+  "Performing": "Dogs In A Pile",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488512"
+  },
+  "Show_ID": 166,
+  "Performing": "Promised Land",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488513"
+  },
+  "Show_ID": 167,
+  "Performing": "Universal Temple of the Arts Staten Island JAZZ Festival 35",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Jazz",
+  "venue": "St. George Theatre",
+  "city": "Staten Island",
+  "state": "NY",
+  "long": -74.077484,
+  "lat": 40.6422839
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488514"
+  },
+  "Show_ID": 168,
+  "Performing": "Choir! Choir! Choir! - DREAMS - An Epic Fleetwood Mac Sing-Along",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Irving Plaza Powered By Verizon 5G",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9884469,
+  "lat": 40.734917
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488515"
+  },
+  "Show_ID": 169,
+  "Performing": "Duel Of The Decades: 80's Vs 90's",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Undefined",
+  "venue": "The Wellmont Theater",
+  "city": "Montclair",
+  "state": "NJ",
+  "long": -74.2165153,
+  "lat": 40.8124988
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488516"
+  },
+  "Show_ID": 170,
+  "Performing": "Bobby Weir & Wolf Bros Featuring The Wolfpack",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488517"
+  },
+  "Show_ID": 171,
+  "Performing": "Ingrid Michaelson",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488518"
+  },
+  "Show_ID": 172,
+  "Performing": "17th Annual Holiday Hop: Live from New York",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98923951,
+  "lat": 40.73170187
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488519"
+  },
+  "Show_ID": 173,
+  "Performing": "Lil Wayne",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Total Mortgage Arena",
+  "city": "Bridgeport",
+  "state": "CT",
+  "long": -73.1879718,
+  "lat": 41.1732362
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48851a"
+  },
+  "Show_ID": 174,
+  "Performing": "Martina McBride",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Premier Theater at Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "long": -71.9630872,
+  "lat": 41.4783608
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48851b"
+  },
+  "Show_ID": 175,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48851c"
+  },
+  "Show_ID": 176,
+  "Performing": "Samara Joy: A Joyful Holiday",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Apollo Theater",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.95013312,
+  "lat": 40.80986245
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48851d"
+  },
+  "Show_ID": 177,
+  "Performing": "Celebrate Tito Puente - The King of Latin Music",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Latin",
+  "venue": "Palladium Times Square ",
+  "city": "New York City",
+  "state": "NY",
+  "long": -73.985763,
+  "lat": 40.757201
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48851e"
+  },
+  "Show_ID": 178,
+  "Performing": "The Dirty Sweet",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48851f"
+  },
+  "Show_ID": 179,
+  "Performing": "The Townhall & Preemo Prod. Presents A Holiday Show W That Motown Band",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98447747,
+  "lat": 40.75599205
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488520"
+  },
+  "Show_ID": 180,
+  "Performing": "KID SMOKO with Special Guests Sugar Pit and Monobloc",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Rock",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488521"
+  },
+  "Show_ID": 181,
+  "Performing": "MeanRed Presents Four Tet",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Warsaw",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.948408,
+  "lat": 40.722392
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488522"
+  },
+  "Show_ID": 182,
+  "Performing": "Mersiv",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "Other",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488523"
+  },
+  "Show_ID": 183,
+  "Performing": "The Music Of Taylor Swift For Kids + More",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "11:30:00",
+  "genre": "Rock",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488524"
+  },
+  "Show_ID": 184,
+  "Performing": "Keystone Holiday Tattoo Jam",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "12:00:00",
+  "genre": "Rock",
+  "venue": "Reverb",
+  "city": "Reading",
+  "state": "PA",
+  "long": -75.9196123,
+  "lat": 40.3563327
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488525"
+  },
+  "Show_ID": 185,
+  "Performing": "The Music Of Taylor Swift For Kids + More",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Rock",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488526"
+  },
+  "Show_ID": 186,
+  "Performing": "Holiday Brass w/ New York Philharmonic",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488527"
+  },
+  "Show_ID": 187,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Theatre",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488528"
+  },
+  "Show_ID": 188,
+  "Performing": "Yacht Lobsters W/ Police Trib Band New York's Finest",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "Gramercy Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98501292,
+  "lat": 40.73975368
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488529"
+  },
+  "Show_ID": 189,
+  "Performing": "Gary US Bonds Asbury Holiday Extravaganza!",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48852a"
+  },
+  "Show_ID": 190,
+  "Performing": "Point Break",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48852b"
+  },
+  "Show_ID": 191,
+  "Performing": "In Love and Struggle",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Theatre",
+  "venue": "Minetta Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -74.0012676,
+  "lat": 40.7303577
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48852c"
+  },
+  "Show_ID": 192,
+  "Performing": "New York Philharmonic w/ Handels Messiah",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Classical",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48852d"
+  },
+  "Show_ID": 193,
+  "Performing": "Dogs In A Pile",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48852e"
+  },
+  "Show_ID": 194,
+  "Performing": "Lar Enterprises Presents Holiday Doo Wop",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "long": -73.56055321,
+  "lat": 40.77517125
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48852f"
+  },
+  "Show_ID": 195,
+  "Performing": "Bobby Weir & Wolf Bros Featuring The Wolfpack",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488530"
+  },
+  "Show_ID": 196,
+  "Performing": "A Celtic Christmas by a Taste of Ireland presented by Pace Live",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "World",
+  "venue": "Bardavon 1869 Opera House",
+  "city": "Poughkeepsie",
+  "state": "NY",
+  "long": -73.928672,
+  "lat": 41.70304
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488531"
+  },
+  "Show_ID": 197,
+  "Performing": "What's The Word 2023: The Celebration",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Religious",
+  "venue": "Apollo Theater",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.95013312,
+  "lat": 40.80986245
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488532"
+  },
+  "Show_ID": 198,
+  "Performing": "Jon Pardi: A Very Merry Christmas",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488533"
+  },
+  "Show_ID": 199,
+  "Performing": "Kidd G",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Toad's Place",
+  "city": "New Haven",
+  "state": "CT",
+  "long": -72.9293225,
+  "lat": 41.311648
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488534"
+  },
+  "Show_ID": 200,
+  "Performing": "Engelbert Humperdinck",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAev', 'name': 'Pop'}",
+  "venue": "Great Cedar Showroom at Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "long": -71.975699,
+  "lat": 41.4489233
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488535"
+  },
+  "Show_ID": 201,
+  "Performing": "Bret Michaels",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mohegan Sun Arena",
+  "city": "Uncasville",
+  "state": "CT",
+  "long": -72.0914563,
+  "lat": 41.4915974
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488536"
+  },
+  "Show_ID": 202,
+  "Performing": "Queens College Choral Society 83rd Annual Winter Concert",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7lA', 'name': 'Music'}",
+  "venue": "Kupferberg Center for the Arts",
+  "city": "Queens",
+  "state": "NY",
+  "long": -73.816343,
+  "lat": 40.738456
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488537"
+  },
+  "Show_ID": 203,
+  "Performing": "Cecilia Chorus of New York",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488538"
+  },
+  "Show_ID": 204,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488539"
+  },
+  "Show_ID": 205,
+  "Performing": "El Chacal, Live Concert.",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAJ6', 'name': 'Latin'}",
+  "venue": "Ritz Theatre",
+  "city": "Elizabeth",
+  "state": "NJ",
+  "long": -74.2133999,
+  "lat": 40.6644999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48853a"
+  },
+  "Show_ID": 206,
+  "Performing": "Moon Hooch",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",
+  "venue": "Brooklyn Made",
+  "city": "Brooklyn ",
+  "state": "NY",
+  "long": -73.92193,
+  "lat": 40.70708
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48853b"
+  },
+  "Show_ID": 207,
+  "Performing": "Speedy Ortiz",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48853c"
+  },
+  "Show_ID": 208,
+  "Performing": "Big Something: Headspace Tour with The Ries Brothers",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48853d"
+  },
+  "Show_ID": 209,
+  "Performing": "Madonna - The Celebration Tour",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.97519,
+  "lat": 40.68285
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48853e"
+  },
+  "Show_ID": 210,
+  "Performing": "Start Making Sense",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Racket NYC",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.999702,
+  "lat": 40.740898
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48853f"
+  },
+  "Show_ID": 211,
+  "Performing": "The Lox & Friends",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "Westchester County Center",
+  "city": "White Plains",
+  "state": "NY",
+  "long": -73.77897623,
+  "lat": 41.03706474
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488540"
+  },
+  "Show_ID": 212,
+  "Performing": "What the Sound Presents:  More Fatter",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488541"
+  },
+  "Show_ID": 213,
+  "Performing": "Benny Benassi",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Marquee New York",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.996696,
+  "lat": 40.75
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488542"
+  },
+  "Show_ID": 214,
+  "Performing": "A Charlie Brown Christmas - Live!",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "12:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvk', 'name': \"Children's Music\"}",
+  "venue": "Great Cedar Showroom at Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "long": -71.975699,
+  "lat": 41.4489233
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488543"
+  },
+  "Show_ID": 215,
+  "Performing": "Vienna Boys' Choir",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488544"
+  },
+  "Show_ID": 216,
+  "Performing": "Holiday Brass w/ New York Philharmonic",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488545"
+  },
+  "Show_ID": 217,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488546"
+  },
+  "Show_ID": 218,
+  "Performing": "A Celtic Christmas by a Taste of Ireland presented by Pace Live",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeF', 'name': 'World'}",
+  "venue": "Bardavon 1869 Opera House",
+  "city": "Poughkeepsie",
+  "state": "NY",
+  "long": -73.928672,
+  "lat": 41.70304
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488547"
+  },
+  "Show_ID": 219,
+  "Performing": "A Charlie Brown Christmas - Live!",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "16:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvk', 'name': \"Children's Music\"}",
+  "venue": "Great Cedar Showroom at Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "long": -71.975699,
+  "lat": 41.4489233
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488548"
+  },
+  "Show_ID": 220,
+  "Performing": "Alexa Valentino",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "17:00:00",
+  "genre": "{'id': 'KnvZfZ7vAev', 'name': 'Pop'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488549"
+  },
+  "Show_ID": 221,
+  "Performing": "Bobby Weir & Wolf Bros Featuring The Wolfpack",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48854a"
+  },
+  "Show_ID": 222,
+  "Performing": "Darlene Love",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "long": -73.846001,
+  "lat": 41.085098
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48854b"
+  },
+  "Show_ID": 223,
+  "Performing": "Martina McBride",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv6', 'name': 'Country'}",
+  "venue": "Bergen Performing Arts Center",
+  "city": "Englewood",
+  "state": "NJ",
+  "long": -73.97511,
+  "lat": 40.895358
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48854c"
+  },
+  "Show_ID": 224,
+  "Performing": "Fantastic Cat",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48854d"
+  },
+  "Show_ID": 225,
+  "Performing": "Mariah Carey - Merry Christmas One And All!",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAev', 'name': 'Pop'}",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48854e"
+  },
+  "Show_ID": 226,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48854f"
+  },
+  "Show_ID": 227,
+  "Performing": "Michael Bolton",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mohegan Sun Arena",
+  "city": "Uncasville",
+  "state": "CT",
+  "long": -72.0914563,
+  "lat": 41.4915974
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488550"
+  },
+  "Show_ID": 228,
+  "Performing": "Never Home",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488551"
+  },
+  "Show_ID": 229,
+  "Performing": "Justin Quiles",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAJ6', 'name': 'Latin'}",
+  "venue": "Ritz Theatre",
+  "city": "Elizabeth",
+  "state": "NJ",
+  "long": -74.2133999,
+  "lat": 40.6644999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488552"
+  },
+  "Show_ID": 230,
+  "Performing": "Oratorio Society of New York",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488553"
+  },
+  "Show_ID": 231,
+  "Performing": "Lauren Daigle - The Behold Christmas Tour",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAe7', 'name': 'Religious'}",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488554"
+  },
+  "Show_ID": 232,
+  "Performing": "Travis Scott Utopia Tour Presents Circus Maximus",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.97519,
+  "lat": 40.68285
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488555"
+  },
+  "Show_ID": 233,
+  "Performing": "Light Sweet Crude",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488556"
+  },
+  "Show_ID": 234,
+  "Performing": "The New England Symphonic Ensemble",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488557"
+  },
+  "Show_ID": 235,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488558"
+  },
+  "Show_ID": 236,
+  "Performing": "Lauren Daigle - The Behold Christmas Tour",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAe7', 'name': 'Religious'}",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488559"
+  },
+  "Show_ID": 237,
+  "Performing": "Travis Scott Utopia Tour Presents Circus Maximus",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.97519,
+  "lat": 40.68285
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48855a"
+  },
+  "Show_ID": 238,
+  "Performing": "Billy Joel - In Concert",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48855b"
+  },
+  "Show_ID": 239,
+  "Performing": "Heaven & RIP Dunes Holiday Spectacular",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48855c"
+  },
+  "Show_ID": 240,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48855d"
+  },
+  "Show_ID": 241,
+  "Performing": "Ian Biggs, Amanda Barise, Cristina",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48855e"
+  },
+  "Show_ID": 242,
+  "Performing": "The Bobby Lees",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Bowery Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.993542,
+  "lat": 40.720364
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48855f"
+  },
+  "Show_ID": 243,
+  "Performing": "Trans-Siberian Orchestra-The Ghosts Of Christmas Eve",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "UBS Arena",
+  "city": "Belmont Park - Long Island",
+  "state": "NY",
+  "long": -73.72613877,
+  "lat": 40.71187893
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488560"
+  },
+  "Show_ID": 244,
+  "Performing": "Black Panther In Concert w/ New York Philharmonic",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488561"
+  },
+  "Show_ID": 245,
+  "Performing": "The Celts",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Ridgefield Playhouse",
+  "city": "Ridgefield",
+  "state": "CT",
+  "long": -73.502403,
+  "lat": 41.3064
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488562"
+  },
+  "Show_ID": 246,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488563"
+  },
+  "Show_ID": 247,
+  "Performing": "Scott Bradlee's Postmodern Jukebox",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvE', 'name': 'Jazz'}",
+  "venue": "Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98447747,
+  "lat": 40.75599205
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488564"
+  },
+  "Show_ID": 248,
+  "Performing": "For Lack of a Term, Another Astronaut",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488565"
+  },
+  "Show_ID": 249,
+  "Performing": "A Lorna Shore Christmas",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvt', 'name': 'Metal'}",
+  "venue": "The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42591099,
+  "lat": 40.86969685
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488566"
+  },
+  "Show_ID": 250,
+  "Performing": "Yule Dogs",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488567"
+  },
+  "Show_ID": 251,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488568"
+  },
+  "Show_ID": 252,
+  "Performing": "Midtown",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Wellmont Theater",
+  "city": "Montclair",
+  "state": "NJ",
+  "long": -74.2165153,
+  "lat": 40.8124988
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488569"
+  },
+  "Show_ID": 253,
+  "Performing": "Black Panther In Concert w/ New York Philharmonic",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48856a"
+  },
+  "Show_ID": 254,
+  "Performing": "Travis Scott Utopia Tour Presents Circus Maximus",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48856b"
+  },
+  "Show_ID": 255,
+  "Performing": "8Track",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48856c"
+  },
+  "Show_ID": 256,
+  "Performing": "Starfish: Stand-Up Comedy Special",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "17:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Sony Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.987302,
+  "lat": 40.759631
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48856d"
+  },
+  "Show_ID": 257,
+  "Performing": "Dudley Swing Sessions",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Spotlight at The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42577,
+  "lat": 40.86965
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48856e"
+  },
+  "Show_ID": 258,
+  "Performing": "Emo Night Brooklyn  21 And Over Event",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48856f"
+  },
+  "Show_ID": 259,
+  "Performing": "Alex Cano, Dan Zlotnick Band And Emily Angell Band",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488570"
+  },
+  "Show_ID": 260,
+  "Performing": "Disco Unlimited",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Cutting Room",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.982597,
+  "lat": 40.738602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488571"
+  },
+  "Show_ID": 261,
+  "Performing": "The Hard Maybes, American Stereo And The Extensions 21+ Event",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488572"
+  },
+  "Show_ID": 262,
+  "Performing": "The Nerds - Holiday Party Special Guest: Illegally Blind",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488573"
+  },
+  "Show_ID": 263,
+  "Performing": "Black Panther In Concert w/ New York Philharmonic",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488574"
+  },
+  "Show_ID": 264,
+  "Performing": "New York Pops",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488575"
+  },
+  "Show_ID": 265,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488576"
+  },
+  "Show_ID": 266,
+  "Performing": "Lil Tecca",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42591099,
+  "lat": 40.86969685
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488577"
+  },
+  "Show_ID": 267,
+  "Performing": "The Warped Tour Band",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488578"
+  },
+  "Show_ID": 268,
+  "Performing": "Rufus And Martha Wainwrights A Not So Silent Night",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.98447747,
+  "lat": 40.75599205
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488579"
+  },
+  "Show_ID": 269,
+  "Performing": "Thundersmack",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvE', 'name': 'Jazz'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48857a"
+  },
+  "Show_ID": 270,
+  "Performing": "Party Favor",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeE', 'name': 'Fairs & Festivals'}",
+  "venue": "Marquee New York",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.996696,
+  "lat": 40.75
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48857b"
+  },
+  "Show_ID": 271,
+  "Performing": "Shrek Rave",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvF', 'name': 'Dance/Electronic'}",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48857c"
+  },
+  "Show_ID": 272,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48857d"
+  },
+  "Show_ID": 273,
+  "Performing": "Splintered Sunlight",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48857e"
+  },
+  "Show_ID": 274,
+  "Performing": "Asbury Fever",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48857f"
+  },
+  "Show_ID": 275,
+  "Performing": "Stella Blue's Band",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvd', 'name': 'Blues'}",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488580"
+  },
+  "Show_ID": 276,
+  "Performing": "Trap Karaoke: New York",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "Terminal 5",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.992762,
+  "lat": 40.769708
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488581"
+  },
+  "Show_ID": 277,
+  "Performing": "New York Pops",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",
+  "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.985298,
+  "lat": 40.765202
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488582"
+  },
+  "Show_ID": 278,
+  "Performing": "New York Philharmonic w/ Black Panther In Concert",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeJ', 'name': 'Classical'}",
+  "venue": "David Geffen Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9841,
+  "lat": 40.7761
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488583"
+  },
+  "Show_ID": 279,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488584"
+  },
+  "Show_ID": 280,
+  "Performing": "Back In Black",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488585"
+  },
+  "Show_ID": 281,
+  "Performing": "Sensamotion + IRIEspect",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAed', 'name': 'Reggae'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488586"
+  },
+  "Show_ID": 282,
+  "Performing": "Biscits",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Marquee New York",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.996696,
+  "lat": 40.75
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488587"
+  },
+  "Show_ID": 283,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-26T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488588"
+  },
+  "Show_ID": 284,
+  "Performing": "Travis Scott Utopia Tour Presents Circus Maximus",
+  "date": {
+    "$date": "2023-12-26T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "long": -74.17121214,
+  "lat": 40.73340555
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488589"
+  },
+  "Show_ID": 285,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48858a"
+  },
+  "Show_ID": 286,
+  "Performing": "Dude Of Life Band",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48858b"
+  },
+  "Show_ID": 287,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48858c"
+  },
+  "Show_ID": 288,
+  "Performing": "KEM with special guest Marsha Ambrosius",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",
+  "venue": "New Jersey Performing Arts Center",
+  "city": "Newark",
+  "state": "NJ",
+  "long": -74.16809,
+  "lat": 40.739502
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48858d"
+  },
+  "Show_ID": 289,
+  "Performing": "Phish 4-Day Ticket (12/28-12/31) VALID ALL 4 DAYS, CANNOT SPLIT BY DAY",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48858e"
+  },
+  "Show_ID": 290,
+  "Performing": "Spyne!",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48858f"
+  },
+  "Show_ID": 291,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488590"
+  },
+  "Show_ID": 292,
+  "Performing": "Phish",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488591"
+  },
+  "Show_ID": 293,
+  "Performing": "Soulshine",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488592"
+  },
+  "Show_ID": 294,
+  "Performing": "Daniel Lerner",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Mercury Lounge",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.986806,
+  "lat": 40.722036
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488593"
+  },
+  "Show_ID": 295,
+  "Performing": "Trivecta",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Brooklyn Steel",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.945602,
+  "lat": 40.7272
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488594"
+  },
+  "Show_ID": 296,
+  "Performing": "The Disco Biscuits",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Palladium Times Square ",
+  "city": "New York City",
+  "state": "NY",
+  "long": -73.985763,
+  "lat": 40.757201
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488595"
+  },
+  "Show_ID": 297,
+  "Performing": "What A Wonderful Year Music Festival 2 Day Pass",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "23:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488596"
+  },
+  "Show_ID": 298,
+  "Performing": "Winter Break - Vibrotones & Holzli",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488597"
+  },
+  "Show_ID": 299,
+  "Performing": "Glassjaw - Celebrating XXX Years Of Making Things",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Warsaw",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.948408,
+  "lat": 40.722392
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488598"
+  },
+  "Show_ID": 300,
+  "Performing": "What A Wonderful Year Music Festival",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b488599"
+  },
+  "Show_ID": 301,
+  "Performing": "Phish",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48859a"
+  },
+  "Show_ID": 302,
+  "Performing": "Dawes",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48859b"
+  },
+  "Show_ID": 303,
+  "Performing": "Shinedown",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Premier Theater at Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "long": -71.9630872,
+  "lat": 41.4783608
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48859c"
+  },
+  "Show_ID": 304,
+  "Performing": "Jagged Edge with 112 and Next",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",
+  "venue": "Toyota Oakdale Theatre",
+  "city": "Wallingford",
+  "state": "CT",
+  "long": -72.846188,
+  "lat": 41.4486599
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48859d"
+  },
+  "Show_ID": 305,
+  "Performing": "Patti Smith",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Brooklyn Steel",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.945602,
+  "lat": 40.7272
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48859e"
+  },
+  "Show_ID": 306,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b48859f"
+  },
+  "Show_ID": 307,
+  "Performing": "Heavy Temple / Sun Voyager / Restless Spirit",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Brooklyn Made",
+  "city": "Brooklyn ",
+  "state": "NY",
+  "long": -73.92193,
+  "lat": 40.70708
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a0"
+  },
+  "Show_ID": 308,
+  "Performing": "Get the Led Out",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",
+  "venue": "The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42591099,
+  "lat": 40.86969685
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a1"
+  },
+  "Show_ID": 309,
+  "Performing": "Start Making Sense",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a2"
+  },
+  "Show_ID": 310,
+  "Performing": "Vini Vici",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "23:30:00",
+  "genre": "{'id': 'KnvZfZ7vAvl', 'name': 'Other'}",
+  "venue": "Webster Hall",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.989098,
+  "lat": 40.731602
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a3"
+  },
+  "Show_ID": 311,
+  "Performing": "Bassnectar - A New Horizon 2 Day Ticket",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "23:30:00",
+  "genre": "{'id': 'KnvZfZ7vAvF', 'name': 'Dance/Electronic'}",
+  "venue": "Palladium Times Square ",
+  "city": "New York City",
+  "state": "NY",
+  "long": -73.985763,
+  "lat": 40.757201
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a4"
+  },
+  "Show_ID": 312,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a5"
+  },
+  "Show_ID": 313,
+  "Performing": "New Years Bash: Indigo Sky With Soup",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -74.00071097,
+  "lat": 40.220001
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a6"
+  },
+  "Show_ID": 314,
+  "Performing": "Glassjaw - Celebrating XXX Years Of Making Things",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Warsaw",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.948408,
+  "lat": 40.722392
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a7"
+  },
+  "Show_ID": 315,
+  "Performing": "What A Wonderful Year Music Festival",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "long": -73.99950139,
+  "lat": 40.22328639
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a8"
+  },
+  "Show_ID": 316,
+  "Performing": "Phish",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9916006,
+  "lat": 40.7497062
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885a9"
+  },
+  "Show_ID": 317,
+  "Performing": "Long Island Disco Fever: The Eve Of The Eve",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAee', 'name': 'R&B'}",
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "long": -73.56055321,
+  "lat": 40.77517125
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885aa"
+  },
+  "Show_ID": 318,
+  "Performing": "Observe The 93rd",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "XL Live",
+  "city": "Harrisburg",
+  "state": "PA",
+  "long": -74.7603259,
+  "lat": 40.2372006
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885ab"
+  },
+  "Show_ID": 319,
+  "Performing": "Hot 97 Winter Jam",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAv1', 'name': 'Hip-Hop/Rap'}",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.97519,
+  "lat": 40.68285
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885ac"
+  },
+  "Show_ID": 320,
+  "Performing": "Gov't Mule",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.980673,
+  "lat": 40.779925
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885ad"
+  },
+  "Show_ID": 321,
+  "Performing": "Dark Star Orchestra",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "long": -73.6654488,
+  "lat": 41.0013461
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885ae"
+  },
+  "Show_ID": 322,
+  "Performing": "Patti Smith",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAeA', 'name': 'Rock'}",
+  "venue": "Brooklyn Steel",
+  "city": "Brooklyn",
+  "state": "NY",
+  "long": -73.945602,
+  "lat": 40.7272
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885af"
+  },
+  "Show_ID": 323,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885b0"
+  },
+  "Show_ID": 324,
+  "Performing": "Bassnectar - A New Horizon Saturday Ticket",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAvF', 'name': 'Dance/Electronic'}",
+  "venue": "Palladium Times Square ",
+  "city": "New York City",
+  "state": "NY",
+  "long": -73.985763,
+  "lat": 40.757201
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885b1"
+  },
+  "Show_ID": 325,
+  "Performing": "Get the Led Out",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "{'id': 'KnvZfZ7vAe6', 'name': 'Undefined'}",
+  "venue": "The Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "long": -73.42591099,
+  "lat": 40.86969685
+},
+{
+  "_id": {
+    "$oid": "6574f37bac319fef5b4885b2"
+  },
+  "Show_ID": 326,
+  "Performing": "Little Shop of Horrors",
+  "date": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "{'id': 'KnvZfZ7v7l1', 'name': 'Theatre'}",
+  "venue": "Westside Theatre Upstairs - NY",
+  "city": "New York",
+  "state": "NY",
+  "long": -73.9758,
+  "lat": 40.785999
+}]

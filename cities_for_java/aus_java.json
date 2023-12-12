@@ -1,0 +1,1037 @@
+[{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488748"
+  },
+  "Show_ID": 0,
+  "Performing": "Stayin' Alive: One Night of the Bee Gees",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Undefined",
+  "venue": "Paramount Theatre for the Performing Arts",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.741848,
+  "lat": 30.26939
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488749"
+  },
+  "Show_ID": 1,
+  "Performing": "JD McPherson- SOCKS: A Rock N' Roll Christmas Tour w/ Joel Paterson",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48874a"
+  },
+  "Show_ID": 2,
+  "Performing": "D.R.I.",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Come and Take It Live",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.713303,
+  "lat": 30.228399
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48874b"
+  },
+  "Show_ID": 3,
+  "Performing": "JD McPherson- SOCKS: A Rock N' Roll Christmas Tour ",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48874c"
+  },
+  "Show_ID": 4,
+  "Performing": "Andy Frasco",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Alternative",
+  "venue": "The Mohawk-Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48874d"
+  },
+  "Show_ID": 5,
+  "Performing": "CRi",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Other",
+  "venue": "The Concourse Project",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.672501,
+  "lat": 30.1003
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48874e"
+  },
+  "Show_ID": 6,
+  "Performing": "Lil Darkie and the Collapse of Modern Society",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Aztec Theatre ",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.49110126,
+  "lat": 29.42471628
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48874f"
+  },
+  "Show_ID": 7,
+  "Performing": "Queens of the Stone Age - The End is Nero",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Moody Center ATX",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.730837,
+  "lat": 30.280735
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488750"
+  },
+  "Show_ID": 8,
+  "Performing": "Stayin' Alive: One Night of the Bee Gees",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Undefined",
+  "venue": "Charline McCombs Empire Theatre",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.4913385,
+  "lat": 29.4250948
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488751"
+  },
+  "Show_ID": 9,
+  "Performing": "Buffalo Nichols w/ Jude Brothers",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488752"
+  },
+  "Show_ID": 10,
+  "Performing": "Daniel Donato w/ Eggy",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Mohawk-Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488753"
+  },
+  "Show_ID": 11,
+  "Performing": "Ian Moore",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Stateside at the Paramount - Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488754"
+  },
+  "Show_ID": 12,
+  "Performing": "AJ Croce",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Paramount Theatre-Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488755"
+  },
+  "Show_ID": 13,
+  "Performing": "Trans-Siberian Orchestra-The Ghosts Of Christmas Eve",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "Rock",
+  "venue": "Frost Bank Center",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.4337987,
+  "lat": 29.4330386
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488756"
+  },
+  "Show_ID": 14,
+  "Performing": "Luke Grimes",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "Emo's Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.728048,
+  "lat": 30.239574
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488757"
+  },
+  "Show_ID": 15,
+  "Performing": "Trans-Siberian Orchestra-The Ghosts Of Christmas Eve",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Frost Bank Center",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.4337987,
+  "lat": 29.4330386
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488758"
+  },
+  "Show_ID": 16,
+  "Performing": "Take 6",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "Jo Long Theatre",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.471752,
+  "lat": 29.421806
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488759"
+  },
+  "Show_ID": 17,
+  "Performing": "SOLD OUT: Vincent Neil Emerson w/ Blaine Bailey",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48875a"
+  },
+  "Show_ID": 18,
+  "Performing": "Marc Broussard",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "04 Center",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.7658,
+  "lat": 30.243299
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48875b"
+  },
+  "Show_ID": 19,
+  "Performing": "Blues Party Benefit for Sarah Barlow",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Blues",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48875c"
+  },
+  "Show_ID": 20,
+  "Performing": "Big Wreck",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Empire Control Room",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48875d"
+  },
+  "Show_ID": 21,
+  "Performing": "Rod Wave - Nostalgia Tour",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Moody Center ATX",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.730837,
+  "lat": 30.280735
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48875e"
+  },
+  "Show_ID": 22,
+  "Performing": "Macy Gray w/ Emily Kathleen and  DJ MAHEALANI",
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48875f"
+  },
+  "Show_ID": 23,
+  "Performing": "Deezie Brown, Malik Baptiste,cSHXWNFRESH, Blakchyl, D.Harmon, & Lynn ",
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488760"
+  },
+  "Show_ID": 24,
+  "Performing": "James Smith Live: The C Word",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "3TEN Austin City Limits Live",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.747077,
+  "lat": 30.265754
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488761"
+  },
+  "Show_ID": 25,
+  "Performing": "Worry Club",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488762"
+  },
+  "Show_ID": 26,
+  "Performing": "FOR KING + COUNTRY's A Drummer Boy Christmas: The 2023 Tour Experience",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "Frost Bank Center",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.4337987,
+  "lat": 29.4330386
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488763"
+  },
+  "Show_ID": 27,
+  "Performing": "Sunny Sweeney",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "04 Center",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.7658,
+  "lat": 30.243299
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488764"
+  },
+  "Show_ID": 28,
+  "Performing": "Yussef Dayes",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Empire Control Room",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488765"
+  },
+  "Show_ID": 29,
+  "Performing": "Chavela",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "Little Carver Theatre",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.471752,
+  "lat": 29.421806
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488766"
+  },
+  "Show_ID": 30,
+  "Performing": "Parliament Funkadelic Feat George Clinton - Just For The Funk Of It",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Aztec Theatre ",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.49110126,
+  "lat": 29.42471628
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488767"
+  },
+  "Show_ID": 31,
+  "Performing": "Walker Lukens",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Paramount Theatre-Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488768"
+  },
+  "Show_ID": 32,
+  "Performing": "IL Divo",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Bass Concert Hall",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.744202,
+  "lat": 30.2843
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488769"
+  },
+  "Show_ID": 33,
+  "Performing": "BoomBox w/ Tep No and Corduroy 2-Day Pass",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48876a"
+  },
+  "Show_ID": 34,
+  "Performing": "BoomBox w/ Tep No",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48876b"
+  },
+  "Show_ID": 35,
+  "Performing": "Deafheaven with Touché Amoré and Ringo Deathstarr",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Stubb's Waller Creek Amphitheater",
+  "city": "Austin ",
+  "state": "TX",
+  "long": -97.736192,
+  "lat": 30.268487
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48876c"
+  },
+  "Show_ID": 36,
+  "Performing": "Hayes Carll",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Paramount Theatre-Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48876d"
+  },
+  "Show_ID": 37,
+  "Performing": "Blue October",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Alternative",
+  "venue": "Bass Concert Hall",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.744202,
+  "lat": 30.2843
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48876e"
+  },
+  "Show_ID": 38,
+  "Performing": "BoomBox w/ Corduroy",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48876f"
+  },
+  "Show_ID": 39,
+  "Performing": "Slow Pulse and fawn",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "22:30:00",
+  "genre": "Metal",
+  "venue": "Stubb's Indoors",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.736192,
+  "lat": 30.268487
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488770"
+  },
+  "Show_ID": 40,
+  "Performing": "Tribute to the Three Kings- Tribute to Albert, BB, and Freddie King",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Blues",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488771"
+  },
+  "Show_ID": 41,
+  "Performing": "Sarah Brightman: A Christmas Symphony",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Majestic Theatre San Antonio",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.4903863,
+  "lat": 29.4264514
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488772"
+  },
+  "Show_ID": 42,
+  "Performing": "Michael Martin Murphey",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Paramount Theatre-Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488773"
+  },
+  "Show_ID": 43,
+  "Performing": "Blue Monday with Soul Man Sam plus Lindsey Beaver and Brad Stivers",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488774"
+  },
+  "Show_ID": 44,
+  "Performing": "SOLD OUT: Harbour: To Chase My Dreams Or To Just Lie Down Tour",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488775"
+  },
+  "Show_ID": 45,
+  "Performing": "Sarah Brightman",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Bass Concert Hall",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.744202,
+  "lat": 30.2843
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488776"
+  },
+  "Show_ID": 46,
+  "Performing": "Pentatonix The Most Wonderful Tour Of The Year",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Moody Center ATX",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.730837,
+  "lat": 30.280735
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488777"
+  },
+  "Show_ID": 47,
+  "Performing": "John Baumann w/ David Beck",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Country",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488778"
+  },
+  "Show_ID": 48,
+  "Performing": "The Mammoths w/ Bartly & Co",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488779"
+  },
+  "Show_ID": 49,
+  "Performing": "Soulhat w/ The Ghost Wolves",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48877a"
+  },
+  "Show_ID": 50,
+  "Performing": "Toadies with Local H",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Emo's Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.728048,
+  "lat": 30.239574
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48877b"
+  },
+  "Show_ID": 51,
+  "Performing": "SOLD OUT - The Jungle Show: Gibbons, Vaughan, Foley, Flanigin, Layton",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48877c"
+  },
+  "Show_ID": 52,
+  "Performing": "The Jungle Show: Gibbons, Vaughan, Foley, Flanigin, Layton",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48877d"
+  },
+  "Show_ID": 53,
+  "Performing": "Toadies",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Aztec Theatre ",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.49110126,
+  "lat": 29.42471628
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48877e"
+  },
+  "Show_ID": 54,
+  "Performing": "Parker McCollum",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Country",
+  "venue": "Frost Bank Center",
+  "city": "San Antonio",
+  "state": "TX",
+  "long": -98.4337987,
+  "lat": 29.4330386
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b48877f"
+  },
+  "Show_ID": 55,
+  "Performing": "Mannheim Steamroller",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Classical",
+  "venue": "Bass Concert Hall",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.744202,
+  "lat": 30.2843
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488780"
+  },
+  "Show_ID": 56,
+  "Performing": "The Jungle Show: Gibbons, Vaughan, Foley, Flanigin, Layton",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488781"
+  },
+  "Show_ID": 57,
+  "Performing": "The Wilder Blue",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "04 Center",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.7658,
+  "lat": 30.243299
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488782"
+  },
+  "Show_ID": 58,
+  "Performing": "Little Feat",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Paramount Theatre-Austin",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.742401,
+  "lat": 30.2721
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488783"
+  },
+  "Show_ID": 59,
+  "Performing": "SOLD OUT: Christone \"Kingfish\" Ingram",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Blues",
+  "venue": "Antone's Nightclub",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.740401,
+  "lat": 30.26605
+},
+{
+  "_id": {
+    "$oid": "6574f44cac319fef5b488784"
+  },
+  "Show_ID": 60,
+  "Performing": "Hayden James",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "The Concourse Project",
+  "city": "Austin",
+  "state": "TX",
+  "long": -97.672501,
+  "lat": 30.1003
+}]
