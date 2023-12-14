@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "6574f3a8ac319fef5b4885b4"
+  },
+  "Show_ID": 0,
+  "Performing": "La Goony Chonga",
+  "date": {
+    "$date": "2023-12-05T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Atlantis",
+  "city": "Washington",
+  "state": "DC",
+  "long": -77.02241,
+  "lat": 38.91819
+},
+{
+  "_id": {
+    "$oid": "6574f3a8ac319fef5b4885b6"
+  },
+  "Show_ID": 2,
+  "Performing": "LaMP: Russ Lawton, Scott Metzger, Ray Paczkowski",
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Atlantis",
+  "city": "Washington",
+  "state": "DC",
+  "long": -77.02241,
+  "lat": 38.91819
+},
+{
+  "_id": {
+    "$oid": "6574f3a8ac319fef5b4885ba"
+  },
+  "Show_ID": 6,
+  "Performing": "Neal Francis",
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Atlantis",
+  "city": "Washington",
+  "state": "DC",
+  "long": -77.02241,
+  "lat": 38.91819
+},
+{
+  "_id": {
+    "$oid": "6574f3a8ac319fef5b4885be"
+  },
+  "Show_ID": 10,
+  "Performing": "Sungazer",
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Jazz",
+  "venue": "The Atlantis",
+  "city": "Washington",
+  "state": "DC",
+  "long": -77.02241,
+  "lat": 38.91819
+},
+{
+  "_id": {
+    "$oid": "6574f3a8ac319fef5b4885c8"
+  },
+  "Show_ID": 20,
+  "Performing": "Norm Lewis w/ National Symphony Orchestra",
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Other",
+  "venue": "Kennedy Center - Concert Hall",
+  "city": "Washington",
+  "state": "DC",
+  "long": -77.049004,
+  "lat": 38.900501
+},
+{
+  "_id": {
+    "$oid": "6574f3a8ac319fef5b4885d5"
+  },
+  "Show_ID": 33,
+  "Performing": "Step Afrika!",
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Other",
+  "venue": "Fichandler Theatre",
+  "city": "Washington",
+  "state": "DC",
+  "long": -77.019798,
+  "lat": 38.877998
+}]
