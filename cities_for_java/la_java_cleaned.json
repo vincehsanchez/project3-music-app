@@ -1,0 +1,3247 @@
+[{
+  "_id": {
+    "$oid": "657b398c95240331da2a09ea"
+  },
+  "Show_ID": 0,
+  "Performing": "Leon Thomas - Electric Dusk Live",
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "R&B",
+  "venue": "The Echo",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.260108,
+  "lat": 34.077729
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09eb"
+  },
+  "Show_ID": 1,
+  "Performing": "Jay Cinco Presents: Hear My Story",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Pop",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09ec"
+  },
+  "Show_ID": 2,
+  "Performing": "Ozomatli",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "World",
+  "venue": "Ventura Music Hall",
+  "city": "Ventura",
+  "state": "CA",
+  "long": -119.330399,
+  "lat": 34.348801
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09ed"
+  },
+  "Show_ID": 3,
+  "Performing": "Maxo with Reaper Mook",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Echo",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.260108,
+  "lat": 34.077729
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09ee"
+  },
+  "Show_ID": 4,
+  "Performing": "The Bobby Lees",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Constellation Room",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.917493,
+  "lat": 33.699879
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09ef"
+  },
+  "Show_ID": 5,
+  "Performing": "LIL TJAY - BEAT THE ODDS TOUR",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Hollywood Palladium",
+  "city": "Hollywood",
+  "state": "CA",
+  "long": -118.32421313,
+  "lat": 34.09850537
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f0"
+  },
+  "Show_ID": 6,
+  "Performing": "The White Buffalo",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f1"
+  },
+  "Show_ID": 7,
+  "Performing": "The Drop: Tate McRae",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "The GRAMMY Museum",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.264647,
+  "lat": 34.04441
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f2"
+  },
+  "Show_ID": 8,
+  "Performing": "Mextour Live Featuring Eslabon Armado And Deorro",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Latin",
+  "venue": "The Torch at LA Coliseum",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.28297,
+  "lat": 34.01468
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f3"
+  },
+  "Show_ID": 9,
+  "Performing": "Raekwon w/ Ghostface Killah",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Novo by Microsoft",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.266403,
+  "lat": 34.0397
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f4"
+  },
+  "Show_ID": 10,
+  "Performing": "Death From Above 1979",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Roxy Theatre-CA",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f5"
+  },
+  "Show_ID": 11,
+  "Performing": "Emmanuel",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Yaamava' Resort & Casino at San Manuel",
+  "city": "Highland",
+  "state": "CA",
+  "long": -117.153198,
+  "lat": 34.1353
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f6"
+  },
+  "Show_ID": 12,
+  "Performing": "Lit",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Morongo Casino Resort and Spa",
+  "city": "Cabazon",
+  "state": "CA",
+  "long": -116.80553543,
+  "lat": 33.92210864
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f7"
+  },
+  "Show_ID": 13,
+  "Performing": "Dylan Matthew",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Teragram Ballroom",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267076,
+  "lat": 34.051841
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f8"
+  },
+  "Show_ID": 14,
+  "Performing": "Vegyn",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "The Fonda Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.326897,
+  "lat": 34.0998
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09f9"
+  },
+  "Show_ID": 15,
+  "Performing": "Harbour",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "Pappy and Harriets Pioneertown Palace",
+  "city": "Pioneertown",
+  "state": "CA",
+  "long": -116.548203,
+  "lat": 34.194401
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09fa"
+  },
+  "Show_ID": 16,
+  "Performing": "Shanin Blake",
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "time": "21:30:00",
+  "genre": "Pop",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09fb"
+  },
+  "Show_ID": 17,
+  "Performing": "Emo Nite presents Grave at the Torch / 18+",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "17:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Torch at LA Coliseum",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.28297,
+  "lat": 34.01468
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09fc"
+  },
+  "Show_ID": 18,
+  "Performing": "Cattle Decapitation",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "The Belasco",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2592392,
+  "lat": 34.04024506
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09fd"
+  },
+  "Show_ID": 19,
+  "Performing": "For the Children 2023 Pre-Show: Seeyouspacecowboy (Songs for the Firin",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Metal",
+  "venue": "The Midnight Hour",
+  "city": "San Fernando",
+  "state": "CA",
+  "long": -118.2592392,
+  "lat": 34.04024506
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09fe"
+  },
+  "Show_ID": 20,
+  "Performing": "Andrew Michael Wells",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "Constellation Room",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.917493,
+  "lat": 33.699879
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a09ff"
+  },
+  "Show_ID": 21,
+  "Performing": "helloworld",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a00"
+  },
+  "Show_ID": 22,
+  "Performing": "Hiss Golden Messenger",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Troubadour",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a01"
+  },
+  "Show_ID": 23,
+  "Performing": "Jazmin Bean - The Terrified Tour",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Metal",
+  "venue": "The Parish at House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.912474,
+  "lat": 33.806533
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a02"
+  },
+  "Show_ID": 24,
+  "Performing": "Ozomatli",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Latin",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a03"
+  },
+  "Show_ID": 25,
+  "Performing": "Flatbush Zombies: BetterOffDead 10 Year Anniversary",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.9229975,
+  "lat": 33.8095868
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a04"
+  },
+  "Show_ID": 26,
+  "Performing": "Gilberto Santa Rosa",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Latin",
+  "venue": "The Wiltern",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.30879207,
+  "lat": 34.06141494
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a05"
+  },
+  "Show_ID": 27,
+  "Performing": "Graf Orlock with Thou, and Dangers",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Echoplex",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a06"
+  },
+  "Show_ID": 28,
+  "Performing": "Castillo \"Pleasure & Pain\" Record Release Party W/ Home Front, Conserv",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "First Street Pool and Billiard Parlor ",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a07"
+  },
+  "Show_ID": 29,
+  "Performing": "Depeche Mode: Memento Mori Tour",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Crypto.com Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267253,
+  "lat": 34.043003
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a08"
+  },
+  "Show_ID": 30,
+  "Performing": "Red Hot Cholo Peppers",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a09"
+  },
+  "Show_ID": 31,
+  "Performing": "Friday's I'm In Love featuring The Reflexx & Red Rocker's John Griffith",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Undefined",
+  "venue": "The Biergarten at Old World HB",
+  "city": "Huntington Beach",
+  "state": "CA",
+  "long": -117.9966533,
+  "lat": 33.73469267
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a0a"
+  },
+  "Show_ID": 32,
+  "Performing": "DJ Quik w/ Jon B.",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Novo by Microsoft",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.266403,
+  "lat": 34.0397
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a0b"
+  },
+  "Show_ID": 33,
+  "Performing": "Death From Above 1979",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Roxy Theatre-CA",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a0c"
+  },
+  "Show_ID": 34,
+  "Performing": "Linda Eder",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Irvine Barclay Theatre",
+  "city": "Irvine",
+  "state": "CA",
+  "long": -117.794296,
+  "lat": 33.641499
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a0d"
+  },
+  "Show_ID": 35,
+  "Performing": "Dave Koz",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Cerritos Center",
+  "city": "Cerritos",
+  "state": "CA",
+  "long": -118.067596,
+  "lat": 33.867298
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a0e"
+  },
+  "Show_ID": 36,
+  "Performing": "Disco Tehran",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Teragram Ballroom",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267076,
+  "lat": 34.051841
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a0f"
+  },
+  "Show_ID": 37,
+  "Performing": "Bea Miller",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Pop",
+  "venue": "El Rey Theatre - Los Angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.349998,
+  "lat": 34.070202
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a10"
+  },
+  "Show_ID": 38,
+  "Performing": "Ambrosia",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Rock",
+  "venue": "Canyon Club-CA",
+  "city": "Agoura Hills",
+  "state": "CA",
+  "long": -118.762497,
+  "lat": 34.140301
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a11"
+  },
+  "Show_ID": 39,
+  "Performing": "James Blake, Rhonda, and Matte Present: CMYK",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Bellwether",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.25837,
+  "lat": 34.0573
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a12"
+  },
+  "Show_ID": 40,
+  "Performing": "Missus Jones",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Rock",
+  "venue": "The Peppermint Club",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.381072,
+  "lat": 34.076851
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a13"
+  },
+  "Show_ID": 41,
+  "Performing": "Echo & Insomniac Present: veggi",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Echo",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.260108,
+  "lat": 34.077729
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a14"
+  },
+  "Show_ID": 42,
+  "Performing": "Banda Los Sebastianes",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Latin",
+  "venue": "Morongo Casino Resort and Spa",
+  "city": "Cabazon",
+  "state": "CA",
+  "long": -116.80553543,
+  "lat": 33.92210864
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a15"
+  },
+  "Show_ID": 43,
+  "Performing": "Honey Dijon Presents Transmutation",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Hollywood Palladium",
+  "city": "Hollywood",
+  "state": "CA",
+  "long": -118.32421313,
+  "lat": 34.09850537
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a16"
+  },
+  "Show_ID": 44,
+  "Performing": "BetterOffDEAD 10-year Anniversary",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:15:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.9229975,
+  "lat": 33.8095868
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a17"
+  },
+  "Show_ID": 45,
+  "Performing": "Playback Fantasy - Ítalo Disco & Darkwave",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "21:30:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a18"
+  },
+  "Show_ID": 46,
+  "Performing": "DJ Dapechemode",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a19"
+  },
+  "Show_ID": 47,
+  "Performing": "Cumbiaton (21+)",
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Regent Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.24799,
+  "lat": 34.0473
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a1a"
+  },
+  "Show_ID": 48,
+  "Performing": "SOS Booking Toy Drive - Day 1 Single Day Ticket",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "12:00:00",
+  "genre": "Metal",
+  "venue": "The Belasco",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2592392,
+  "lat": 34.04024506
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a1b"
+  },
+  "Show_ID": 49,
+  "Performing": "SOS Booking Toy Drive 2-Day Event",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "12:00:00",
+  "genre": "Metal",
+  "venue": "The Belasco",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2592392,
+  "lat": 34.04024506
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a1c"
+  },
+  "Show_ID": 50,
+  "Performing": "Nochebuena",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "Other",
+  "venue": "The Soraya",
+  "city": "Northridge",
+  "state": "CA",
+  "long": -118.5,
+  "lat": 34.2439
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a1d"
+  },
+  "Show_ID": 51,
+  "Performing": "Bleeding Through - 20 Years of This Is Love, This Is Murderous",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "16:30:00",
+  "genre": "Rock",
+  "venue": "House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.9229975,
+  "lat": 33.8095868
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a1e"
+  },
+  "Show_ID": 52,
+  "Performing": "John Summit",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "17:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "BMO Stadium",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.284926,
+  "lat": 34.012879
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a1f"
+  },
+  "Show_ID": 53,
+  "Performing": "Crown the Empire",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "17:30:00",
+  "genre": "Metal",
+  "venue": "Teragram Ballroom",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267076,
+  "lat": 34.051841
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a20"
+  },
+  "Show_ID": 54,
+  "Performing": "Bad Rabbits with Sayak Das",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "R&B",
+  "venue": "Echoplex",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a21"
+  },
+  "Show_ID": 55,
+  "Performing": "Pardyalone",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a22"
+  },
+  "Show_ID": 56,
+  "Performing": "Led Zepagain and Herway to Hell",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Undefined",
+  "venue": "The Biergarten at Old World HB",
+  "city": "Huntington Beach",
+  "state": "CA",
+  "long": -117.9966533,
+  "lat": 33.73469267
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a23"
+  },
+  "Show_ID": 57,
+  "Performing": "Breaking Sound 12 16 2023 At The Peppermint Club",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Peppermint Club",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.381072,
+  "lat": 34.076851
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a24"
+  },
+  "Show_ID": 58,
+  "Performing": "The Lemon Twigs with Special Guest: Chris Stamey",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Regent Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.24799,
+  "lat": 34.0473
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a25"
+  },
+  "Show_ID": 59,
+  "Performing": "Queens of the Stone Age - The End is Nero",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Kia Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "long": -118.341868,
+  "lat": 33.9583
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a26"
+  },
+  "Show_ID": 60,
+  "Performing": "The Echo Presents - BARDO of Chicano Batman with Xiutezcatl",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "The Echo",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.260108,
+  "lat": 34.077729
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a27"
+  },
+  "Show_ID": 61,
+  "Performing": "TOArts presents Boleros de Navidad",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Latin",
+  "venue": "Scherr Forum- B of A Performing Arts Center, Thousand Oaks",
+  "city": "Thousand Oaks",
+  "state": "CA",
+  "long": -118.849491,
+  "lat": 34.175071
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a28"
+  },
+  "Show_ID": 62,
+  "Performing": "Celtic Woman",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "World",
+  "venue": "Renee and Henry Segerstrom Concert Hall",
+  "city": "Costa Mesa",
+  "state": "CA",
+  "long": -117.908699,
+  "lat": 33.6791
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a29"
+  },
+  "Show_ID": 63,
+  "Performing": "Gay Men's Chorus of Los Angeles",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Saban Theatre",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "long": -118.382896,
+  "lat": 34.064899
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a2a"
+  },
+  "Show_ID": 64,
+  "Performing": "Jeff Rosenstock",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Novo by Microsoft",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.266403,
+  "lat": 34.0397
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a2b"
+  },
+  "Show_ID": 65,
+  "Performing": "Agent Orange",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Saint Rocke",
+  "city": "Hermosa Beach",
+  "state": "CA",
+  "long": -118.3964,
+  "lat": 33.865101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a2c"
+  },
+  "Show_ID": 66,
+  "Performing": "Nochebuena",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Soraya",
+  "city": "Northridge",
+  "state": "CA",
+  "long": -118.5,
+  "lat": 34.2439
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a2d"
+  },
+  "Show_ID": 67,
+  "Performing": "Dave Koz",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Cerritos Center",
+  "city": "Cerritos",
+  "state": "CA",
+  "long": -118.067596,
+  "lat": 33.867298
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a2e"
+  },
+  "Show_ID": 68,
+  "Performing": "Highly Suspect",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Troubadour",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a2f"
+  },
+  "Show_ID": 69,
+  "Performing": "Bone Thugs-N-Harmony",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Bellwether",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.25837,
+  "lat": 34.0573
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a30"
+  },
+  "Show_ID": 70,
+  "Performing": "MARAUDA presents SLAUGHTER OF HARMONY",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Hollywood Palladium",
+  "city": "Hollywood",
+  "state": "CA",
+  "long": -118.32421313,
+  "lat": 34.09850537
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a31"
+  },
+  "Show_ID": 71,
+  "Performing": "The Whispers",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "Morongo Casino Resort and Spa",
+  "city": "Cabazon",
+  "state": "CA",
+  "long": -116.80553543,
+  "lat": 33.92210864
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a32"
+  },
+  "Show_ID": 72,
+  "Performing": "Girls Night Live",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "World",
+  "venue": "Pechanga Resort Casino",
+  "city": "Temecula",
+  "state": "CA",
+  "long": -117.1059,
+  "lat": 33.455577
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a33"
+  },
+  "Show_ID": 73,
+  "Performing": "Live from Los Angeles",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:20:00",
+  "genre": "Metal",
+  "venue": "Teragram Ballroom",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267076,
+  "lat": 34.051841
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a34"
+  },
+  "Show_ID": 74,
+  "Performing": "Grateful Shred",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Other",
+  "venue": "The Fonda Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.326897,
+  "lat": 34.0998
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a35"
+  },
+  "Show_ID": 75,
+  "Performing": "Bea Miller",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "20:30:00",
+  "genre": "Pop",
+  "venue": "El Rey Theatre - Los Angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.349998,
+  "lat": 34.070202
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a36"
+  },
+  "Show_ID": 76,
+  "Performing": "Queen Nation",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "Canyon Club-CA",
+  "city": "Agoura Hills",
+  "state": "CA",
+  "long": -118.762497,
+  "lat": 34.140301
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a37"
+  },
+  "Show_ID": 77,
+  "Performing": "Michael Seyer w/ Pincey",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "Roxy Theatre-CA",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a38"
+  },
+  "Show_ID": 78,
+  "Performing": "DJ Quik",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Ventura Music Hall",
+  "city": "Ventura",
+  "state": "CA",
+  "long": -119.330399,
+  "lat": 34.348801
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a39"
+  },
+  "Show_ID": 79,
+  "Performing": "Banda World - Live Banda X Perro Party (18+)",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Latin",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a3a"
+  },
+  "Show_ID": 80,
+  "Performing": "Club Decades Presents: Club 1984 - A New Wave Dance Party",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "21:30:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a3b"
+  },
+  "Show_ID": 81,
+  "Performing": "DJ Alex Solis",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a3c"
+  },
+  "Show_ID": 82,
+  "Performing": "Club 90s Presents: Pink Friday 2 Album Release Party",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Teragram Ballroom",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267076,
+  "lat": 34.051841
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a3d"
+  },
+  "Show_ID": 83,
+  "Performing": "Sos Booking Toy Drive - Day 2 Single Day Ticket",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "12:00:00",
+  "genre": "Metal",
+  "venue": "The Belasco",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2592392,
+  "lat": 34.04024506
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a3e"
+  },
+  "Show_ID": 84,
+  "Performing": "A Country Christmas Toy Drive",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "12:00:00",
+  "genre": "Undefined",
+  "venue": "Echoplex",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a3f"
+  },
+  "Show_ID": 85,
+  "Performing": "Los Angeles Philharmonic",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "Classical",
+  "venue": "Walt Disney Concert Hall",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.287804,
+  "lat": 34.003101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a40"
+  },
+  "Show_ID": 86,
+  "Performing": "Irish Christmas",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "14:00:00",
+  "genre": "World",
+  "venue": "Yucaipa Performing Arts Center Indoor Theatre",
+  "city": "Yucaipa",
+  "state": "CA",
+  "long": -117.038988,
+  "lat": 34.034569
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a41"
+  },
+  "Show_ID": 87,
+  "Performing": "Nochebuena",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "15:00:00",
+  "genre": "Other",
+  "venue": "The Soraya",
+  "city": "Northridge",
+  "state": "CA",
+  "long": -118.5,
+  "lat": 34.2439
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a42"
+  },
+  "Show_ID": 88,
+  "Performing": "Gay Men's Chorus of Los Angeles",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "15:30:00",
+  "genre": "Other",
+  "venue": "Saban Theatre",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "long": -118.382896,
+  "lat": 34.064899
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a43"
+  },
+  "Show_ID": 89,
+  "Performing": "Elf in Concert",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "16:00:00",
+  "genre": "Other",
+  "venue": "Peacock Theater - LA",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.266403,
+  "lat": 34.0397
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a44"
+  },
+  "Show_ID": 90,
+  "Performing": "Irish Christmas",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "World",
+  "venue": "Yucaipa Performing Arts Center Indoor Theatre",
+  "city": "Yucaipa",
+  "state": "CA",
+  "long": -117.038988,
+  "lat": 34.034569
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a45"
+  },
+  "Show_ID": 91,
+  "Performing": "Depeche Mode: Memento Mori Tour",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Crypto.com Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267253,
+  "lat": 34.043003
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a46"
+  },
+  "Show_ID": 92,
+  "Performing": "Tower of Power",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Blues",
+  "venue": "Cerritos Center",
+  "city": "Cerritos",
+  "state": "CA",
+  "long": -118.067596,
+  "lat": 33.867298
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a47"
+  },
+  "Show_ID": 93,
+  "Performing": "Bardo of Chicano Batman",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "R&B",
+  "venue": "Constellation Room",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.917493,
+  "lat": 33.699879
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a48"
+  },
+  "Show_ID": 94,
+  "Performing": "REASON - Off The Porch Tour with OG Dayv + more",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Echo",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.260108,
+  "lat": 34.077729
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a49"
+  },
+  "Show_ID": 95,
+  "Performing": "TV Girl",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a4a"
+  },
+  "Show_ID": 96,
+  "Performing": "Element Band",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "World",
+  "venue": "Alex Theatre",
+  "city": "Glendale",
+  "state": "CA",
+  "long": -118.25456238,
+  "lat": 34.14879227
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a4b"
+  },
+  "Show_ID": 97,
+  "Performing": "Gary Hoey",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Saint Rocke",
+  "city": "Hermosa Beach",
+  "state": "CA",
+  "long": -118.3964,
+  "lat": 33.865101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a4c"
+  },
+  "Show_ID": 98,
+  "Performing": "Domo Genesis",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Roxy Theatre-CA",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a4d"
+  },
+  "Show_ID": 99,
+  "Performing": "Highly Suspect",
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Troubadour",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a4e"
+  },
+  "Show_ID": 100,
+  "Performing": "Rachael and Vilray",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Troubadour",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a4f"
+  },
+  "Show_ID": 101,
+  "Performing": "Josh Radnor with Ari Tibi",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Community/Civic",
+  "venue": "The Echo",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.260108,
+  "lat": 34.077729
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a50"
+  },
+  "Show_ID": 102,
+  "Performing": "TV Girl",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a51"
+  },
+  "Show_ID": 103,
+  "Performing": "Katelyn Tarver",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a52"
+  },
+  "Show_ID": 104,
+  "Performing": "Glare",
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Alternative",
+  "venue": "Roxy Theatre-CA",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a53"
+  },
+  "Show_ID": 105,
+  "Performing": "Jay Electronica",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a54"
+  },
+  "Show_ID": 106,
+  "Performing": "Reason - Off The Porch Tour",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Constellation Room",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.917493,
+  "lat": 33.699879
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a55"
+  },
+  "Show_ID": 107,
+  "Performing": "Soulfill Music presents Jenny Oaks Baker & Family in Joy to the World!",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "New Age",
+  "venue": "Fred Kavli Theatre- B of A Performing Arts Center,Thousand Oaks",
+  "city": "Thousand Oaks",
+  "state": "CA",
+  "long": -118.849491,
+  "lat": 34.175071
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a56"
+  },
+  "Show_ID": 108,
+  "Performing": "Kaskade",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Dance/Electronic",
+  "venue": "Orpheum Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.25558624,
+  "lat": 34.04263554
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a57"
+  },
+  "Show_ID": 109,
+  "Performing": "X",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Roxy Theatre-CA",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a58"
+  },
+  "Show_ID": 110,
+  "Performing": "The Regrettes",
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "The Fonda Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.326897,
+  "lat": 34.0998
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a59"
+  },
+  "Show_ID": 111,
+  "Performing": "Glassjaw - Celebrating XXX Years Of Making Things",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a5a"
+  },
+  "Show_ID": 112,
+  "Performing": "A Conversation with Janelle Monáe",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "R&B",
+  "venue": "The GRAMMY Museum",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.264647,
+  "lat": 34.04441
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a5b"
+  },
+  "Show_ID": 113,
+  "Performing": "8th Annual California Country Christmas",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Country",
+  "venue": "House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.9229975,
+  "lat": 33.8095868
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a5c"
+  },
+  "Show_ID": 114,
+  "Performing": "Aqua",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "The Wiltern",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.30879207,
+  "lat": 34.06141494
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a5d"
+  },
+  "Show_ID": 115,
+  "Performing": "Kaskade",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Dance/Electronic",
+  "venue": "Orpheum Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.25558624,
+  "lat": 34.04263554
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a5e"
+  },
+  "Show_ID": 116,
+  "Performing": "Kerry Irish Productions presents An Irish Christmas",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "World",
+  "venue": "Scherr Forum- B of A Performing Arts Center, Thousand Oaks",
+  "city": "Thousand Oaks",
+  "state": "CA",
+  "long": -118.849491,
+  "lat": 34.175071
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a5f"
+  },
+  "Show_ID": 117,
+  "Performing": "X",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Roxy Theatre-CA",
+  "city": "West Hollywood",
+  "state": "CA",
+  "long": -118.3815,
+  "lat": 34.0942
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a60"
+  },
+  "Show_ID": 118,
+  "Performing": "Home Alone in Concert",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Walt Disney Concert Hall",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.287804,
+  "lat": 34.003101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a61"
+  },
+  "Show_ID": 119,
+  "Performing": "Chris Isaak It's Almost Christmas Tour",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Pechanga Resort Casino",
+  "city": "Temecula",
+  "state": "CA",
+  "long": -117.1059,
+  "lat": 33.455577
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a62"
+  },
+  "Show_ID": 120,
+  "Performing": "The Regrettes",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "The Fonda Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.326897,
+  "lat": 34.0998
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a63"
+  },
+  "Show_ID": 121,
+  "Performing": "What The Sound Presents: More Fatter",
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "time": "21:30:00",
+  "genre": "Rock",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a64"
+  },
+  "Show_ID": 122,
+  "Performing": "Glassjaw - Celebrating XXX Years of Making Things - SOLD OUT",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "Echoplex",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a65"
+  },
+  "Show_ID": 123,
+  "Performing": "Jenny Oaks Baker w/ Joy to the World: Messiah & More",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Other",
+  "venue": "Cerritos Center",
+  "city": "Cerritos",
+  "state": "CA",
+  "long": -118.067596,
+  "lat": 33.867298
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a66"
+  },
+  "Show_ID": 124,
+  "Performing": "Black Sabbitch",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Constellation Room",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.917493,
+  "lat": 33.699879
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a67"
+  },
+  "Show_ID": 125,
+  "Performing": "Jay Electronica",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Belasco",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2592392,
+  "lat": 34.04024506
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a68"
+  },
+  "Show_ID": 126,
+  "Performing": "Baby Stone Gorillas: Merry Bhrismas Show",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Echo",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.260108,
+  "lat": 34.077729
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a69"
+  },
+  "Show_ID": 127,
+  "Performing": "Blueface",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a6a"
+  },
+  "Show_ID": 128,
+  "Performing": "Kaskade",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Dance/Electronic",
+  "venue": "Orpheum Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.25558624,
+  "lat": 34.04263554
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a6b"
+  },
+  "Show_ID": 129,
+  "Performing": "Kerry Irish Productions presents An Irish Christmas",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "World",
+  "venue": "Scherr Forum- B of A Performing Arts Center, Thousand Oaks",
+  "city": "Thousand Oaks",
+  "state": "CA",
+  "long": -118.849491,
+  "lat": 34.175071
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a6c"
+  },
+  "Show_ID": 130,
+  "Performing": "George Clinton w/ Parliament Funkadelic",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "The Fox Theater-Pomona",
+  "city": "Pomona",
+  "state": "CA",
+  "long": -117.754799,
+  "lat": 34.041901
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a6d"
+  },
+  "Show_ID": 131,
+  "Performing": "Home Alone in Concert",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Walt Disney Concert Hall",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.287804,
+  "lat": 34.003101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a6e"
+  },
+  "Show_ID": 132,
+  "Performing": "The Regrettes",
+  "date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "The Fonda Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.326897,
+  "lat": 34.0998
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a6f"
+  },
+  "Show_ID": 133,
+  "Performing": "Breakthru Entertainment",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Parish at House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.912474,
+  "lat": 33.806533
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a70"
+  },
+  "Show_ID": 134,
+  "Performing": "Men Without Hats & Strangelove - The DEPECHE MODE Experience",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Pop",
+  "venue": "House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.9229975,
+  "lat": 33.8095868
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a71"
+  },
+  "Show_ID": 135,
+  "Performing": "Yeshua",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "City National Grove of Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.88624041,
+  "lat": 33.80303485
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a72"
+  },
+  "Show_ID": 136,
+  "Performing": "Living Legends & Brother Ali w/ Guests: How The Grouch Stole Xmas Tour",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a73"
+  },
+  "Show_ID": 137,
+  "Performing": "Wild Records presents LOOKOUT - a Rock and Roll Extravaganza",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Other",
+  "venue": "Alex Theatre",
+  "city": "Glendale",
+  "state": "CA",
+  "long": -118.25456238,
+  "lat": 34.14879227
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a74"
+  },
+  "Show_ID": 138,
+  "Performing": "Side Traccs",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a75"
+  },
+  "Show_ID": 139,
+  "Performing": "Anita Baker - The Songstress",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "R&B",
+  "venue": "Crypto.com Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267253,
+  "lat": 34.043003
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a76"
+  },
+  "Show_ID": 140,
+  "Performing": "Home Alone in Concert",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Walt Disney Concert Hall",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.287804,
+  "lat": 34.003101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a77"
+  },
+  "Show_ID": 141,
+  "Performing": "Drumline Live",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Miscellaneous",
+  "venue": "Cerritos Center",
+  "city": "Cerritos",
+  "state": "CA",
+  "long": -118.067596,
+  "lat": 33.867298
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a78"
+  },
+  "Show_ID": 142,
+  "Performing": "Broadway Rave",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Teragram Ballroom",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267076,
+  "lat": 34.051841
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a79"
+  },
+  "Show_ID": 143,
+  "Performing": "BSideLA - 18+",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "Echoplex",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a7a"
+  },
+  "Show_ID": 144,
+  "Performing": "Ragheb Alama",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "World",
+  "venue": "Pechanga Resort Casino",
+  "city": "Temecula",
+  "state": "CA",
+  "long": -117.1059,
+  "lat": 33.455577
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a7b"
+  },
+  "Show_ID": 145,
+  "Performing": "DJ Honey",
+  "date": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a7c"
+  },
+  "Show_ID": 146,
+  "Performing": "Los Amigos",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a7d"
+  },
+  "Show_ID": 147,
+  "Performing": "Zoe Osama",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a7e"
+  },
+  "Show_ID": 148,
+  "Performing": "Yeshua",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "City National Grove of Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.88624041,
+  "lat": 33.80303485
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a7f"
+  },
+  "Show_ID": 149,
+  "Performing": "The Vandals 28th Annual Christmas Formal",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.9229975,
+  "lat": 33.8095868
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a80"
+  },
+  "Show_ID": 150,
+  "Performing": "Living Legends w/ Brother Ali",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Fonda Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.326897,
+  "lat": 34.0998
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a81"
+  },
+  "Show_ID": 151,
+  "Performing": "Arturo Sandoval",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "Walt Disney Concert Hall",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.287804,
+  "lat": 34.003101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a82"
+  },
+  "Show_ID": 152,
+  "Performing": "Katharine McPhee & Take 6 Holiday Concert w/ Pacific Jazz Orchestra",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Jazz",
+  "venue": "Alex Theatre",
+  "city": "Glendale",
+  "state": "CA",
+  "long": -118.25456238,
+  "lat": 34.14879227
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a83"
+  },
+  "Show_ID": 153,
+  "Performing": "Boogie Knights",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Pop",
+  "venue": "Canyon Club-CA",
+  "city": "Agoura Hills",
+  "state": "CA",
+  "long": -118.762497,
+  "lat": 34.140301
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a84"
+  },
+  "Show_ID": 154,
+  "Performing": "Parliament Funkadelic w/ George Clinton",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "R&B",
+  "venue": "Ventura Music Hall",
+  "city": "Ventura",
+  "state": "CA",
+  "long": -119.330399,
+  "lat": 34.348801
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a85"
+  },
+  "Show_ID": 155,
+  "Performing": "DJ Johnny",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Other",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a86"
+  },
+  "Show_ID": 156,
+  "Performing": "Grinch Rave (18+ Only)",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Regent Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.24799,
+  "lat": 34.0473
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a87"
+  },
+  "Show_ID": 157,
+  "Performing": "The Mark Wood TSO Experience",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "City National Grove of Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.88624041,
+  "lat": 33.80303485
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a88"
+  },
+  "Show_ID": 158,
+  "Performing": "TOArts & Nederlander present Straight No Chaser - Sleighin' It Tour",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Rock",
+  "venue": "Fred Kavli Theatre- B of A Performing Arts Center,Thousand Oaks",
+  "city": "Thousand Oaks",
+  "state": "CA",
+  "long": -118.849491,
+  "lat": 34.175071
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a89"
+  },
+  "Show_ID": 159,
+  "Performing": "Heart",
+  "date": {
+    "$date": "2023-12-27T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Yaamava' Resort & Casino at San Manuel",
+  "city": "Highland",
+  "state": "CA",
+  "long": -117.153198,
+  "lat": 34.1353
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a8a"
+  },
+  "Show_ID": 160,
+  "Performing": "Yachtley Crew",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Undefined",
+  "venue": "City National Grove of Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.88624041,
+  "lat": 33.80303485
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a8b"
+  },
+  "Show_ID": 161,
+  "Performing": "Heart",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Acrisure Arena at Greater Palm Springs",
+  "city": "Palm Desert",
+  "state": "CA",
+  "long": -116.542747,
+  "lat": 33.825315
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a8c"
+  },
+  "Show_ID": 162,
+  "Performing": "Enlight Presents : Pre-nye (the Last Thursday Of The Year)",
+  "date": {
+    "$date": "2023-12-28T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Regent Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.24799,
+  "lat": 34.0473
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a8d"
+  },
+  "Show_ID": 163,
+  "Performing": "Caliente Band 805",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a8e"
+  },
+  "Show_ID": 164,
+  "Performing": "Pretty Pape$",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Parish at House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.912474,
+  "lat": 33.806533
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a8f"
+  },
+  "Show_ID": 165,
+  "Performing": "Pretty But Wicked + KCRW pres : Pearl & The Oysters w/ Vinyl Williams",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Echoplex",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a90"
+  },
+  "Show_ID": 166,
+  "Performing": "Black Lips",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Constellation Room",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.917493,
+  "lat": 33.699879
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a91"
+  },
+  "Show_ID": 167,
+  "Performing": "Baby Smoove",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Fonda Theatre",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.326897,
+  "lat": 34.0998
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a92"
+  },
+  "Show_ID": 168,
+  "Performing": "The Windbreakers",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "Saint Rocke",
+  "city": "Hermosa Beach",
+  "state": "CA",
+  "long": -118.3964,
+  "lat": 33.865101
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a93"
+  },
+  "Show_ID": 169,
+  "Performing": "Straight No Chaser",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Pop",
+  "venue": "Cerritos Center",
+  "city": "Cerritos",
+  "state": "CA",
+  "long": -118.067596,
+  "lat": 33.867298
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a94"
+  },
+  "Show_ID": 170,
+  "Performing": "Emo Night Brooklyn - Feat. Forrest Kline of Hellogoodbye (18+)",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "The Observatory",
+  "city": "Santa Ana",
+  "state": "CA",
+  "long": -117.9175717,
+  "lat": 33.6997648
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a95"
+  },
+  "Show_ID": 171,
+  "Performing": "Jerry Harrison & Adrian Belew: REMAIN IN LIGHT",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Blues",
+  "venue": "City National Grove of Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.88624041,
+  "lat": 33.80303485
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a96"
+  },
+  "Show_ID": 172,
+  "Performing": "3TEETH",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "Teragram Ballroom",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.267076,
+  "lat": 34.051841
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a97"
+  },
+  "Show_ID": 173,
+  "Performing": "Mi Banda El Mexicano with Special Guest: La Sonora Dinamita, + More!",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Latin",
+  "venue": "The Regent Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.24799,
+  "lat": 34.0473
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a98"
+  },
+  "Show_ID": 174,
+  "Performing": "Led Zepagain",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Rock",
+  "venue": "Canyon Club-CA",
+  "city": "Agoura Hills",
+  "state": "CA",
+  "long": -118.762497,
+  "lat": 34.140301
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a99"
+  },
+  "Show_ID": 175,
+  "Performing": "BAAB w/ Solid Gold",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "21:30:00",
+  "genre": "Rock",
+  "venue": "The Moroccan Lounge",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.23365,
+  "lat": 34.04898
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a9a"
+  },
+  "Show_ID": 176,
+  "Performing": "DJ Party Pack",
+  "date": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a9b"
+  },
+  "Show_ID": 177,
+  "Performing": "Forever Midnight LA",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Undefined",
+  "venue": "Los Angeles Convention Center",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2698822,
+  "lat": 34.0431298
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a9c"
+  },
+  "Show_ID": 178,
+  "Performing": "COUNTDOWN",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "NOS Events Center",
+  "city": "San Bernardino",
+  "state": "CA",
+  "long": -117.291653,
+  "lat": 34.089696
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a9d"
+  },
+  "Show_ID": 179,
+  "Performing": "Dayseeker",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "18:00:00",
+  "genre": "Rock",
+  "venue": "House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.9229975,
+  "lat": 33.8095868
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a9e"
+  },
+  "Show_ID": 180,
+  "Performing": "BreakThru Entertainment Presents",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "18:30:00",
+  "genre": "Rock",
+  "venue": "The Parish at House of Blues Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.912474,
+  "lat": 33.806533
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0a9f"
+  },
+  "Show_ID": 181,
+  "Performing": "NDR CVR",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Rock",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa0"
+  },
+  "Show_ID": 182,
+  "Performing": "The Roots",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:00:00",
+  "genre": "Hip-Hop/Rap",
+  "venue": "The Wiltern",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.30879207,
+  "lat": 34.06141494
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa1"
+  },
+  "Show_ID": 183,
+  "Performing": "KC And The Sunshine Band",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "Pop",
+  "venue": "Segerstrom Center for the Arts-Segerstrom Hall",
+  "city": "Costa Mesa",
+  "state": "CA",
+  "long": -117.908699,
+  "lat": 33.6791
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa2"
+  },
+  "Show_ID": 184,
+  "Performing": "Motown Explosion and Soul Revue",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "19:30:00",
+  "genre": "R&B",
+  "venue": "Alex Theatre",
+  "city": "Glendale",
+  "state": "CA",
+  "long": -118.25456238,
+  "lat": 34.14879227
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa3"
+  },
+  "Show_ID": 185,
+  "Performing": "The Red Pears",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Other",
+  "venue": "The Novo by Microsoft",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.266403,
+  "lat": 34.0397
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa4"
+  },
+  "Show_ID": 186,
+  "Performing": "Something Corporate",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "20:00:00",
+  "genre": "Rock",
+  "venue": "City National Grove of Anaheim",
+  "city": "Anaheim",
+  "state": "CA",
+  "long": -117.88624041,
+  "lat": 33.80303485
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa5"
+  },
+  "Show_ID": 187,
+  "Performing": "Prince Again - A tribute to Prince",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Other",
+  "venue": "Canyon Club-CA",
+  "city": "Agoura Hills",
+  "state": "CA",
+  "long": -118.762497,
+  "lat": 34.140301
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa6"
+  },
+  "Show_ID": 188,
+  "Performing": "Electric Feels: Indie Dance Party - 21+",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "21:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Echoplex",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.2606316,
+  "lat": 34.0775847
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa7"
+  },
+  "Show_ID": 189,
+  "Performing": "DJ Atre",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "Copper Blues Oxnard Resturant",
+  "city": "Oxnard",
+  "state": "CA",
+  "long": -119.176274,
+  "lat": 34.240229
+},
+{
+  "_id": {
+    "$oid": "657b398c95240331da2a0aa8"
+  },
+  "Show_ID": 190,
+  "Performing": "Scam and Jam (21+)",
+  "date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "time": "22:00:00",
+  "genre": "Dance/Electronic",
+  "venue": "The Regent Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "long": -118.24799,
+  "lat": 34.0473
+}]
