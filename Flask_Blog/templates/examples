@@ -1,0 +1,25 @@
+<!DOCTYPE html> <!--unsure of this html page, but will include since everything works...-->
+<html>
+<head>
+  <title>Home Page</title>
+</head>
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    ul {list-style: none;}
+    ul {text-align: center;}
+</style>
+<body>
+
+<h1><center>Music Calendar</center></h1>
+<p>Please select your city</p>
+<ul>
+    <li>New York</li>
+    <li>Washington D.C.</li>
+    <li>Austin</li>
+    <li>Nashville</li>
+    <li>Atlanta</li>
+    <li>Los Angeles</li>
+</ul>
+</body>
+</html>

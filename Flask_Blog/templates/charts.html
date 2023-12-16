@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Music Genre Pie Charts</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+<!--can we just really quickly make like 6 pie charts like this-->
+<div id="chart1"></div>
+<div id="chart2"></div>
+<div id="chart3"></div>
+<div id="chart4"></div>
+<div id="chart5"></div>
+<div id="chart6"></div>
+
+<script>
+  // you can only use "//" if youre in script, not in html
+  //lets make some pies
+  function createPieChart(elementId, data) {
+    const labels = data.map(item => item.genre);
+    const values = data.map(item => item.count);
+
+    const pieData = [{
+      values: values,
+      labels: labels,
+      type: 'pie'
+    }];
+    Plotly.newPlot(elementId, pieData, layout);
+  }
+
+  //URLs for JSON data
+  const jsonDataUrls = [
+    "https://raw.githubusercontent.com/vincehsanchez/project3-music-app/main/cities_for_java/atl_java.json",
+    "https://raw.githubusercontent.com/vincehsanchez/project3-music-app/main/cities_for_java/aus_java.json",
+    "https://raw.githubusercontent.com/vincehsanchez/project3-music-app/main/cities_for_java/dc_java.json",
+    "https://raw.githubusercontent.com/vincehsanchez/project3-music-app/main/cities_for_java/la_java.json",
+    "https://raw.githubusercontent.com/vincehsanchez/project3-music-app/main/cities_for_java/nash_java.json",
+    "https://raw.githubusercontent.com/vincehsanchez/project3-music-app/main/cities_for_java/ny_java.json"
+  ];
+
+  //lets hope this works
+  jsonDataUrls.forEach((url, index) => {
+    fetch(url)
+      .then(response => response.json())
+      .then(data => createPieChart(`chart${index + 1}`, data))
+      .catch(error => console.error(`Error fetching data from ${url}:`, error));//are these lines needed? if so, why?
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>New York City, NY Shows</title>
+    <div style="text-align: center;">
+    <img width="400" src="https://static.vecteezy.com/system/resources/previews/004/849/450/non_2x/new-york-skyline-silhouette-vector.jpg">
+    </div>
+    <link rel="stylesheet" href="./static/css/tabulator.min.css" />
+    <script type="text/javascript" src="./static/js/tabulator.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!--it seems a little messy in here, but everything works...-->
+  </head>
+  <body>
+    <div id="example-table"></div>
+    <div id="myDiv"></div>
+    <script>
+      //URL for JSON data
+      const nycShowsData =
+        "https://raw.githubusercontent.com/vincehsanchez/project3-music-app/main/cities_for_java/ny_java_cleaned.json";
+      //function to format time with parsing since time was in military time
+      function formatTime(cell,formatterParams,onRendered) {
+        const time = cell.getValue();
+        const parsedTime = new Date(`2000-01-01T${time}`);
+        const formattedTime = parsedTime.toLocaleTimeString([],{hour: 'numeric', minute: '2-digit', hour12: true});
+        return formattedTime;
+      }
+      //function to format date since date was a little unreadable
+      function formatDate(cell,formatterParams,onRendered) {
+        const dateObject = cell.getValue();
+        const parsedDate = new Date(dateObject.$date);
+        const formattedDate = parsedDate.toLocaleDateString();
+        return formattedDate;
+      }
+      //initialize table with empty data
+      var table = new Tabulator("#example-table", {
+        data: [], //start with an empty array
+        layout: "fitColumns",//need to remove true so that the table doesnt look unfilled.
+        columns: [//only need some columns
+          { title: "Performing", field: "Performing", headerFilter: "input" },
+          { title: "Genre", field: "genre", headerFilter: "input" },
+          { title: "Date", field: "date", headerFilter: "input", formatter: formatDate },
+          { title: "Time", field: "time", headerFilter: "input", formatter: formatTime },
+          { title: "Venue", field: "venue", headerFilter: "input" },
+          { title: "State", field: "state", headerFilter: "input" },
+          { title: "City", field: "city", headerFilter: "input" },
+        ],
+      });//something here i added and the search part finally worked, or it seemed like it...
+      //fetch JSON data using AJAX
+      fetch(nycShowsData)
+        .then((response) => response.json())
+        .then((data) => {
+          //update the table data with the fetched data
+          table.setData(data);
+          //we need to count the genre for pie chart
+          let genreCount = {};
+          data.forEach((show) => {
+            if (genreCount[show.genre]) {
+              genreCount[show.genre]++;
+            } else {
+              genreCount[show.genre] = 1;
+            }
+          });//maybe its the vscode horizontal lines, but these nested functions are making me nervous...
+          //stooff for pie chart
+          let pieData = [{
+            //still need to label chart
+            values: Object.values(genreCount),
+            labels: Object.keys(genreCount),
+            type: 'pie'
+          }];
+          //make pie chart
+          Plotly.newPlot('myDiv', pieData);
+        })
+        .catch((error) => console.error("Error fetching data:", error)); //do we need this
+    </script>
+  </body>
+</html>
