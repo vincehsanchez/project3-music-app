@@ -1,9 +1,7 @@
 # Music Calendar project3
 
 ## Purpose
-Creating a weekly calendar of music for each of the “known” cities that would help anyone interested, that is residing or
-
-visiting, to discover new music and help support local artists/venues.
+Creating a weekly calendar of music for each of the “known” cities that would help anyone interested, that is residing or visiting, to discover new music and help support local artists/venues.
 
 ## Benefits and Outcomes
 - Helping users discover new music and
