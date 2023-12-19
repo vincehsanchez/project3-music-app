@@ -18,14 +18,22 @@ connection amongst music lovers
 - Generating revenue and feedback for the
 website/app developers and sponsors
 
-# Data and Data Delivery
- - PgAdmin
+## Data and Data Delivery
+- PgAdmin
 - VS Code
 - MongoDB
 - Flask
 - Tabulator (JavaScript Library)
 - Ticketmaster API
 - Plotly
+
+## Instructions
+1. Download "Flask_Blog" Folder
+2. Open "Flask_Blog" Folder in VS Code
+3. Run "flaskblog.py" in enviornment where flask, pymongo, json, and bson are installed
+4. "CMD" key + click on flask link provided (if all runs and is installed correctly)
+5. Navigate between cities from homepage and enjoy!
+
 
 
 - on my mac i make sure i have my conda enviornment up in vscode, then run flask.
