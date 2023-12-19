@@ -32,7 +32,10 @@ website/app developers and sponsors
 2. Open "Flask_Blog" Folder in VS Code
 3. Run "flaskblog.py" in enviornment where flask, pymongo, json, and bson are installed
 4. "CMD" key + click on flask link provided (if all runs and is installed correctly)
-5. Navigate between cities from homepage and enjoy!
+   
+   ![Screenshot 2023-12-19 at 12 56 38 PM](https://github.com/vincehsanchez/project3-music-app/assets/141890646/cb80eeb4-c302-480c-839d-28e30ff7ced9)
+
+6. Navigate between cities from homepage and enjoy!
 
 
 ### Notes to consider:
