@@ -18,6 +18,16 @@ connection amongst music lovers
 - Generating revenue and feedback for the
 website/app developers and sponsors
 
+# Data and Data Delivery
+ - PgAdmin
+- VS Code
+- MongoDB
+- Flask
+- Tabulator (JavaScript Library)
+- Ticketmaster API
+- Plotly
+
+
 - on my mac i make sure i have my conda enviornment up in vscode, then run flask.
 - When in VScode make sure you open the whole flask blog folder and then run flask.
 - if you change anything make sure to save first then restart/refresh flask (there is 
