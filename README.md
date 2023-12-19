@@ -37,6 +37,8 @@ website/app developers and sponsors
 
 6. Navigate between cities from homepage and enjoy!
 
+   ![Screenshot 2023-12-19 at 12 56 59 PM](https://github.com/vincehsanchez/project3-music-app/assets/141890646/7fe8b22d-968b-4ce6-8474-18a893da4452)
+
 
 ### Notes to consider:
 - On my worksation, my conda enviornment is up in vscode, so I can run flask.
