@@ -33,7 +33,7 @@
       //initialize table with empty data
       var table = new Tabulator("#example-table", {
         data: [], // start with an empty array
-        layout: "fitColumns", //need to remove true so that the table doesnt look unfilled.
+        layout: "fitColumns",//need to remove true so that the table doesnt look unfilled.
         columns: [//only need some columns
           { title: "Performing", field: "Performing", headerFilter: "input" },
           { title: "Genre", field: "genre", headerFilter: "input" },
@@ -44,32 +44,51 @@
           { title: "City", field: "city", headerFilter: "input" },
         ],
       });//something here i added and the search part finally worked, or it seemed like it...
-      //fetch JSON data using AJAX
-      fetch(dcShowsData)
-        .then((response) => response.json())
-        .then((data) => {
-          //update the table data with the fetched data
-          table.setData(data);
-          //we need to count the genre for pie chart
-          let genreCount = {};
-          data.forEach((show) => {
-            if (genreCount[show.genre]) {
-              genreCount[show.genre]++;
-            } else {
-              genreCount[show.genre] = 1;
-            }
-          });//maybe its the vscode horizontal lines, but these nested functions are making me nervous...
-          //stooff for pie chart
-          let pieData = [{
-            //still need to label chart
-            values: Object.values(genreCount),
-            labels: Object.keys(genreCount),
-            type: 'pie'
-          }];
-          //make pie chart
-          Plotly.newPlot('myDiv', pieData);
-        })
-        .catch((error) => console.error("Error fetching data:", error)); //do we need this
-    </script>
+  //fetch JSON data using AJAX
+  fetch(dcShowsData)
+    .then((response) => response.json())
+    .then((data) => {
+      //update the table data with the fetched data
+      table.setData(data);
+      //we need to count the genre for pie chart
+      let genreCount = {};
+      let venueCount = {}; //this is to count venues
+      data.forEach((show) => {
+        if (genreCount[show.genre]) {
+          genreCount[show.genre]++;
+        } else {
+          genreCount[show.genre] = 1;
+        }
+        //lets count venues
+        if (venueCount[show.venue]) {
+          venueCount[show.venue]++;
+        } else {
+          venueCount[show.venue] = 1;
+        }
+      });//maybe its the vscode horizontal lines, but these nested functions are making me nervous...
+      //stooff for pie chart
+      let pieData = [{
+        values: Object.values(genreCount),
+        labels: Object.keys(genreCount),
+        type: 'pie'
+      }];
+      //stooff for bar chart
+      let barData = [{
+        x: Object.keys(venueCount),
+        y: Object.values(venueCount),
+        type: 'bar'
+      }];
+      //so this is where we should label...
+      //make bar chart
+      Plotly.newPlot('myDiv', pieData, {
+        title: 'December 2023 Genre Breakdown'
+      });
+      //make pie chart
+      Plotly.newPlot('myDivBar', barData, {
+        title: 'December 2023 Number of Shows Booked at Venues'
+      });
+    }) //syntax looks fine so far (matches atlanta)
+    .catch((error) => console.error("Error fetching data:", error)); //do we need this
+</script>
   </body>
 </html>

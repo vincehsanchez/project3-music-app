@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Atlanta, Georgia Shows</title>
+    <title>Atlanta, GA Shows</title>
     <div style="text-align: center;">
     <img width="400" src="https://www.shutterstock.com/image-vector/atlanta-city-skyline-silhouette-background-600nw-480786853.jpg">
     </div>
     <link rel="stylesheet" href="./static/css/tabulator.min.css" />
     <script type="text/javascript" src="./static/js/tabulator.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!--it seems a little messy in here, but everything works...-->
   </head>
   <body>
     <div id="example-table"></div>
     <div id="myDivBar"></div><div id="myDiv"></div>
+    <!--^^Remember, when you have more than one chart and you are calling them you need ot make sure they are included.^^-->
     <script>
       //URL for JSON data
       const atlShowsData =

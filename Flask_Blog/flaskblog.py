@@ -37,7 +37,7 @@ def nashville():
 
 @app.route("/austin")
 def austin():
-    return render_template('austinFix.html')
+    return render_template('austin.html')
 
 
 if __name__ == '__main__':
