@@ -31,7 +31,7 @@ website/app developers and sponsors
   program running the backbone of the website
 - Tabulator:
   
-  Javascript library that helps us show our data and allows user manipulation on website
+  JavaScript library that helps us show our data and allows user manipulation on website
 - Ticketmaster API:
   
   where we got our music event data from for each city/region for the month of December 2023
@@ -40,7 +40,7 @@ website/app developers and sponsors
   helped us show genre distribution and show count per venue to the user for the December 2023
 - D3:
   
-  Javascript library that allowed us to call our json file from github to show our data on website
+  JavaScript library that allowed us to call our json file from github to show our data on website
 - Github:
   
   allowed a space to store/hold, non-locally, our json files to be used as json objects
