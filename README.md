@@ -17,13 +17,33 @@ connection amongst music lovers
 website/app developers and sponsors
 
 ## Data and Data Delivery
-- PgAdmin
-- VS Code
-- MongoDB
-- Flask
-- Tabulator (JavaScript Library)
-- Ticketmaster API
-- Plotly
+- PgAdmin:
+  
+  helped us decide whether we we needed an SQL or not
+- VS Code:
+  
+  helped with majority of code for website
+- MongoDB:
+  
+  NoSQL that helped in exporting our data into a json file
+- Flask:
+  
+  program running the backbone of the website
+- Tabulator:
+  
+  Javascript library that helps us show our data and allows user manipulation on website
+- Ticketmaster API:
+  
+  where we got our music event data from for each city/region for the month of December 2023
+- Plotly:
+  
+  helped us show genre distribution and show count per venue to the user for the December 2023
+- D3:
+  
+  Javascript library that allowed us to call our json file from github to show our data on website
+- Github:
+  
+  allowed a space to store/hold, non-locally, our json files to be used as json objects
 
 ## Instructions
 1. Download "Flask_Blog" Folder
